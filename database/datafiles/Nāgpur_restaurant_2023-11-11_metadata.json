@@ -1,0 +1,371 @@
+{
+  "city": "N\u0101gpur",
+  "city_ascii": "Nagpur",
+  "latitude": "21.1497",
+  "longitude": "79.0806",
+  "country": "India",
+  "country_iso2": "IN",
+  "country_iso3": "IND",
+  "admin_name": "Mah\u0101r\u0101shtra",
+  "capital": "admin",
+  "population": "2405665",
+  "places_city": [
+    {
+      "place_name": "SWAGSTAY HOTEL WOODLANDS",
+      "map_reflink": "https://maps.google.com/maps/contrib/104594501723821298005",
+      "map_nametag": "HOTEL WOODLANDS",
+      "photo_reference": "AcJnMuGwL0F0KykgggvcZGOR18adzuhNP0K4KvRcjYUtOc2qC9vcNMfigS_bacvii6G-4_upRuFDV9mHbtJJr_HuzMPe8DP0_9hiLZVz3d1F_of6E_NwJuQJ91wtqka2ylrfwZX9-0KPmi3mmrGaCJev8VkG43MV0-Y--NZPnRv4KzR7u2fF",
+      "latitude_google": 21.1515206,
+      "longitude_google": 79.0981482,
+      "google_place_id": "ChIJ-9veAMbA1DsRguFtNBLzsKo",
+      "google_place_rating": 3.1,
+      "google_user_rating": 782,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Geetanjali square, Central Avenue, Gandhibagh, Nagpur"
+    },
+    {
+      "place_name": "JK Rooms 102 Loharkar Family Hotel",
+      "map_reflink": "https://maps.google.com/maps/contrib/100960957325264892238",
+      "map_nametag": "JK Rooms 102 Loharkar Family Hotel",
+      "photo_reference": "AcJnMuHQXmw4l7tlEmpGPfE8lxHe3SRJy6IOK-p66pziSFWqN-G2sfxfPYiw2-W8xtMbT8VgZalmm5rd53dPBw0kLTAgbGqXN-7rMwCTN3hxNOr1UqXa05Xnc0-SsvtcEdLFMUSWdVFQrE9--cLnu7r9ddOyBJgF1YFFj_DGjcaPt2yVTV8q",
+      "latitude_google": 21.1401483,
+      "longitude_google": 79.0854131,
+      "google_place_id": "ChIJufA_xZXA1DsROq5Icx5cobw",
+      "google_place_rating": 4,
+      "google_user_rating": 51,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "beside Platinum Hospital, House No:-428, beside Platinum Hospital, Sitabuldi, Nagpur"
+    },
+    {
+      "place_name": "Naivedhyam Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/112097605294238488047",
+      "map_nametag": "Rajat Kumar Jain",
+      "photo_reference": "AcJnMuF0Vs6cKeqZmZVWWt31NNfmNtNAZoCWdHdMTSBk9YMRXpwmYh602GM7a10c_3M5ebYbcVi6QpmM6I3stXarsEyNY5_GJ6uxAimRneNfjCs8AQTGhuuBmbyaa98m2TXsnjidu-_p5QZZtGtChAbccKkLiaDL1gI84hS25HIOXOrPJEXu",
+      "latitude_google": 21.1410711,
+      "longitude_google": 79.08067869999999,
+      "google_place_id": "ChIJ0bj4EcDA1DsRSfrvJgtAAGw",
+      "google_place_rating": 4.2,
+      "google_user_rating": 3441,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "198-200 Rani Jhansi Square"
+    },
+    {},
+    {
+      "place_name": "Haldiram's",
+      "map_reflink": "https://maps.google.com/maps/contrib/106854058656101277970",
+      "map_nametag": "chandra prakash",
+      "photo_reference": "AcJnMuHvG25cDFDJi0tGO80OK7tOTy_4v-tiVqXLbnzVQ6lQsgtqQ2pOWIHWbmguh0Zu40_3i2yvgnHp_POrEL6EKCSQN6tlJGE8mTI2K6f4mMVn59d5ISkK8akLXp7JzBZE1JJMBLLZ5adKUi5gmQYUMbD_jBXRzR1GeRYvEVLVUyIE-C8v",
+      "latitude_google": 21.1635555,
+      "longitude_google": 79.08013729999999,
+      "google_place_id": "ChIJ0bj4EcDA1DsRl0jIGmi_iy4",
+      "google_place_rating": 4.3,
+      "google_user_rating": 13130,
+      "place_types": [
+        "restaurant",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Unit No.60, Ground Floor, Anjuman Complex, near Anjuman Polytechnic, Mangalwari Bazar Road, Sadar, Nagpur"
+    },
+    {
+      "place_name": "Checkers Restaurant VCA",
+      "map_reflink": "https://maps.google.com/maps/contrib/115796700114337127916",
+      "map_nametag": "giridhar bhandi",
+      "photo_reference": "AcJnMuEyAazXy-0aEQ_WF9SfHvSuUdMrx9sqR2X-vK6HnARWLAziv6Z29CbD9rq04y-rv0_aztKBmVUCg2rHJOQYjB6MKEAGxYcQAcPcq9Hj45LMEO1uA17d6gGYZwccBN3uoFnO_SS2nYBuf09FQayAoZPXwmRaaWKMdXYaoaZN4VXLVomC",
+      "latitude_google": 21.15785959999999,
+      "longitude_google": 79.0766613,
+      "google_place_id": "ChIJAQAAwPPA1DsR1_CqgGrlvU4",
+      "google_place_rating": 4.2,
+      "google_user_rating": 5980,
+      "place_types": [
+        "restaurant",
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "near Liberty Cinema C, 23/24, VCA Ground, near Liberty Cinema C, K Naidu Road, Civil Lines, Nagpur"
+    },
+    {
+      "place_name": "Sanjha Chullah Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/100120171624205859725",
+      "map_nametag": "Sanjha Chullah Restaurant",
+      "photo_reference": "AcJnMuGjWPIM5u4feWe4c2sBeE6Ww7qHBufLBTLl783YT8-WeQwZSUTxG26U5P7qABXnD2K-r5GYbFeKA4EXFeye-iCOafVQx3q6cIAmBU2rreZFsz6F7NXzHx7dze_--ugYi-6Kwkxr_xH6tLV350Bt45nFK_yQISRL0R7DaYutMVXu0OwJ",
+      "latitude_google": 21.15954109999999,
+      "longitude_google": 79.0786887,
+      "google_place_id": "ChIJ0bj4EcDA1DsRE3M-0DyuQn0",
+      "google_place_rating": 3.9,
+      "google_user_rating": 3651,
+      "place_types": [
+        "bar",
+        "night_club",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Near Saraf chambers, next to fidvi tower, Mount Road, Sadar, Nagpur"
+    },
+    {
+      "place_name": "Gangour Restaurant Nagpur",
+      "map_reflink": "https://maps.google.com/maps/contrib/118371327054099643325",
+      "map_nametag": "Kanchan Dongare",
+      "photo_reference": "AcJnMuFsGvCx0wUc11XlNjGneaQJff6WvpNhXHig_ivTQ40Swq9bJ6vkDZwUugxiLqqaNc9xBnTJcgXdpX_vLgszABS3f79kZwDUxW-A7UlqbULcbTMIyYzJMokJ2QdIXs4ZB_hS3hSvA85n9Zr50X98wakiGBXBe5eu5-ZC-CggqEy_VZU",
+      "latitude_google": 21.1424301,
+      "longitude_google": 79.0816067,
+      "google_place_id": "ChIJVVVVxZTA1DsRqI97fvaDicQ",
+      "google_place_rating": 3.8,
+      "google_user_rating": 126,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Gangour Restaurant, 31, Maharashtra State Highway 255, Sitabuldi, Nagpur"
+    },
+    {
+      "place_name": "Indian Coffee House Co-operative Society",
+      "map_reflink": "https://maps.google.com/maps/contrib/104421903165157211062",
+      "map_nametag": "Soumya Chakraborty",
+      "photo_reference": "AcJnMuHEpOlKmempCVzeYz74KlIEoQcRoF7PBspILGzNaNkgT570ocZ7krK9623dLtRawh1UzOSGliVJh_Xf8uBpwPdx5cr2IAFTrC5QHNmtMmKFU4QpL8uMOzo-cYAsu0L6U68X3zcE-9KP8cwNicnz8VJzgPEuxPParsY3JuT6mlqJOypW",
+      "latitude_google": 21.1588683,
+      "longitude_google": 79.0797652,
+      "google_place_id": "ChIJizbkh3m_1DsRmzI7miK7tzc",
+      "google_place_rating": 4.2,
+      "google_user_rating": 1846,
+      "place_types": [
+        "cafe",
+        "restaurant",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "535H+GWR, Near Smriti Theatre, Mount Road, Sadar, Nagpur"
+    },
+    {
+      "place_name": "Goli Vada Pav",
+      "map_reflink": "https://maps.google.com/maps/contrib/107745981787723937712",
+      "map_nametag": "Bobby M",
+      "photo_reference": "AcJnMuGbXCv4kzW0RGA0Iv9FNlxDIF6ONlR9VWZsadPO3T8Fc51y-1Wf8oD6tI1sZNZL8G3hS8Ea6tuAUfCoym6jJZpDMz3jxLxkJniCv23AsQBEg7oDOi8YnQrMKX1ku1bmyS7BoFLTWjd1mKaDAVhJLtOmRBC89stKo-idbtT0xyO5ZrKx",
+      "latitude_google": 21.1444885,
+      "longitude_google": 79.0829991,
+      "google_place_id": "ChIJTwAAAOvA1DsRr47pnCbi9mY",
+      "google_place_rating": 3.8,
+      "google_user_rating": 143,
+      "place_types": [
+        "restaurant",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Beside Apna Bhandar, Near Super Market, Opp Chandak Hospital/ Gopi Hotel, Sitabuldi, Nagpur"
+    },
+    {
+      "place_name": "Amaira",
+      "map_reflink": "https://maps.google.com/maps/contrib/105237287005964132872",
+      "map_nametag": "Amaira",
+      "photo_reference": "AcJnMuH0aLAlOOQXcF--XThIFVg_MaHweZ5BEWbs0viDML13LF3iBPcQCVyUHyd2Zo6yP_6qfyfgZGPUR2oucYitKzXWBZzpLzvBk_peYsQ8OtrCor6iIDfCu2v5jVwJxdHAyndfPaW1P3nXz_Q52Uixw5Ghkhh-WOtvB1huynN68L75DwZC",
+      "latitude_google": 21.1494038,
+      "longitude_google": 79.07399430000001,
+      "google_place_id": "ChIJQ38fjljA1DsR2nQ0g_TNbHE",
+      "google_place_rating": 4.2,
+      "google_user_rating": 3522,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "First Floor, MG House, above Axis Bank, Rabindranath Tagore Road, Civil Lines, Nagpur"
+    },
+    {
+      "place_name": "KFC",
+      "map_reflink": "https://maps.google.com/maps/contrib/105920770843934859713",
+      "map_nametag": "K LIANSONLAL",
+      "photo_reference": "AcJnMuEeGHE99ZupUpMf1TTV0oXPEq2vJ6SFallh45Pf9OYc3oT1B8Xp4uu4NX_TFk8Zr-eE2VT_qJk4GhyM33Va8FgzPASi5BQDk0-SIbHEF60t84hs0SISEXibbrxAM_2mlTvkHnAILsunBub_RaH0ldkRlyUFpBMY8vNy6BCUbO4s3z8C",
+      "latitude_google": 21.143365,
+      "longitude_google": 79.08046999999999,
+      "google_place_id": "ChIJLw6lQ5PA1DsRaGvmTr84gs8",
+      "google_place_rating": 4.1,
+      "google_user_rating": 3090,
+      "place_types": [
+        "restaurant",
+        "meal_takeaway",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "G1, G2, Ground Floor, Eternity Mall, Variety Square, Sitabuldi, Nagpur"
+    },
+    {
+      "place_name": "Barbeque Nation - Nagpur - Eternity Mall",
+      "map_reflink": "https://maps.google.com/maps/contrib/100704964512538796939",
+      "map_nametag": "Shivansh Shrivastava",
+      "photo_reference": "AcJnMuEfRU0Kkb3u0BrBTLATtUpXt_lSID3ks76iscSQAxs7PzuAjPqR81hYmejJBh_yjn20VsqPpV7zdpgnQDEUa9COd4RNOkFnbNXrlZO1QVED4tH_9iz8uKLE4imQ96ApPrJmdWlEK2d_4K3CYFNqLf6YTceMksL_xrHZz2-pJrLxZ8si",
+      "latitude_google": 21.14337339999999,
+      "longitude_google": 79.0800933,
+      "google_place_id": "ChIJG4yuQZPA1DsRKxYcRB5Cjxo",
+      "google_place_rating": 4.4,
+      "google_user_rating": 5362,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "2nd Floor Eternity Mall, Amravati Road, Variety Square, Sitabuldi, Nagpur"
+    },
+    {
+      "place_name": "Domino's Pizza",
+      "map_reflink": "https://maps.google.com/maps/contrib/103628571049566692385",
+      "map_nametag": "Lachi Turkar",
+      "photo_reference": "AcJnMuF1GT0D-Wgg2cj082mvWstp4vT0r5r3AfzZR9-YmmO8OGpyBsPY6Qka-F2MF5ee9GP79fZeoN0-U5CzKxzvmEz0u_RcwvKy51gv16EpobCnCV2qmwKK2UuEhAmsGSvUyNims9L-9UXgnNEAlRjlZdXOstvwmgQxeppZ1KZTiOoRQfnu",
+      "latitude_google": 21.1433301,
+      "longitude_google": 79.0802744,
+      "google_place_id": "ChIJIxu_Q2TB1DsRhSWqvoExbSY",
+      "google_place_rating": 4.1,
+      "google_user_rating": 1140,
+      "place_types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Shop No.4, Ground Floor Eternity Mall, Sitabuldi, Nagpur"
+    },
+    {
+      "place_name": "The Kebab Shop",
+      "map_reflink": "",
+      "photo_reference": "",
+      "map_nametag": "",
+      "latitude_google": 21.1578721,
+      "longitude_google": 79.0765388,
+      "google_place_id": "ChIJ9WrgOeXA1DsR44HdEruB3S0",
+      "google_place_rating": 5,
+      "google_user_rating": 1,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "shop no.28 vca stadium complex, Civil Lines, Nagpur"
+    },
+    {
+      "place_name": "Hotel Parashar Check In",
+      "map_reflink": "https://maps.google.com/maps/contrib/116050472502162302062",
+      "map_nametag": "Yogeshkumar Shukla",
+      "photo_reference": "AcJnMuFZjyUI88XN3UHpxPv080JHoHeIrU70G5s9doGV43aQX-hnYjvdgglMsjgDsNbkAyy2jEyPHQp7ak0C1So8pEJOJYOL9OTRhoRF5WPjd7EReI7CL9I02OnuGkgdMRmDHJWLbBA87KdivGzOivYVYe6iHbIx69qy1_dsCQPMwPxMiyqW",
+      "latitude_google": 21.1545765,
+      "longitude_google": 79.0865793,
+      "google_place_id": "ChIJZQAAAOfA1DsRJ2kPV2OdksM",
+      "google_place_rating": 3.8,
+      "google_user_rating": 953,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Near Railway Station, PK Salve Road, Mohan Nagar, Nagpur"
+    },
+    {
+      "place_name": "Indian Fried Chicken",
+      "map_reflink": "https://maps.google.com/maps/contrib/101114095277228724155",
+      "map_nametag": "Amit Y",
+      "photo_reference": "AcJnMuHkzrIpOXSoRkIQVlsGiULa4vlcg3pDpfHfnDIFmVVPVW9RAjSENwD9XAXJR-L9UiqyswRgeCYoNDDwk45RhioApyjF6JcguWQ-qerpEl4agKWp4hK0bNsDiXH_SVHmd6clf4AKGv2zl3ed8ayl6VfTgUC3z9C90lRCGjGiQSa4iNFG",
+      "latitude_google": 21.147911,
+      "longitude_google": 79.09353229999999,
+      "google_place_id": "ChIJ3wNZtOPA1DsRqivj2iBaM74",
+      "google_place_rating": 3.4,
+      "google_user_rating": 60,
+      "place_types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "3rd Floor, Food Court, Empress City Mall,, Cotton Market, Empress City, Nagpur"
+    },
+    {
+      "place_name": "Comesum",
+      "map_reflink": "https://maps.google.com/maps/contrib/106978083939421704395",
+      "map_nametag": "Saurabh Tyagi",
+      "photo_reference": "AcJnMuExtlGEwQZqkTQb8QQqHZiTmrsGTPBx7mxd1sblO_zXFcMjif-qdoPE0o4fy7PKRHTtrbG18k1LHqjU5Cv0ZtIB_dhumYLW2flDfO_ryKBiGnexwKNE1IglNsKmy320B-oFvaFvufign-1g5i37z85M7QxtTzSh2hnEzg-wfvlGhy9Q",
+      "latitude_google": 21.1518994,
+      "longitude_google": 79.0883185,
+      "google_place_id": "ChIJrVHiF8LA1DsRsjyK9aH9FH4",
+      "google_place_rating": 2.8,
+      "google_user_rating": 474,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Sitabuldi, Nagpur"
+    },
+    {
+      "place_name": "Jagat Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/116421175789268893967",
+      "map_nametag": "Shubham Chauragade",
+      "photo_reference": "AcJnMuEdE1Fy6Q0mQeNOAsmKuR_idXYp4ewPyfFqU5x4J7vR7pj-AeWx7jWs6tMLJLG0Denv860vj3BvFEToHZJE2RuL7SNQP3kcUFTirOhn6HGd2KPuacLCWu2q6IYdKeVTQ9QK0Yq2Wr_t5SZU1pw3QTFlCSbDbqT64ofEExUy4a9btiTo",
+      "latitude_google": 21.1420873,
+      "longitude_google": 79.0807787,
+      "google_place_id": "ChIJMxmUeZPA1DsREmSRV9Dbpc4",
+      "google_place_rating": 3.8,
+      "google_user_rating": 878,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Wardha Road,Opp.Bus Mor Bhavan Stand, Sitabuldi, Nagpur"
+    },
+    {
+      "place_name": "RKM",
+      "map_reflink": "https://maps.google.com/maps/contrib/103307280510903185461",
+      "map_nametag": "YOGESH GOYAL",
+      "photo_reference": "AcJnMuE1kbOTFCCdRTLbU49CH3f1vQFPsLfvVdlTtd11l0g1t527K3F4VAY4xSC7KifHhzsb-O-AcrHKSYShv2n9-iGUY23eAiZRdBhIWefKswhf5-r-ZAEa9LCdlZ8pIyMkRguFmg-_vCL8bg82P9TC8ydqONxKZxgzL_cNb_7zTrL58JnI",
+      "latitude_google": 21.151804,
+      "longitude_google": 79.088509,
+      "google_place_id": "ChIJJYnYF8LA1DsRiwrNlbUpKiQ",
+      "google_place_rating": 3.6,
+      "google_user_rating": 61,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "532Q+PCC, Railway Station, Tekdi Road, Nagpur"
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "city": "Ahmedabad",
+  "city_ascii": "Ahmedabad",
+  "latitude": "23.0300",
+  "longitude": "72.5800",
+  "country": "India",
+  "country_iso2": "IN",
+  "country_iso3": "IND",
+  "admin_name": "Gujar\u0101t",
+  "capital": "minor",
+  "population": "8009000",
+  "places_city": [
+    {
+      "place_name": "Paramount Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/114033076485085471737",
+      "map_nametag": "Paramount Restaurant",
+      "photo_reference": "AcJnMuExvZ7Ur1Yb4YWSsmxQ5cPeZIlMbCAoQTFvXvIG4tbs8uvg7Y30mlbpEZqGlwK0q2Kn6yRL5SyUlK5Gb647_6NTWgCAqJRnr7QCjHx_wbzxmDmNI9uphHDvMLIq7ru90ZabEXVYV68irFCt5PfOKIM6w861XpiN4Ak-KjwTLUcR1I-2",
+      "latitude_google": 23.0246668,
+      "longitude_google": 72.5824028,
+      "google_place_id": "ChIJG44_j06EXjkRPirFtZQFfKk",
+      "google_place_rating": 4,
+      "google_user_rating": 1122,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "\u0915\u093e\u0932\u0940 \u092e\u093e\u0924\u093e Mandir, Bhadra Road Opposite to \u092d\u0926\u094d\u0930\u093e, Lal Darwaja, Ahmedabad"
+    },
+    {
+      "place_name": "Nutan Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/109071180167865712712",
+      "map_nametag": "Ronak Joshi",
+      "photo_reference": "AcJnMuFsh43__mZl9msToHYi4km4Og0oBZNqQwwsZGme_nKc6tD3AfwWYMDI9BP6ySiKmL8Pk6ZLpvw3HaHE4C7j0UQ1twkUf-op-UsIb3JxORdcllbyeFthO3Lf9JFyCIm2NiKRs5IfJR1CoD6N49JgIWd09rGiusI3BjI94K4OR5jdmZrL",
+      "latitude_google": 23.0279827,
+      "longitude_google": 72.5814852,
+      "google_place_id": "ChIJVVVVpVGEXjkRJvonitdt-Es",
+      "google_place_rating": 4.4,
+      "google_user_rating": 992,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "2HHJ+5HX, Shankar Chambers, Miljapur Road, Lal Darwaja, Ahmedabad"
+    },
+    {
+      "place_name": "Kalapi Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/106859340371503084547",
+      "map_nametag": "Chirag Vala",
+      "photo_reference": "AcJnMuGBDRBnNqi6zR1xUXSdShZVd818jPzx_wIA_2Dm6kshVokjovQDbvsh25ig1VakmkMv5vvggxQnn6oMNldslomEtbkP3-2EMTItgqo4TRKvURr568a1h_dT4hmiHA3UmDvV8Z9G7VwAPXStCkfr4SZLUSEYunL7CJ3CQCz8TV4Jt-RA",
+      "latitude_google": 23.0257083,
+      "longitude_google": 72.58155490000001,
+      "google_place_id": "ChIJVVVVpVGEXjkRAm7fkQKKLZE",
+      "google_place_rating": 4,
+      "google_user_rating": 534,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Advance Drive In Road Near Electric City House, Lal Darwaja, Ahmedabad"
+    },
+    {
+      "place_name": "Relish Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/100392257076705952518",
+      "map_nametag": "Mansuri Ajju",
+      "photo_reference": "AcJnMuHJjiSfnhyzvAbcDik_d0Cb_AexTlgQsW3tbJbuefjtEPQ_5oPSe19VA02QUJ7zPc4M_AzcE9rmQ1VmosRUxt_6WX9rgEheIW9QPCcQiitkNnKXC4lW_YXd-J__sYdvrm14sYaMRFbw_OPRgnZy4wXjktQ8UqRWu1i8GPa3meaWVzF1",
+      "latitude_google": 23.0290034,
+      "longitude_google": 72.5777435,
+      "google_place_id": "ChIJuzkGnFqEXjkRwAhsqodZJIc",
+      "google_place_rating": 4,
+      "google_user_rating": 168,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "opp. B.M.C Bank, Khanpur Road, Hotel Host Inn, opp. B.M.C Bank, Khanpur, Ahmedabad"
+    },
+    {
+      "place_name": "Lucky Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/109920382484767805870",
+      "map_nametag": "Jayshaktiman Shihori (Shakti)",
+      "photo_reference": "AcJnMuHhZKCa6oZOJIwCwHSVSwqP5UGTHa0FIdQeexULanlsEfwKX_lETnuMwh_l35Dv3XR5YwTUwDfUEhVSh6g7ou-FxG-YJKEnmCAFyuVsg3jlLwMt-AVUs_0uBDwmSvjzY8WUknCR88I6vXAvxL6UbI3fE3VfMvKayyzu2yRWcVYY70Uw",
+      "latitude_google": 23.0277224,
+      "longitude_google": 72.5812211,
+      "google_place_id": "ChIJiWwV306EXjkR11SOkNFh1tY",
+      "google_place_rating": 4.3,
+      "google_user_rating": 4153,
+      "place_types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "opposite City College, Mirzapur Road, Lal Darwaja, Ahmedabad"
+    },
+    {
+      "place_name": "HONEST NASTA...",
+      "map_reflink": "",
+      "photo_reference": "",
+      "map_nametag": "",
+      "latitude_google": 23.0314278,
+      "longitude_google": 72.5826131,
+      "google_place_id": "ChIJN3YcqEWEXjkRJbw9m-mLdMY",
+      "google_place_rating": 3,
+      "google_user_rating": 4,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Fish Market, 38, Maulana Gazanvi Road, Mirzapur, Bhadra, Ahmedabad"
+    },
+    {
+      "place_name": "La Vista",
+      "map_reflink": "https://maps.google.com/maps/contrib/116948229699893011139",
+      "map_nametag": "Dr Shyam Vachhani",
+      "photo_reference": "AcJnMuGuWODFas-_A-Aq5_7dY2OJ2yCQYx9x1EC2Rvsbm-X1e2tXVpBcHgt0baSYrUoKtVbzUKbFEquazo8Baxl2176tsDgGp5SYL10zyCIEL8RgCIyzzT_wXwtoFargq9nOVTb9suNqKZjfEtkkKYc07gzVpSq28yxKKKnsPgOvYdp1yBEk",
+      "latitude_google": 23.031931,
+      "longitude_google": 72.5769576,
+      "google_place_id": "ChIJSQnlaEWEXjkRj5HZCcnwwoY",
+      "google_place_rating": 3.9,
+      "google_user_rating": 12,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "2HJG+QQG, Cama Hotel, Khanpur Road, Near Bhadra, Shahpur, Khanpur Road"
+    },
+    {},
+    {
+      "place_name": "Kutchi King",
+      "map_reflink": "https://maps.google.com/maps/contrib/112900392908948218904",
+      "map_nametag": "Kutchi King",
+      "photo_reference": "AcJnMuHaGju3CRLAg13Ru43lE9hyyEALb9IbLgRHxWMxmR7W47EEv7n1D6IZ96FOQLtbiH_3jtIAIy00w8mt0IoDVOD6h6CbybIOV2RSppXsJ2wRpnreRyhs8JtLkqZU79lCHtch3gfdwVgbgQadt_R7z6BnQ8ms1ZzMBe2F3gDoiBfUgfsI",
+      "latitude_google": 23.0265026,
+      "longitude_google": 72.5843411,
+      "google_place_id": "ChIJiWwV306EXjkRRourrUpKDLo",
+      "google_place_rating": 1,
+      "google_user_rating": 1,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "487/6/1, Mangal Girdhar Complex Shahibag Road Dihli Darwaja, Ahmedabad"
+    },
+    {
+      "place_name": "ZK Fry Centre",
+      "map_reflink": "https://maps.google.com/maps/contrib/117141649393197491596",
+      "map_nametag": "Madhan",
+      "photo_reference": "AcJnMuFO6LEOVqS7rK3x8n7OQQJhTgwtRzigbW_OlJvZIjs8F8wZSfpH5_JiWyT_KeRd3An-G2bO1hBU5SpvZtxO83YeWywwxMtx3P-E-IgcjqmtzI2YeRpG_NyS966KYegfUJF43BjXLPwc9GFGr7rQWh_LPDUJMx3O29Ogf552qeztiXpi",
+      "latitude_google": 23.0245999,
+      "longitude_google": 72.5837119,
+      "google_place_id": "ChIJQVmylk6EXjkR76n1WITKNWU",
+      "google_place_rating": 4.1,
+      "google_user_rating": 279,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "2HFM+RFP, Patvasehri, Bhadra, Ahmedabad"
+    },
+    {},
+    {
+      "place_name": "Leaf Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/105999025539858806047",
+      "map_nametag": "Mr. J",
+      "photo_reference": "AcJnMuFH-HdwTqCtz8SyyISUCY--oE37TSVS9ID82lXiGaxbTL1UZ0M0d6wjOub30Py1rAJA02he9K7R-gnRV-coh1mi8YP-pO44KCojv6KB_HjaklEWzqk0Aas0jbWb68PgySYcarN_oGcJW2KY_r9L6lylB5Z1yBl57Wwy-SgrU-QyTlzk",
+      "latitude_google": 23.027045,
+      "longitude_google": 72.57207199999999,
+      "google_place_id": "ChIJM3SEQVeEXjkRTLUdLYsNHFw",
+      "google_place_rating": 3.5,
+      "google_user_rating": 243,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Riverview Hotel ,Ashram Road Near Sakar VII, Nehru Bridge, Corner, Ahmedabad"
+    },
+    {},
+    {
+      "place_name": "Pleasure Trove",
+      "map_reflink": "https://maps.google.com/maps/contrib/118090113101480798529",
+      "map_nametag": "Pleasure Trove",
+      "photo_reference": "AcJnMuHx57GYG32UKJ8_MbZCcDzAzP4tlyt-LLpkIqya30YAfntiJbOJjIxvz7RZ5AqanFgIxyjSqu2MLprLWTcEjVkgnBFnK10AchgtPhfgNnCzPuPLuDhMh3L4kWqY1kTfNOBYgbQjhESyr00AOD4EE2YHtgt2ou--FVZebj999Njy0NQu",
+      "latitude_google": 23.0274153,
+      "longitude_google": 72.5715898,
+      "google_place_id": "ChIJbUm0ZFeEXjkRZ5qsMdpoDM4",
+      "google_place_rating": 4.3,
+      "google_user_rating": 2768,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "B-101-104 sakar 7, near patang hotel, Nehru bridge, corner, Ashram Road, Ahmedabad"
+    },
+    {
+      "place_name": "Purohit Sandwich",
+      "map_reflink": "https://maps.google.com/maps/contrib/107934019855184794202",
+      "map_nametag": "prashant purohit",
+      "photo_reference": "AcJnMuG0hhaqzV6HgeMHayovPJ0a2yEaF3MXwVYWyrQzWsPgO2ic7aPzi-Sb2YlOb9lIulr_seuxxINdzXP2L2azX-8IwYSDsJcuvltweCQIukZrApLmwTQ_lHg5iFFDqMCxnuMe6SqKpocMKe6cvfKZ_0jpIkLW0gkFevHAjtmCjIu8vRY",
+      "latitude_google": 23.0305795,
+      "longitude_google": 72.570976,
+      "google_place_id": "ChIJBy3xuWyFXjkR8GArOWGeajg",
+      "google_place_rating": 4.5,
+      "google_user_rating": 61,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Nr. Vallabh Sadan, Ashram Road, Ahmedabad"
+    },
+    {
+      "place_name": "Kunal Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/107384253186006013718",
+      "map_nametag": "Kunal Restaurant",
+      "photo_reference": "AcJnMuG9fggdfcMmTjHzo1Ls8gjG-Uu6sYkqEpE9Hd3pZdMX4wrujYXvYTbY3VAc-C9dJdCZCVncZVHzQ2r-YXdzKvhuWF82yrrd31RZuUCasraPFlhOpQI89tk_z0UTdfWHnzg7L2RJth236mvTOnwMriyCMAn1lbSKF9BnYx9eMuABV6E8",
+      "latitude_google": 23.0293032,
+      "longitude_google": 72.5708705,
+      "google_place_id": "ChIJLZyoSliEXjkRAk9p8mbktOk",
+      "google_place_rating": 4.1,
+      "google_user_rating": 1234,
+      "place_types": [
+        "bakery",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "next to H. K. Arts College, near H, Ashram Road, Vishalpur, Ellisbridge, Ahmedabad"
+    },
+    {
+      "place_name": "Shakti The Sandwich Shop",
+      "map_reflink": "https://maps.google.com/maps/contrib/112486178543457721320",
+      "map_nametag": "Hardik Sawalsa",
+      "photo_reference": "AcJnMuGjrBjptoycF58Hq1Vf7gQ_2leeuqSo_i0bXB5SJw4ODowue71WfwJfXxpICTx3G1r8fgM7_iBSy_AF45QU1w1pVsKBHDrboaP39DzRANY0ZOPeai_qTxnL5PzQtmZReziwQV_Z_B-QkezyrgqDmMjyH6oFSOOjEDWeSt1UzlwJLRwe",
+      "latitude_google": 23.0269901,
+      "longitude_google": 72.5887304,
+      "google_place_id": "ChIJnVOErEmEXjkRvsEJZOl9cs4",
+      "google_place_rating": 4.2,
+      "google_user_rating": 432,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "2HGQ+QFX, Amlipole, Ratanpole, Zaveriwad, Kalupur, Ahmedabad"
+    },
+    {
+      "place_name": "Real Paprika",
+      "map_reflink": "https://maps.google.com/maps/contrib/115276184987085909581",
+      "map_nametag": "smkc ahmedabad",
+      "photo_reference": "AcJnMuHlXy-mpeApAMzTKhl7ZFUNQmsv8tuAE-lRWHGWQsPriV1AkCZz3ztVOVTGEWkpdXDJzr2Y_oTKz8esncR6h7mo56O8M1fa9jn_dTEuGaectxB7rxCIokFTUI9HSOwdoTEds8MkXAFhymekYb4PeqTWoItUhGGEaelpRaQoArwCwtqm",
+      "latitude_google": 23.0280498,
+      "longitude_google": 72.5896436,
+      "google_place_id": "ChIJiWwV306EXjkREakMTXipiXc",
+      "google_place_rating": 3.7,
+      "google_user_rating": 162,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "opp. Zaveriwad, 2645/23,Endrues Building, Tellar Point, opp. Zaveriwad, Relief Road, Old City, Kalupur, Ahmedabad"
+    },
+    {
+      "place_name": "Pizza Hut",
+      "map_reflink": "https://maps.google.com/maps/contrib/118250751916874354099",
+      "map_nametag": "Anmol Singh",
+      "photo_reference": "AcJnMuF-5oRoITuk3twkQ0LYivlsrmKtShTWxbG_xcaQVrZMAynncBO6FimywKUj4jaGeBu_YzHkeBdzie8uriMcah4FK1qOALdt-NtrW-3sv4Wdhtss4_h4s42ieAVWxgny9K0a_OzexRjXO6yZGA157-mR7ltfVW6f2ibw6eZqhP8BQmE7",
+      "latitude_google": 23.032068,
+      "longitude_google": 72.57021999999999,
+      "google_place_id": "ChIJy8S-51iEXjkRPW_koTdoSXY",
+      "google_place_rating": 3.9,
+      "google_user_rating": 1508,
+      "place_types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "City Gold The Multiplex- Ashram Road, Gr Flr, 956, Ashram Road, Navrangpura, Ahmedabad"
+    },
+    {
+      "place_name": "Hardcastle Restaurant Pvt Ltd",
+      "map_reflink": "https://maps.google.com/maps/contrib/115453670347953390246",
+      "map_nametag": "kunal khatri",
+      "photo_reference": "AcJnMuHKDrxJ9oJz9R-NHVjO2NtwC6Boc0K0V3-Y13SaMeVVArf3D9tHuk4_tHpKK_bmHGAw8QirbvQCo5HHXoNgwAKiNRpwGr1kkzJ2EmRqZgn7OXhcZzbBEOa7hx6IPBOBBupnz8uZyfH2R7N7KSxWaBeYq4RsosYOY743ne5TJdoSviu2",
+      "latitude_google": 23.0318257,
+      "longitude_google": 72.5700449,
+      "google_place_id": "ChIJ8_qnyIqEXjkRo-riFztiJD0",
+      "google_place_rating": 4.3,
+      "google_user_rating": 12,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "2HJC+P2M, City Gold Multiplex, Gr.floor, Ashram Road, Ahmedabad"
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "city": "Vadodara",
+  "city_ascii": "Vadodara",
+  "latitude": "22.3000",
+  "longitude": "73.2000",
+  "country": "India",
+  "country_iso2": "IN",
+  "country_iso3": "IND",
+  "admin_name": "Gujar\u0101t",
+  "capital": "",
+  "population": "2065771",
+  "places_city": [
+    {
+      "place_name": "Hotel Surya Vadodara",
+      "map_reflink": "https://maps.google.com/maps/contrib/106655701511235134666",
+      "map_nametag": "Hotel Surya Vadodara",
+      "photo_reference": "AcJnMuG75-pUZqc81UmGJLWgCFTBmhMWSC7x58ZgpwyvCUqOYYuY2jG1OheI1Dr6MlNmaCaOIYybRvztVNDSmXjzJxfapRAX0vevJI5gmuFYNGmkqa9GCZC_FsEY7R2u2QhCU8_VH7H-FcfjMJxoDLd8vfhEjkalOjxkJIEFueRXpMrxzaSj",
+      "latitude_google": 22.308776,
+      "longitude_google": 73.1830677,
+      "google_place_id": "ChIJcaFjxlLPXzkRN03NbBt8MrA",
+      "google_place_rating": 3.8,
+      "google_user_rating": 2158,
+      "place_types": [
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Near Railway Station, Sayajiganj, Vadodara"
+    },
+    {
+      "place_name": "Kalyan Cafe",
+      "map_reflink": "https://maps.google.com/maps/contrib/100407522244495778869",
+      "map_nametag": "Payal Jain",
+      "photo_reference": "AcJnMuENYDDyG_pKD6JRmFXgUFtOlXFyh8Ir3DmAXfsPA0F2xQF20GVdxYp4PHY4loiPjdTBzh0IBTvmGyQd7KvnByqj-mlju3frZndqx84-dnbbbzeC3ZFXdXR0bzvcarOyynICjuAmiW3u9UVo3MCuUM7j_Bb8hFIL3rlTjBBhpoIeHrxs",
+      "latitude_google": 22.3197164,
+      "longitude_google": 73.1883131,
+      "google_place_id": "ChIJAQAAwDbPXzkR0aD3FJtBtZU",
+      "google_place_rating": 3.8,
+      "google_user_rating": 247,
+      "place_types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "5-1/64, Fatehgunj Main Road, Fatehgunj, Opposite Sardar Patel Statue, Fatehgunj, Vadodara"
+    },
+    {
+      "place_name": "Shri Guruprasad Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/103505589716988968400",
+      "map_nametag": "Shri Guruprasad Restaurant",
+      "photo_reference": "AcJnMuHJ2mSaPuOfsgdW7dsKZ41OHLqctKlklKfzAX4qnrsifHloHaixgwrQzemVAjfpjkTpIWrTaXa9yDL7gQWV7QW0rZZTUdGBaz8tigHq-UM8cCTyruYsCzeT8EY28fwTeEgFAuAQatlxoMCjSTZKdD6L8c_o0can_jA4zaT6FcWUplmS",
+      "latitude_google": 22.29531069999999,
+      "longitude_google": 73.1982484,
+      "google_place_id": "ChIJLxjvvvbFXzkRwhFylyt6rBA",
+      "google_place_rating": 4.1,
+      "google_user_rating": 1599,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "near Nehru Bhawan, 4, Aaram Complex Kirti Stambh, near Nehru Bhawan, Palace Road, Vadodara"
+    },
+    {
+      "place_name": "Maharashtra Bording House",
+      "map_reflink": "https://maps.google.com/maps/contrib/102161703655934455532",
+      "map_nametag": "Deepak 420 Reviews",
+      "photo_reference": "AcJnMuGOp-gKfoPHhgAv3siG1S9kMeQLvd6HSbiHkgZcMan6l73XdPcDcsmD7ZbUwcWCnQiKiIpN0FMai1Jlki6EF_BXRM4groODNNY5Npq48_Cg_6ZFSRQ0W_6Hksjh0knPFwxgBY2KVSnjgMrPFoGBkvuwxxbpfsX4---cgvAZlNfkMAb8",
+      "latitude_google": 22.30122679999999,
+      "longitude_google": 73.1998128,
+      "google_place_id": "ChIJc-M0U1_PXzkRwjWHD62nNRA",
+      "google_place_rating": 4.1,
+      "google_user_rating": 539,
+      "place_types": [
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "852X+FWW, Pratap Road, Raopura, Vadodara"
+    },
+    {},
+    {
+      "place_name": "Hotel Vrundavan Residency",
+      "map_reflink": "https://maps.google.com/maps/contrib/112656913478346294515",
+      "map_nametag": "Hotel Vrundavan Residency",
+      "photo_reference": "AcJnMuFt2LRaGeMvTVhoW1MZTdU3RCrCnQHz6_wqn3lelAb_yVXgY5_CTr7RDpgmGy2H9Cpy_yWL_m6NJr0VuIrSBmovcQ6uCscla91U6IWKZlWQd3-a209xmuH8rozeoRtT_iqWS67bNkTpf9as-aC5p4eSVPwBy3TpE1Dq_0IDw3-ornYr",
+      "latitude_google": 22.2998414,
+      "longitude_google": 73.19892829999999,
+      "google_place_id": "ChIJv_V5EPbFXzkRxMz6cv6VDug",
+      "google_place_rating": 3.8,
+      "google_user_rating": 595,
+      "place_types": [
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "near Gas Office, Nr. Siddhi Vinayak Temple, Dandia Bazaar Main Road, near Gas Office, Chhatrapati Shivaji Marg, Vadodara"
+    },
+    {},
+    {
+      "place_name": "Shree Kathiyawadi Khadki",
+      "map_reflink": "https://maps.google.com/maps/contrib/101514877384819207985",
+      "map_nametag": "Shree Kathiyawadi Khadki",
+      "photo_reference": "AcJnMuEPXMjf53kDbRqWk6iFviatSE2si73XB3KRU_X4IJeZwdriQgCzcmTH_XS_2G8qSRZXqPQbWfdikafjXXwzzUHCNk6EDtlUtGrCniKFbwEat5JIyZmMXHPNdfQSP5QRy2tvGL1MFSmBJqM0gH7nQ6kcsySfucBA6OAiSreyQ8DajByR",
+      "latitude_google": 22.3033406,
+      "longitude_google": 73.2011863,
+      "google_place_id": "ChIJC3dOIl_PXzkRi4pauGrfliM",
+      "google_place_rating": 4.2,
+      "google_user_rating": 6179,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Four Ways, Navrang Cinema Road, Near Tower, Raopura, Mandvi, Vadodara"
+    },
+    {},
+    {
+      "place_name": "Shraddha Sev Usal",
+      "map_reflink": "https://maps.google.com/maps/contrib/109559486660564228850",
+      "map_nametag": "Shraddha Sev Usal",
+      "photo_reference": "AcJnMuFiUDK1AJVZa4tSO-0rU9GHBXDX91I9Q4jAmeEKn4Jkcs-72Ed6Dd8QOzWD5L-9fz2Ln6yheYEH6H9FlyngvOKCrDsiZS-Azv4Z5z2l11gQB47jnWDAP7W6rsHc2-aVYznIsAwi_wLTkW7QxHsaKQ8jPgcswU0x5o7xKUdEEr9Zf9E7",
+      "latitude_google": 22.3022456,
+      "longitude_google": 73.2043748,
+      "google_place_id": "ChIJd4yQ71_PXzkRj6GW7j1UrxE",
+      "google_place_rating": 4.2,
+      "google_user_rating": 502,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "near tadkeshwar mandir, Hotel Sagar Lane Opp juibelibaug, near tadkeshwar mandir, Raopura, Vadodara"
+    },
+    {
+      "place_name": "Shree Jagdish Chewda Mart (JCM)",
+      "map_reflink": "https://maps.google.com/maps/contrib/105114723234903399786",
+      "map_nametag": "Saurabh Ringe",
+      "photo_reference": "AcJnMuHcfAFOROU7BZfXgtpjNxn_wFd5rUWqYPz7VvBzfbDsGR185PiNCFDjKG2-bVypbngw_9Ovpj0oprPOXJInsqucHQxouwiqrtDwdxwFey5IckcbSRpOjYjhymC9_xYC53Nuf681NPwUigoAgTOQN76-4YpRDMER3zlkhFuc_d86G80P",
+      "latitude_google": 22.302557,
+      "longitude_google": 73.2045691,
+      "google_place_id": "ChIJs5E36l_PXzkRcASJV9Aer4Y",
+      "google_place_rating": 4,
+      "google_user_rating": 12,
+      "place_types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "google_place_vicinity": "Shree Ganesh Krupa Building, Kothi Road, Opp. Jubilee Baug, Raopura, Mandvi, Vadodara"
+    },
+    {
+      "place_name": "Shree Krishna Restaurant {Since 1956}",
+      "map_reflink": "https://maps.google.com/maps/contrib/107105145193649708893",
+      "map_nametag": "Shree Krishna Restaurant {Since 1956}",
+      "photo_reference": "AcJnMuHxorpf_gwzDgdlmv6Cwaw5VhXyblkCKOYE-TIukzUDSDmsuw0n_lKm6ETCu6_4rl-5Yb3mFzm9HI1TNcrb8MDDR7OFoPATpIdhV9qEzTXR4ez0S_LGUeUJfOPLu8UcxcS8eA7Y5Qi5DvRuEHFs5AeAUP1-qIp37EXE7V-IlsH3Q_le",
+      "latitude_google": 22.2982449,
+      "longitude_google": 73.20585109999999,
+      "google_place_id": "ChIJEXWw5fTFXzkRcmexaysmBAY",
+      "google_place_rating": 4.3,
+      "google_user_rating": 721,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "185, Madanzapa Road, Juni Kachiya Wad, Chokshi Bazar, Vadodara"
+    },
+    {
+      "place_name": "Al Haadi Chicken Shawarma, Chinese & Grill",
+      "map_reflink": "https://maps.google.com/maps/contrib/108021435737908990501",
+      "map_nametag": "Faizan Pathan",
+      "photo_reference": "AcJnMuEkF78a4Ud3iLoVEaKDeiHbi7ejMMb_K20HvQlCSUJ16GdKMMQJSEqvFPZPkNVAbZXQoMA1F6PC_ksXmCHhIhidsblm38R31AQtZTPIb0Jnon9z_I-ZvdphxX-lh2qx3r95EM2pfr0FpcPlJKaw3IaZiWGnJ2tk6IjUN72q9Gf699o4",
+      "latitude_google": 22.3060184,
+      "longitude_google": 73.19832170000001,
+      "google_place_id": "ChIJ7f40Z1nPXzkRB96EadYn6m8",
+      "google_place_rating": 4.4,
+      "google_user_rating": 743,
+      "place_types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "opp. Sharda Mandir School, Al-Haadi Chicken Shawarma, G-2, Aadil Complex, opp. Sharda Mandir School, Kagdiwada, Raopura, Jambubet, Vadodara"
+    },
+    {
+      "place_name": "Bhai Bhai Dabeliwala",
+      "map_reflink": "https://maps.google.com/maps/contrib/103463091239267332324",
+      "map_nametag": "VIJAY LALWANI",
+      "photo_reference": "AcJnMuG-3dqszWsXKCjS6NNAi7Tsit3i5k9TeQOCa0Nl65q2FhvUwPJ6OFxqgBTbSScmGRIgmKH3uutAOZ4pJsVxHABEVq95kRQoy9FJDFhJkK6E11w8YaWVaC1AqI7mG6Eqt6xV5wkIxa0-tkbbuS-4LPcUv9gA2VOWEvFqGdf9h0k4TXo-",
+      "latitude_google": 22.3027169,
+      "longitude_google": 73.2105249,
+      "google_place_id": "ChIJe0vJ6GHPXzkR8DGdouYKNtE",
+      "google_place_rating": 4.1,
+      "google_user_rating": 27,
+      "place_types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "google_place_vicinity": "8636+36J, Hathikhana Main Road, Bank Road, Sheerji Kaman, Bajwada, Mandvi, Vadodara"
+    },
+    {
+      "place_name": "Sayaji Hotel Vadodara",
+      "map_reflink": "https://maps.google.com/maps/contrib/117238618143929053819",
+      "map_nametag": "Sayaji Hotel Vadodara",
+      "photo_reference": "AcJnMuHMTUBew5jxVazw40HuYI3DXhLJIJAG6csIwEDfBUdW1x--iAW2P-FYLBdvBYSWMSlp855ydR0KTO_2ZwPct9AGrRR5MUS4ywJleaugwyEzwqpgn8vvESDyor5seVlGxFRIHU7L2PfsYTLnZmWiVYxYR_22LCUuw450utfqYTga0ei2",
+      "latitude_google": 22.3057855,
+      "longitude_google": 73.18567759999999,
+      "google_place_id": "ChIJAQAAQK3IXzkRyGiWTORNEw8",
+      "google_place_rating": 4.4,
+      "google_user_rating": 9300,
+      "place_types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "google_place_vicinity": "parsi Agyari, Sarod, Sayajiganj, Vadodara"
+    },
+    {
+      "place_name": "Lords Inn Vadodara",
+      "map_reflink": "https://maps.google.com/maps/contrib/100384198097579075680",
+      "map_nametag": "Lords Inn Vadodara",
+      "photo_reference": "AcJnMuHJsgnh0yGMKrb6BbtzUUsajv4YUwl473uBchuVDVjhlMzCmqukTqrBv8xQnVAkKhyQueY1onfhTYGtymZ-yNyhuXzPUvHdKAQk5kzzqOy7kobk8ca_D0Y5SVeAIlWN3eh1ZZid39FDpoxdtbMWEfNeYy9kJRefy0IhPvA3_nXEZcce",
+      "latitude_google": 22.3102705,
+      "longitude_google": 73.1883035,
+      "google_place_id": "ChIJZatM91HPXzkRQmpOtoImyhw",
+      "google_place_rating": 4,
+      "google_user_rating": 2900,
+      "place_types": [
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "near Kala Ghoda Circle, Near University Road, near Kala Ghoda Circle, Sayajiganj, Vadodara"
+    },
+    {
+      "place_name": "Subway Sayajigunj",
+      "map_reflink": "https://maps.google.com/maps/contrib/109197985653035810261",
+      "map_nametag": "Sunil Shah",
+      "photo_reference": "AcJnMuFhx1dlHncyUzU6_NJeox-f2qD-Ah1YVoAuoFSSM9vav2n9e7c3K0XwOpnq3O16hX4jEqEeu6abBZTdup-X6Ivi2OuUMlgPjKE5HvOdoq4mAIA790cnmmHlk_Z4omw5GFh3d9rkBFmyYVAcWqStfbEvMKlKPAB5E_iBSLvftAI4LDwD",
+      "latitude_google": 22.3089304,
+      "longitude_google": 73.18585279999999,
+      "google_place_id": "ChIJ-a0ijVLPXzkRCkmUKNFnFkA",
+      "google_place_rating": 4.1,
+      "google_user_rating": 828,
+      "place_types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Ground Floor, Payal Complex, Opp. M.S. University, Sarod, Sayajiganj, Vadodara"
+    },
+    {
+      "place_name": "Tea Post - A Place to Talk",
+      "map_reflink": "https://maps.google.com/maps/contrib/118280119801392815115",
+      "map_nametag": "Jaideepsinh Jhala",
+      "photo_reference": "AcJnMuGu_-9mdI5ON_IeGnUrpubsnh8i_dD-O-T7rEle1BmIGMBkCF9vQ0DllkX4el3NUV8yL_SngAgLD4UeDsZuDW1xDWQ2o-MWb1DakQuG27mYjwVT9qRiX-UlgrF9Z1FjigLI4oYubxspuNuWNU4knJEIbB0eWFJ44I4sHChtOytIz25u",
+      "latitude_google": 22.3091867,
+      "longitude_google": 73.1851303,
+      "google_place_id": "ChIJo6qqqqnIXzkR7JlcVA5M_yw",
+      "google_place_rating": 4,
+      "google_user_rating": 1335,
+      "place_types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "google_place_vicinity": "SB-3, Patel Ashwamegh Complex, near dairy den, Circle, Opp. M.S. University, Sayajiganj, Vadodara"
+    },
+    {
+      "place_name": "Sainath Sandwich",
+      "map_reflink": "https://maps.google.com/maps/contrib/111041478609948656605",
+      "map_nametag": "Toral Patel",
+      "photo_reference": "AcJnMuG9Mg2KV8IbALi0cCbIT-uTQm_sOqs7PRkws_CB1Bxb8U-hDXI8RTNZA6GjYpF-PF23TEFp4KM3B5p1W3pTrM_Du10kqoevOnYJSfwbKHMYnjP_gB7S-N2rshCPuTAOm9s-hUQi--G0T7d9yYct4FcdPkTejGzI3FdhmEuk1BUGYjp9",
+      "latitude_google": 22.3090738,
+      "longitude_google": 73.18477969999999,
+      "google_place_id": "ChIJ-5J49FLPXzkR4ZzLb4XuoI4",
+      "google_place_rating": 4.3,
+      "google_user_rating": 499,
+      "place_types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "855M+JWC, Opposite M.S. University, Sayajiganj, Vadodara"
+    },
+    {
+      "place_name": "The Goodies Cafeteria",
+      "map_reflink": "https://maps.google.com/maps/contrib/110897785180904344277",
+      "map_nametag": "Imtiyaz hingora",
+      "photo_reference": "AcJnMuEJ3v82G8utwLjwiiv6NA7_Ljbz2MW2fk_qDnkiiuEgMQUZp27I4YUH2tGV0_22CqOXbCSZ_Wl19B3KOwdPXVPDaiJQkcvP_b2f803Svl5y_ngec9yh3XPBKlB-_jtzhJ82DhBUC-DyOR3YrUn4KLCmoh2HbxN0Phjh3SxcoftcsZm7",
+      "latitude_google": 22.3083251,
+      "longitude_google": 73.1842121,
+      "google_place_id": "ChIJDzL35FLPXzkR-ILkEHFsrQs",
+      "google_place_rating": 3.9,
+      "google_user_rating": 619,
+      "place_types": [
+        "cafe",
+        "bakery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "google_place_vicinity": "855M+8MP, Gol Bungalow, Next To Post Office, Behind Kalyan Cafe, Sarod, Sayajigunj, Vadodara"
+    }
+  ]
+}

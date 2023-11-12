@@ -1,0 +1,355 @@
+{
+  "city": "Vish\u0101khapatnam",
+  "city_ascii": "Vishakhapatnam",
+  "latitude": "17.7042",
+  "longitude": "83.2978",
+  "country": "India",
+  "country_iso2": "IN",
+  "country_iso3": "IND",
+  "admin_name": "Andhra Pradesh",
+  "capital": "",
+  "population": "2035922",
+  "places_city": [
+    {
+      "place_name": "Hotel Akshaya",
+      "map_reflink": "https://maps.google.com/maps/contrib/112203167624197693835",
+      "map_nametag": "Hotel Akshaya",
+      "photo_reference": "AcJnMuFW0OpO1KQyygGk-6nLS-95ZZhDaE6qWNjaf-diIMYhi9kMyitdCp0mAYVynauFa3vLV8yi8gxGP1tgwh96SwZIGSjtfild9XGgyCxBQpinhbHjgNgokUOclYObkmNN9-gBXheEcPGFgToyjxv4C8K3F5DNvKzcm0uQJlO622iDbQ8i",
+      "latitude_google": 17.7254486,
+      "longitude_google": 83.2992019,
+      "google_place_id": "ChIJOTYR5iNDOToRWn1zlGLWFfs",
+      "google_place_rating": 3.9,
+      "google_user_rating": 1557,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "opposite DRM Office, Railway Station Road, Mandavaripeta, Dondaparthy, Railway New Colony, Visakhapatnam"
+    },
+    {
+      "place_name": "Hotel Winsar Park",
+      "map_reflink": "https://maps.google.com/maps/contrib/117159285436276114202",
+      "map_nametag": "Srinivas M V V",
+      "photo_reference": "AcJnMuHMFIB4s1H0JPir8ztVSgXEgiA71Uy5czjcwdep92xyFAGVBd-X4w5qe-PIEggTPpXfRD4gv8-ibkUyeobWs_kqDq77Ze-7rZP4sodt_l50VaXSFG4eQGL8ngPtwKLKApZd8F8Ps0yXCVeQFF1P7ZWiRy49GbIOY3UJbBuhOV9gmTb_",
+      "latitude_google": 17.7094043,
+      "longitude_google": 83.3059513,
+      "google_place_id": "ChIJ_cKzJRBDOToRxQvt_PXaopU",
+      "google_place_rating": 4.1,
+      "google_user_rating": 890,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "google_place_vicinity": "18, Collector's Office Road, Maharani Peta, Visakhapatnam"
+    },
+    {
+      "place_name": "Dolphin Hotel",
+      "map_reflink": "https://maps.google.com/maps/contrib/110525583082210537036",
+      "map_nametag": "Dolphin Hotel",
+      "photo_reference": "AcJnMuEJENuGmIaABRBI3ZG6ip917MXVvtUR6ABIZmf6wquJ7WjWOT_R-bYLG67QNIImaZSyjbtoHALiRyg_rJm245BTCPokM2Bt6MH3wNRRcvK0-h85aEx2cA_Jn24o9ttrjLArjMfQUnWh9qVw2-4mkjBr7lKJtt6JldLGuj3ZjcjQO54N",
+      "latitude_google": 17.7129092,
+      "longitude_google": 83.29749009999999,
+      "google_place_id": "ChIJrdQHJBlDOToRhMfUQOgsdX4",
+      "google_place_rating": 4.3,
+      "google_user_rating": 14601,
+      "place_types": [
+        "gym",
+        "lodging",
+        "bar",
+        "health",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "75 Feet Road, Dolphin Hotel Junction, Daba Gardens, Visakhapatnam"
+    },
+    {
+      "place_name": "Fortune Inn Sree Kanya, Visakhapatnam - Member ITC's hotel group",
+      "map_reflink": "https://maps.google.com/maps/contrib/108006588020953699405",
+      "map_nametag": "Mohan Pathina",
+      "photo_reference": "AcJnMuFI3i0Alpe_QCon9sd_A71Rb375FDDlQXNfyfk03hal1Spvsufnr2GfStftvKZAceSjn8Dig423OKoDPO4Tqeb_V0n46nEHySpZR-SKQrq8W48sdNZQVRMQwkpYT-h5dWRdLA2uCEeqvi3jxTx2jR7t1eIw5gVNY1KVQZGeiooHpDgJ",
+      "latitude_google": 17.7267618,
+      "longitude_google": 83.3024988,
+      "google_place_id": "ChIJHQyhnSRDOToRVA7V4B7YImQ",
+      "google_place_rating": 4.2,
+      "google_user_rating": 5376,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Sree Kanya Road, 47-10-34 & 35, Dwaraknagar, Diamond Park Road, Dwaraka Nagar, Visakhapatnam"
+    },
+    {
+      "place_name": "Palm Beach Hotel",
+      "map_reflink": "https://maps.google.com/maps/contrib/106400279166279652322",
+      "map_nametag": "PALM BEACH HOTEL",
+      "photo_reference": "AcJnMuFSV4_531E5tkluFknIF5g18aqiGN2ZdhWH7_FmnPCBDb8rbfjk9j4BWhRj75ugkohDv1nLuB8qLozM3X5nNetm9xsqjUrS0Vjk8sYm_QRn6a1U769YsYPT6gCq7s_MvUYhiiJVXx3eSrtKlJqH9gbXJiDS4LXNeR3YwXNNiTMGp6Ol",
+      "latitude_google": 17.720824,
+      "longitude_google": 83.3359107,
+      "google_place_id": "ChIJ8aoCVkRDOToRpx73ofx42Xc",
+      "google_place_rating": 4.2,
+      "google_user_rating": 8649,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Beach Road Near Vuda Park, Visakhapatnam"
+    },
+    {},
+    {
+      "place_name": "Hotel Kamat",
+      "map_reflink": "https://maps.google.com/maps/contrib/110238086474293950361",
+      "map_nametag": "alok roy",
+      "photo_reference": "AcJnMuEKZ7d9K7p3WPoUsAkJcstl7gX__7zTfW4BdQ8daFRH4An1hbiHxEy4vZuapStP0UH3GJUU_9yEMX_Lh54aumiVKejERV5d9pkV_A5vxuJ5dPHgS1hKQUPmbMcXGpY8DVHd9o78Wbio2bcIPDkYMeF4eKHwuscphUEed8k_k81WTqOW",
+      "latitude_google": 17.7343921,
+      "longitude_google": 83.34113219999999,
+      "google_place_id": "ChIJ99YvpahEOToRoiyJgBrXWw4",
+      "google_place_rating": 3.9,
+      "google_user_rating": 13706,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Doctor NTR Beach Road, Lawsons Bay Colony, Pedda Waltair, Visakhapatnam"
+    },
+    {
+      "place_name": "Bombay Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/115815697315523984667",
+      "map_nametag": "ANVESH TINKU",
+      "photo_reference": "AcJnMuHDIYcQrSaV4wVc5StFXSPyVBExfS4kj10XexF1Ag_nGLA-mp9vydo7Ch_BEQSdROZW9yf2dRU2zkA5eogPmhDIv_KxFWAsBXELo0_40CvEP0HfWeyfGiqXkq4GdQZT5kda4ZNWSyIgJgPyIq36v46j337RJmD4uV1ObamipB8GWcFR",
+      "latitude_google": 17.7140662,
+      "longitude_google": 83.2972881,
+      "google_place_id": "ChIJWbjPU8hCOToRba8EvrZV-D8",
+      "google_place_rating": 3.8,
+      "google_user_rating": 3987,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "31-32-75 Gantasala Marg Ladies Gate, Beside, Jothee Theatre Road, Daba Gardens, Visakhapatnam"
+    },
+    {
+      "place_name": "The Eatery",
+      "map_reflink": "https://maps.google.com/maps/contrib/104013356076621476097",
+      "map_nametag": "The Eatery",
+      "photo_reference": "AcJnMuGQ-cWBTn9lYIGrdyD2zf2N4uIomIduWO3VfpotouIOPtf3tjSlGQLdjrDqD-jHaIRXgWGwcXRqv_B54mgNLYNbxC4o6SxRULo7qezFdr3_ujSiYNdK9REr3GMhICZGqti_3zt642Bcr8nKnVUnCNBrh-Q1Dw7-9t2nAhHZao7e6vXf",
+      "latitude_google": 17.7205589,
+      "longitude_google": 83.3122454,
+      "google_place_id": "ChIJc7VIQxVDOToREysU7wSzkpk",
+      "google_place_rating": 4.2,
+      "google_user_rating": 834,
+      "place_types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "10-28-3, Waltair Main Road, Uplands, Visakhapatnam"
+    },
+    {
+      "place_name": "Sree Kanya",
+      "map_reflink": "https://maps.google.com/maps/contrib/102335869091616207325",
+      "map_nametag": "Dipak kr mondal",
+      "photo_reference": "AcJnMuEBjTQsawQh5lYI7DYrgSmdlolJ6t3CmkZ3qEADjt6kEsBIZ0ZkkO8jdo9ACc5rAGrIzPXqrH2WpeWUsvomskxPb3C6xIsJ8SkEEAlykL1kUUwnQSzkYMQ_qRKzs_AOFfcC1jRmVUrE1fz_QGZ0ZhU1XRtAqPSd0eAyESbFV-47b87H",
+      "latitude_google": 17.7237713,
+      "longitude_google": 83.2859843,
+      "google_place_id": "ChIJVVVVJVLEOzoRf1yKOU9hMkU",
+      "google_place_rating": 3.9,
+      "google_user_rating": 21,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "A4, Bowdara Road, Visakhapatnam"
+    },
+    {
+      "place_name": "Sridevi Hotel",
+      "map_reflink": "https://maps.google.com/maps/contrib/105159510464632789833",
+      "map_nametag": "Rakesh Reddy",
+      "photo_reference": "AcJnMuGRGzeTACHTv6--PDqeGwXsqRhSfEUZypAf2BKgVCoKcUIjXVzKV398bJ42J17AqCDVlmpWXTlB8OMMvrUHM91tJU7Mf-5Dw4yO3rIqwzIvh0GscgQ7UJO9W0QcnI_bz0TzK2hZn8IGGiy8_loSCERNvJU_5t5q4GwcNM_nimLemw8p",
+      "latitude_google": 17.7441915,
+      "longitude_google": 83.33342909999999,
+      "google_place_id": "ChIJK87H2FRDOToRqnsLZfS3b6U",
+      "google_place_rating": 3.7,
+      "google_user_rating": 1195,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "MVP Main Road, MVP Sector 3, Sector- 6, MVP Colony, Visakhapatnam"
+    },
+    {
+      "place_name": "Sai Aahar",
+      "map_reflink": "https://maps.google.com/maps/contrib/101880180117655987182",
+      "map_nametag": "venkata reddy",
+      "photo_reference": "AcJnMuEkC2mfUM5hqo4YL_JFBxG6U3wOd4l9dAikO_PR016XRe0J_O1eBvq_CFcjRHMLNK2uhpAK-QohgM4B2Itoy71jVQ6PQbsxRKlUJk5qfSOCdazMq9ljp_ZCs4SiaCwrgfGQPTRYtk_Iiy8_iWkdE946JdqbtHGBmRjcAAcqnhFgCQoD",
+      "latitude_google": 17.718582,
+      "longitude_google": 83.3112262,
+      "google_place_id": "ChIJPaREsBVDOToRCrZq2PKM7DM",
+      "google_place_rating": 3.8,
+      "google_user_rating": 1071,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Haritha Arcade, Opposite Lions Club Of Visakhapatnam, 10-50-54, Waltair Main Road, Visakhapatnam"
+    },
+    {
+      "place_name": "Vaishali",
+      "map_reflink": "https://maps.google.com/maps/contrib/103664004283550156062",
+      "map_nametag": "MEGHALAYAHOTEL FOM",
+      "photo_reference": "AcJnMuEr8nawWCD_LpVPIJzGZdFL80aXoEN1h1Sk0bOkmV-5sxfRvzBKVMvvwnQxjGp8F55brWgJg9cyv8kerXs6XJ95FqweL1bHt_2piXKai_ADo5UrsV71hkp0Mcxo8RKnwEP1QsVfcT-mTWdj5a475tJwn7PzwEPEtaW5kwnFrBZF91yS",
+      "latitude_google": 17.7231737,
+      "longitude_google": 83.30978089999999,
+      "google_place_id": "ChIJYd7Tfj5DOToRKiFQDF66TE8",
+      "google_place_rating": 3.9,
+      "google_user_rating": 44,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Door No 10-4-15, RTC Complex Road, Asilameta Junction, Ram Nagar, Visakhapatnam"
+    },
+    {
+      "place_name": "Fresh Choice-Sai Aditya Foods & Retail Private Limited",
+      "map_reflink": "https://maps.google.com/maps/contrib/116373458553125246965",
+      "map_nametag": "GK",
+      "photo_reference": "AcJnMuGguOvLyLof6bzmwBmu36iNAC_qKNIw21EEoMbLDQWW9OAgukYlyQj8iN1qeT6aK4f8p1HiADaUdTbRHrW6wx9yYjoF2Wl8ElErgrt-2X9TS1fYRVWQJ6rSboEm9gbJiZbXZR4sO9v8iZZqULJJsDV38SQjPmeRj5KMR3ffeF8cQfyR",
+      "latitude_google": 17.7364883,
+      "longitude_google": 83.299791,
+      "google_place_id": "ChIJR8UfvC5DOToRswePrvfvc-A",
+      "google_place_rating": 4.1,
+      "google_user_rating": 223,
+      "place_types": [
+        "bakery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "google_place_vicinity": "P7PX+HWV, Akkayyapalem Main Road, Akkayyapalem, Visakhapatnam"
+    },
+    {
+      "place_name": "Mumbai Chapathi Centre",
+      "map_reflink": "https://maps.google.com/maps/contrib/112103700393616800189",
+      "map_nametag": "B. KIRAN VISHWANATH",
+      "photo_reference": "AcJnMuELKtd0tCKmAjzeEtp7DIDmyuyVPVE88dULSxMNvAzU4SfDn7yI3vBwh9GDqa9uLAdI79in_u_Kb0hvFG0aMYvlqmKfiVU95prykBs0NaibHatWL_jX4wUA1n4mEXOB4X9hY1jpCNBzfmyszX55q7lZVmX8PcaRnyV85Y4q7sdNTedH",
+      "latitude_google": 17.698486,
+      "longitude_google": 83.29576689999999,
+      "google_place_id": "ChIJDQwkCQBDOToRS_yAdQmMYrc",
+      "google_place_rating": 4.1,
+      "google_user_rating": 25,
+      "place_types": [
+        "restaurant",
+        "meal_takeaway",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "25-8-175 Kurupam Market Main Rd Near Kanyaka Paramaeswari Temple, Kurupam, Market, Chengal Rao Peta, Port Area, Visakhapatnam"
+    },
+    {
+      "place_name": "Vaisakhi",
+      "map_reflink": "https://maps.google.com/maps/contrib/103844600835035758674",
+      "map_nametag": "Pakatj Solutions",
+      "photo_reference": "AcJnMuEIDfe6cKIGR9_MEYMu7KWxXT5ql27nKJ0vkrngJtDLL1jyIyK2e4A28NZ6t-WYT5F3iIJb5_tZ3RrbJKNxcj4B9Ti55ZeGLeZYdHyrH0n_3Iw0vE90zd_cwkhSliM0jakkVUlOEljH6wUPtKMLcx3tBbG_Lwmm40Ief8nYnpakxOTx",
+      "latitude_google": 17.7105177,
+      "longitude_google": 83.3006197,
+      "google_place_id": "ChIJG3OMHhtDOToR89qWRWb-VmU",
+      "google_place_rating": 3.9,
+      "google_user_rating": 90,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "28-2-48, Suryabagh, Jagadamba Junction, Visakhapatnam"
+    },
+    {
+      "place_name": "Dakshin Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/116634735330970250181",
+      "map_nametag": "Suyodhan Reddy",
+      "photo_reference": "AcJnMuGzQv9KeuIf5jndC8oeRmPUSLziAfvosMiz2GAXtaw2m9afm8bHIpahcMaA8nTDLlgAUHXQvA8KcYQn7At9daB5CXqr3jEgPBFX05wk7fceG9atXsrrvO1osNspaMzC4q4KerF2neLdieD96WFZY8OWIkS3_wmgowEQvdkInGZ8vLtj",
+      "latitude_google": 17.7107729,
+      "longitude_google": 83.30040009999999,
+      "google_place_id": "ChIJSSousQRDOToRCD_nyARbDTI",
+      "google_place_rating": 4,
+      "google_user_rating": 612,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Hotel Daspalla 28-2-48, 28-2-48, Suryabagh, Jagadamba Junction, Visakhapatnam"
+    },
+    {
+      "place_name": "Helapuri Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/103764894345311467465",
+      "map_nametag": "Sweety Meena",
+      "photo_reference": "AcJnMuGPINmCMfBQ8Ouc1VO3aoCxBlLMqCIaqlvnvvQSkXC1OicfJJM7YaPBO-e1DALrlHn38bYScrkMY02YKPoUW2w5rppnG-JTGuO1GqKyWNYmdCla-8a-X1_WNRLZ4F4nxxT0BnXTes5mp2GIEdWq47A-_Rz0LUWq1Vggu8S39ijTdicx",
+      "latitude_google": 17.7118747,
+      "longitude_google": 83.30133699999999,
+      "google_place_id": "ChIJ1VFXVBpDOToR7fw0BzBT57g",
+      "google_place_rating": 3.1,
+      "google_user_rating": 322,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "2, Chitralaya Road, Suryabagh, Jagadamba Junction, Visakhapatnam"
+    },
+    {},
+    {
+      "place_name": "Horizon Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/107708595708575334144",
+      "map_nametag": "Horizon Restaurant",
+      "photo_reference": "AcJnMuGO8UtT2Tows_r0E9f1cfMAjP6anKb7SbFs4P9LFEvF2EC0AJEA3vI6BuKEMjBAxOEl0YJFXgTKi_Q_Pfvt4iTar7Wx4NKhfCxoelxrDhEDF6Eq_Nqp4cG-UKO2ZFTnX_YZ1d1ORwAXF2lqT9IEb69ZjKl6wwxWOZ9bU9Xzh52lAxt4",
+      "latitude_google": 17.7132837,
+      "longitude_google": 83.2974672,
+      "google_place_id": "ChIJU2WKahxDOToRLGbv-_IO5dU",
+      "google_place_rating": 4.3,
+      "google_user_rating": 1802,
+      "place_types": [
+        "restaurant",
+        "bar",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "7th floor, Dolphin Hotel, 75 Feet Road, Daba Garden Road, Dolphin Area, Visakhapatnam"
+    }
+  ]
+}

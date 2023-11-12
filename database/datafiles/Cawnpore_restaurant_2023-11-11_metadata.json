@@ -1,0 +1,336 @@
+{
+  "city": "Cawnpore",
+  "city_ascii": "Cawnpore",
+  "latitude": "26.4499",
+  "longitude": "80.3319",
+  "country": "India",
+  "country_iso2": "IN",
+  "country_iso3": "IND",
+  "admin_name": "Uttar Pradesh",
+  "capital": "",
+  "population": "2701324",
+  "places_city": [
+    {
+      "place_name": "Dayal Sweets",
+      "map_reflink": "https://maps.google.com/maps/contrib/116587293363492646937",
+      "map_nametag": "Ajay RAJPUT",
+      "photo_reference": "AcJnMuGT_SmHXhqfLhY6QpKWCIm0rI18e8XjrptIARsA1_OmYfyGKC_aWgk_cBdc-QlA1jf3ij7sCrzq_2IN5uPZclbsVxQsJ8ALJEuAO61HSYm4svBVq_bdkKCxOUtSt3TjOptDT-9B37Upfh_nKcb3d9VDFDgjrw_WnAu2ZOc1Z5W0lfTo",
+      "latitude_google": 26.45008,
+      "longitude_google": 80.33110119999999,
+      "google_place_id": "ChIJwVWIEHJHnDkRGSNCBuGwuOs",
+      "google_place_rating": 4.1,
+      "google_user_rating": 36,
+      "place_types": [
+        "restaurant",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "83/335 Juhi Neher, Bara Devi, Baradevi, Dhaka Purwa, Juhi"
+    },
+    {
+      "place_name": "SD Foods",
+      "map_reflink": "",
+      "photo_reference": "",
+      "map_nametag": "",
+      "latitude_google": 26.4583767,
+      "longitude_google": 80.3313397,
+      "google_place_id": "ChIJ03q-wXpHnDkR1_Uz4Y46Wq4",
+      "google_place_rating": 3.4,
+      "google_user_rating": 5,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "India, 85/336, Chandraka Devi Road, Rai Purwa, Kanpur"
+    },
+    {
+      "place_name": "Baba Ka Dhaba",
+      "map_reflink": "https://maps.google.com/maps/contrib/101478591815721420641",
+      "map_nametag": "Rishi Singh",
+      "photo_reference": "AcJnMuEUQPA_o1VebE6yes0R-4_DTDXfipoUAO2VYkVu5pEQHF21JfedZ9FewZj39CSaxGSUlUagPIaraRptXeIYmsmfu5V-kA2Bt1b8ZCJ4KQUOHAnV1S4DOf_fIswAMtws6vovETAYGnCLnwE_q7hrzO07n1eQLWbZQyDvopTuvKfLhIp3",
+      "latitude_google": 26.444171,
+      "longitude_google": 80.3390679,
+      "google_place_id": "ChIJyyZxvhRHnDkRjMKoYE7ALV4",
+      "google_place_rating": 3.4,
+      "google_user_rating": 47,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "133/172, T.P Nagar, Transport Nagar, Kanpur Nagar, Kanpur"
+    },
+    {
+      "place_name": "Domino's Pizza",
+      "map_reflink": "https://maps.google.com/maps/contrib/113516685842004178495",
+      "map_nametag": "sahil katiyar",
+      "photo_reference": "AcJnMuEqdMt9FGMAuRF_jhaHnOXIlYbwC1p73fDJa-h_QGeQFMjhyJaCRfic5AMdt9fri_cKJT4D_6AooI1X7dok05_bxNHpr9ZtzRLTcxDAM9AJr5WMh5lj4hCjiZKpj62HhLAfS9NlPyZGN19r7Nyvcl8DtCy3WV1Dl7sIp_a3bWetUvTl",
+      "latitude_google": 26.4379186,
+      "longitude_google": 80.3356,
+      "google_place_id": "ChIJJ8AHcxFHnDkR77DSY5hiQoo",
+      "google_place_rating": 4,
+      "google_user_rating": 2834,
+      "place_types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Shop No. 6 & 7, Ground Floor, Food Court South X Mall, Plot 9, O Block, Scheme-2, Kidwai Nagar, Kanpur"
+    },
+    {
+      "place_name": "Hotel MMK",
+      "map_reflink": "https://maps.google.com/maps/contrib/109471091064217216328",
+      "map_nametag": "Hotel MMK",
+      "photo_reference": "AcJnMuHVh9DibqufBwNviNlDGDrCP98rlmJ77B7-qQXKcCyBSBsxZ-utFUySb7gt1AcvtpIEcXYXRKA7-0S9PK5hrs-OkQiXI5pyTNN5rCrZP_5m-hNmBMPw5hN1GFA1fI52AQAjSOFVXwvn_nW8xzIPwHAb0NBLUST9r7TrFUkUPPekxxob",
+      "latitude_google": 26.448757,
+      "longitude_google": 80.34713099999999,
+      "google_place_id": "ChIJr2S7fG1HnDkR_dKQhbTAn5E",
+      "google_place_rating": 3.9,
+      "google_user_rating": 805,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "332-A Rail Bazar Cantt, 208004, Harris Ganj, Kanpur"
+    },
+    {
+      "place_name": "AJMERI DARBAR",
+      "map_reflink": "https://maps.google.com/maps/contrib/103764274558500661251",
+      "map_nametag": "AJMERI DARBAR",
+      "photo_reference": "AcJnMuGd1OyAYMSYLxi9FvnQtHJRNmH5ZqrKUQHl8m8bLWjRdff5dlkh4lXUtFrXXHHTRZqGlPe70DP0KFYyIQriJD1Waa1Hql640zlarxtcLo1clUFBNx0HX_xrUtWQOiE3XiOHy8cmwKapy8bgfZJeUwGEZyvfwZ0TOY_KBbKRzFvjKlyp",
+      "latitude_google": 26.4646805,
+      "longitude_google": 80.3375539,
+      "google_place_id": "ChIJRXCOz2NHnDkRegyapjxcJ7Q",
+      "google_place_rating": 4.1,
+      "google_user_rating": 631,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "F87Q+JJW, 105/655, Qasim Ganj, Diputy Ka Padao, Tukania Purwa, Kasimganj, Kanpur"
+    },
+    {
+      "place_name": "Zaika Food",
+      "map_reflink": "https://maps.google.com/maps/contrib/108720204580486463294",
+      "map_nametag": "Muhammad Asif",
+      "photo_reference": "AcJnMuH0HV988HYS1w1-E1nIM-8HKVGRWUyDHyrO-E7SWzFZcD767A7vShWvzfU2JEenO3B4mKVQmWuQvGu1Up_2O2WPo3mCj16HuHKnhouNYaCFnUexizglh81mIj7SbMa3RjBN6ih09gb7oiD5NCrvVpVlxCtj4T1XYseDSlmc6PWw3ZRV",
+      "latitude_google": 26.4649477,
+      "longitude_google": 80.3374134,
+      "google_place_id": "ChIJk6_7zmNHnDkRjfxD_HV8wuM",
+      "google_place_rating": 3.8,
+      "google_user_rating": 9,
+      "place_types": [
+        "restaurant",
+        "post_office",
+        "finance",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Fahimabad Post Office, Tukania Purwa, Kasimganj, Kanpur"
+    },
+    {
+      "place_name": "Food Plaza",
+      "map_reflink": "https://maps.google.com/maps/contrib/110970975905924221706",
+      "map_nametag": "Ajay Kumar",
+      "photo_reference": "AcJnMuHnFvgcHeQXOTw209qVsUuto-S9qMABymLu38_SWkfI4ryW_TXIhc1NdthgwHq2Gh_PA8-M1L5kWeMQTHZf0gxh7xVphjOE20DvSl1pjEfLwVry1vSb2lG3mUBEzVk64HGFBMx4QhuoECL7RLISTcKyoSeZxGbNpeWabGZgRm4cZwiH",
+      "latitude_google": 26.4531259,
+      "longitude_google": 80.3146505,
+      "google_place_id": "ChIJv4jNc5tHnDkRZ6kJOGLGNrA",
+      "google_place_rating": 2.3,
+      "google_user_rating": 4,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "F837+7V2, Govindpuri Station, Govind Nagar, Kanpur"
+    },
+    {
+      "place_name": "Hotel The Central Guest House",
+      "map_reflink": "https://maps.google.com/maps/contrib/116324555223889887974",
+      "map_nametag": "Hotel The Central Guest House",
+      "photo_reference": "AcJnMuHvKsfe_Qgwy4T65X8NVaPoCMfyAUf2lrnf8xIj_C53UfBzgEarxNA5WhHyWFCdvQAMDLcZunngJcItPL3TTG_g0LVyoPMWrLKBLX6onMGvnMviu9lm30NFCj1GgMB0LLiqDLeS_u29zBMteGlN_32c5EQ7CBnr7NAcQSss7Gsc7YxE",
+      "latitude_google": 26.456773,
+      "longitude_google": 80.350112,
+      "google_place_id": "ChIJh03LvURHnDkRHkVbZe9cPIA",
+      "google_place_rating": 3.5,
+      "google_user_rating": 493,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "72/3, GHANTAGHAR , NEAR RAILWAY STATION PLATE FORM NO 9 SIDE, Kanpur"
+    },
+    {
+      "place_name": "Hotel Raja Seth",
+      "map_reflink": "https://maps.google.com/maps/contrib/109204489180963975140",
+      "map_nametag": "Abhishek Kumar Singh",
+      "photo_reference": "AcJnMuEyi0Bd7REJSlJ5xQlr4_rB39Bgf9NbA9eByep6bgSTBAzKodiyOluOPL8eF7p2sIBnB3MnmgyiJH-F6yqz3eTcoDPqBep9a3MNp-C9J7WTUsbX38twyYgBqeMWQrlkY0eDRzRk0u8zsizDSrO4n08mNs88foWctrd2X9iK8ss6K1zV",
+      "latitude_google": 26.4575204,
+      "longitude_google": 80.3489634,
+      "google_place_id": "ChIJC18iVENHnDkR08O1cRIymhw",
+      "google_place_rating": 3.6,
+      "google_user_rating": 756,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "73/ 24, Collector Ganj, Next to Manjushree Cinema, Ghantaghar, Kanpur"
+    },
+    {
+      "place_name": "Radhika Restaurent",
+      "map_reflink": "https://maps.google.com/maps/contrib/115912320587506801192",
+      "map_nametag": "Pranay Pathak",
+      "photo_reference": "AcJnMuGri08Ks4KXYVsaSGEUw4xDvBbNQjgWgyoj0TY70O-_NkDvEwyaF5xzLx3UcRq43RuqyBieZdFqie9wVpSW9RV0QOhM793k9OwvaZnyzZLfKzurq2cC0mQzg65XYDWCDzdoGPGQaVfsXXBhY9tROX_LKZUrqQZQRrKjqijEhi5Ro8DF",
+      "latitude_google": 26.4575574,
+      "longitude_google": 80.34909569999999,
+      "google_place_id": "ChIJae4EolxHnDkRqzx1FLQbFOg",
+      "google_place_rating": 3.7,
+      "google_user_rating": 182,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "73/24 Crossing, Ghantaghar, Collectorganj, Kanpur"
+    },
+    {
+      "place_name": "Hotel Raja Seth Swati Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/107331807073210437226",
+      "map_nametag": "Raj Gupta",
+      "photo_reference": "AcJnMuE_orLIYre6gNac28nae4HY3Dz-VZOG_WKaSmUT0BjTOCcyL00BgTUjkmpZ9LK1Ba-w0ujkg2L32env803XyiWn3ueJAkE5pyLI_veKhfY6uy1fj2v4gXWPJgq1wTqYZFPDzVANqEWgD9Bmub9kgGJssv6yOHaNiRFIRG-yCwlCcheW",
+      "latitude_google": 26.4577024,
+      "longitude_google": 80.3491354,
+      "google_place_id": "ChIJuTYQqURHnDkRfS7Fn5-npvI",
+      "google_place_rating": 3.2,
+      "google_user_rating": 22,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "64/2, Railway Road, Sutar Khana, Ghanta Ghar, Cooperganj, Kanpur"
+    },
+    {
+      "place_name": "Arabian Broost Chicken",
+      "map_reflink": "https://maps.google.com/maps/contrib/103601869392824687696",
+      "map_nametag": "India India",
+      "photo_reference": "AcJnMuHK1CCXhgBDhFWHQX7KnrmVBKov7VMu3j5bZ0_6VU-CMphWNUDOnqXmy1c9psV2gkuciyrTydJrlO71naZz5utSN2yDbH4pT9Lbw0jcr9-QZWftBu_yWnNKkriWqJaGTfe7_MUTEX_MS0c3x7eowekt-iZ3E1Ms9yq3-fz_-pHEyNtN",
+      "latitude_google": 26.4671377,
+      "longitude_google": 80.3343634,
+      "google_place_id": "ChIJN2i78mJHnDkRPZGwHsyRMVg",
+      "google_place_rating": 4.3,
+      "google_user_rating": 283,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "88/514, Jubilee Street, Chaman Ganj, Colonelganj, Kanpur"
+    },
+    {},
+    {},
+    {
+      "place_name": "Kanpur Gifts - Online Cake & Flower Delivery in Kanpur",
+      "map_reflink": "https://maps.google.com/maps/contrib/114000014554403416453",
+      "map_nametag": "Kanpur Gifts - Online Cake & Flower Delivery in Kanpur",
+      "photo_reference": "AcJnMuH7RJ3FA7PouoxgfBnsib1qmI44KND2onKIt9cqsM9jxy8Xy2LqfGqVuqHI2Kj5clw-AIfyiktvCCQ8SalSRBAbxGPM62zveTYJc93zn-ERQD9Je5T-tp2e-TNDIiyh8qzf8zcuHbR_q15A01uxHGdsms-w2ccK_5IhBop2arWliNMG",
+      "latitude_google": 26.43307459999999,
+      "longitude_google": 80.3223865,
+      "google_place_id": "ChIJYa9efFFHnDkRmnV2gqrdcFs",
+      "google_place_rating": 4.8,
+      "google_user_rating": 1012,
+      "place_types": [
+        "bakery",
+        "florist",
+        "home_goods_store",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Shop no.5 N Block, Kidwai Nagar, Kanpur"
+    },
+    {},
+    {
+      "place_name": "fun city",
+      "map_reflink": "https://maps.google.com/maps/contrib/112078655057779020715",
+      "map_nametag": "Ravi Sachan",
+      "photo_reference": "AcJnMuFCvwsLsDV248e3L4UDZH64XWGlus9IS6YD72SIXhv6flqLq0i0yP21kJHI7t_n60bYCyLM0Ycekp9uBC2hhgpUTRqPzzc3wStGKJKmJFyyigS0nZS2XDgzFpmsUWtLxaz4G3lOGVGxmebBMWxTgagOOnmSdmHrbIn9GE77vHcr0kI3",
+      "latitude_google": 26.4696267,
+      "longitude_google": 80.32295669999999,
+      "google_place_id": "ChIJFRfdQ4A4nDkRC0DA8Nu7T2A",
+      "google_place_rating": 4,
+      "google_user_rating": 6,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "107/190, Sisamau Bazaar Road, Nehru Nagar, Jawahar Nagar, Kanpur"
+    },
+    {
+      "place_name": "Jo Hukum Restaurant & Bar",
+      "map_reflink": "https://maps.google.com/maps/contrib/102033240217086318273",
+      "map_nametag": "\u092e\u0930\u094d\u0915\u094d\u092f\u0941\u0930\u0940 \u0930\u0947\u0938\u094d\u091f\u094b\u0930\u0947\u0902\u091f",
+      "photo_reference": "AcJnMuHJcl1Xqgr3MpOBNGcJUdEPaYg_0evS5uHWJiQferGWgQSMbPf9GQolHciFNP0eRgvgJ2a2_83AUNN6-lFEPu2MOW6aNCvu31o1daMQyIGw8tR50RuskV_5arla92VT5Vo9e8ImLjMFmhksb5niZhUuYr5l6A_RpM4wZf-bPHRGE2IR",
+      "latitude_google": 26.4405415,
+      "longitude_google": 80.3103898,
+      "google_place_id": "ChIJLRO0LaNHnDkRrd1YL3bVBRc",
+      "google_place_rating": 3.9,
+      "google_user_rating": 342,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "1/3, W-L, Gaushala Road, Niralanagar Juhi, Juhi Kalan, Saket Nagar, Kanpur"
+    },
+    {
+      "place_name": "MUNNA SAMOSA",
+      "map_reflink": "https://maps.google.com/maps/contrib/117824184792002962131",
+      "map_nametag": "MUNNA SAMOSA",
+      "photo_reference": "AcJnMuEFggseNG-Yc-RdtOQ70rNcTKdM0Pv8AgLABJpTNErUiqxOgJe_YR2mSNdigIPzVk0xqHo-MuL8vO7aBEFbkE1LzbNB-AnBVQ1Twc326EAntyR4QrOiqbugWG1GDcH8RpmO4ugNJh30m6dRmMWCn_MsSrUfV6SJgY1_9C6yQxwBfCvp",
+      "latitude_google": 26.4703335,
+      "longitude_google": 80.3229516,
+      "google_place_id": "ChIJFW1I44A4nDkRLAs9CFCeBzk",
+      "google_place_rating": 4.1,
+      "google_user_rating": 1690,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "109, 80-A, Nehru Nagar, Ram Bagh, Kanpur"
+    }
+  ]
+}

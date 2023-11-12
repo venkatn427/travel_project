@@ -1,0 +1,324 @@
+{
+  "city": "Mirz\u0101pur",
+  "city_ascii": "Mirzapur",
+  "latitude": "25.1460",
+  "longitude": "82.5690",
+  "country": "India",
+  "country_iso2": "IN",
+  "country_iso3": "IND",
+  "admin_name": "Uttar Pradesh",
+  "capital": "",
+  "population": "2496970",
+  "places_city": [
+    {
+      "place_name": "Chappan Bhog - Sweets Shop, Bakery And Restaurant In Mirzapur",
+      "map_reflink": "https://maps.google.com/maps/contrib/112386096210746878743",
+      "map_nametag": "Chappan Bhog - Sweets Shop, Bakery And Restaurant In Mirzapur",
+      "photo_reference": "AcJnMuHguKsPXtAYn4WfxfvfndSI2ViLQPcIvo1K_eSR4I-jJHivmTNDZ43T039wyRqr8Pa1UBkZAh0vljJ6CpGTiTTkPk9u2jryHJuOWNrJlSrl792fNt041RoU-a4wWmF-zRbOvkbavP_XMg24pvhwcVceaktrPFJgfmiJ0jd27mmj3vw5",
+      "latitude_google": 25.136055,
+      "longitude_google": 82.568899,
+      "google_place_id": "ChIJZx634S7AjzkR3Z2cjiFd0EQ",
+      "google_place_rating": 3.8,
+      "google_user_rating": 34,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Railway, Station Road, Mirzapur-cum-Vindhyachal"
+    },
+    {
+      "place_name": "Shivam Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/116903615699659607124",
+      "map_nametag": "Anant Gupta",
+      "photo_reference": "AcJnMuECtRY1SYpiXEcE0xHfFSGxeFBi13QJX3-yEjG9jZs7rAh3tm0I2l_sxE7hnaZy7_ujMBoJfoB7mjYGvcB92Ww92DncoiLWykb6gOwjpxMHqT9XJBymoOoYAE-I_wmVvA9p75_WwqvSPAtfu9Uj4jegEnUxZBLtxknhWaG2hlk6GM5z",
+      "latitude_google": 25.1378799,
+      "longitude_google": 82.5822172,
+      "google_place_id": "ChIJ4TS4PzbAjzkRaaUyL1H4MnA",
+      "google_place_rating": 3.5,
+      "google_user_rating": 356,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "4HQJ+5V4, Lahauli Gautam, Mirzapur-cum-Vindhyachal"
+    },
+    {
+      "place_name": "Fun City",
+      "map_reflink": "https://maps.google.com/maps/contrib/104121633361808563751",
+      "map_nametag": "Fun City",
+      "photo_reference": "AcJnMuHu9hKpKiPdfuTefFHZS9z6WA6pKEf1VzvCnxTjfGq94EDWs4i7NDs4bkg2pRoQmqSB3LKQ7NQ_y6BihKInSJwpkehCAwhgwlW-BybydrSk8fCglrIabb4pdGa1Kkv9U3wVqsfzfuBV9_r-Vy94MlD05QhiME2b3UbxgQR3rO22cXlR",
+      "latitude_google": 25.146717,
+      "longitude_google": 82.54936,
+      "google_place_id": "ChIJJ9af4WLqjzkReJG5mQtfBVE",
+      "google_place_rating": 3.7,
+      "google_user_rating": 536,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Shivala Mahanth, Fun City Road, Mirzapur"
+    },
+    {
+      "place_name": "Maa Annapurna Hotel",
+      "map_reflink": "https://maps.google.com/maps/contrib/117689741475810758284",
+      "map_nametag": "Harish Sharma",
+      "photo_reference": "AcJnMuGg5iWzxPN4DP58XuhttEIiaQnYfS3bKrWRaIYa54UL7sl_aVPLjzSxbA1lsonzplas9l7kr25s5g4miDOT7fjUL3hSL1XdNkPtIi3tFKuzTXCKWR-lvimFxQqrf4TaXL8qwwm6dVF7GDj0V_buuWTDE_HjaMLPszB-gjs77ZXLoCJ7",
+      "latitude_google": 25.1462861,
+      "longitude_google": 82.569026,
+      "google_place_id": "ChIJYyRpFtPBjzkRHHRw2HhdiOo",
+      "google_place_rating": 4.2,
+      "google_user_rating": 287,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Paira Tola, Mirzapur-cum-Vindhyachal"
+    },
+    {
+      "place_name": "Food Affair",
+      "map_reflink": "https://maps.google.com/maps/contrib/112158248018924646096",
+      "map_nametag": "Jaya Gupta",
+      "photo_reference": "AcJnMuEgtk8EdDWru7l3nAaYtLW3HH1OpQPsGz04J4Zf03QzSWRMSDiNOm4MuYI7qsCcUvQu5bHb03V8V-tifbEY4XGhbF6GjbBFYgWzEsG5IXt8s5WIbyPh9FNLQK3GNg068L5WWvik8tXqb_NOywPi2_z35DWOU6RDy44C7IBKvF3ewIm6",
+      "latitude_google": 25.1467018,
+      "longitude_google": 82.5692809,
+      "google_place_id": "ChIJ6Q6TVhzBjzkRNDToVVHGVr0",
+      "google_place_rating": 5,
+      "google_user_rating": 6,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "4HW9+MPJ, Pehti Ka Chauraha, Paira Tola, Mirzapur"
+    },
+    {
+      "place_name": "\u0939\u092e \u0926\u092e \u091a\u093e\u091f \u0915\u0949\u0930\u094d\u0928\u0930",
+      "map_reflink": "",
+      "photo_reference": "",
+      "map_nametag": "",
+      "latitude_google": 25.1450901,
+      "longitude_google": 82.56887019999999,
+      "google_place_id": "ChIJw-IMoTbBjzkR8RkjlGugqFo",
+      "google_place_rating": 3.8,
+      "google_user_rating": 5,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "4HW9+2GQ, Dankinganj, Mirzapur"
+    },
+    {},
+    {
+      "place_name": "Sizzling Bite",
+      "map_reflink": "",
+      "photo_reference": "",
+      "map_nametag": "",
+      "latitude_google": 25.1453905,
+      "longitude_google": 82.56980759999999,
+      "google_place_id": "ChIJ4wve5nrBjzkRnslVzSWPtZQ",
+      "google_place_rating": "",
+      "google_user_rating": "",
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "012, Beltar"
+    },
+    {
+      "place_name": "kake di hatti",
+      "map_reflink": "https://maps.google.com/maps/contrib/111455951972737900257",
+      "map_nametag": "sonal singh",
+      "photo_reference": "AcJnMuHXaTiQ8DVvq9lS0MRua7JjqulyvQquNw_8MNGx1cuQz1HOKnGq0jjnBS_7ubmw46Fg_Ha7dHHLdYbu9ORqW4jrfEcX4Q8vMetZAQZ67nQOOLML-QXIHcCu5E0XcYZfl_tPpTJwxYAkSrALPxLEZzE-C3_TCtHzZcVv-5spDbLehkqd",
+      "latitude_google": 25.1450161,
+      "longitude_google": 82.56925,
+      "google_place_id": "ChIJp95A99zBjzkREIPJWKUHj6Q",
+      "google_place_rating": 4.3,
+      "google_user_rating": 12,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "above Durga Atithi Bhawan, Chinihawa Inara,Dankeenganj, above Durga Atithi Bhawan, Mirzapur"
+    },
+    {
+      "place_name": "\u091b\u094b\u0932\u093e \u0915\u0941\u0932\u091a\u093e",
+      "map_reflink": "https://maps.google.com/maps/contrib/100749357807739439981",
+      "map_nametag": "shahid armaan",
+      "photo_reference": "AcJnMuHE3jmqS6-3Q4dNh8jy3ZpMFE3Q9K0BQ7J7TEBNAwDI4ipIihXn01EQLTpXbAnTnZFmfFkHRXTlNfjgPUq9X1wEsQ-9cRmB1Y9_phUXqeF5uaY9_WyaxuHqNfIH8v2175fOnpXfbbObD41lTyR0UHZJZ57_Jlcifemh7UJXmmTREdD9",
+      "latitude_google": 25.1462065,
+      "longitude_google": 82.56780549999999,
+      "google_place_id": "ChIJQ80UW7jBjzkRhiCeDYlGyXI",
+      "google_place_rating": 4.3,
+      "google_user_rating": 18,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "4HW9+F4M, Pairi, near Tulsi Chowk, Chaubey Tola Street, Paira Tola, Mirzapur-cum-Vindhyachal"
+    },
+    {
+      "place_name": "U.p 63 Fast Food Corner",
+      "map_reflink": "",
+      "photo_reference": "",
+      "map_nametag": "",
+      "latitude_google": 25.1470714,
+      "longitude_google": 82.5694467,
+      "google_place_id": "ChIJ_1clBdPBjzkR5wVTWBfuMII",
+      "google_place_rating": "",
+      "google_user_rating": "",
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Shop No-6, Pehati Ka Chauraha, Ganesh Ganj, Mirzapur"
+    },
+    {},
+    {
+      "place_name": "Variety Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/103008671250231925593",
+      "map_nametag": "Abhilash Agrahari",
+      "photo_reference": "AcJnMuHDlT_UwVBpb18OCXg6VzOBRjIcrc8xv3eCvyhvQ7OFkf6lD4jMQSCGKpFDDKIeSpxiPY3fUQoDg8Bgu4zuF9h3oRrx92DWXS6PfaYjTrRUAUi41EU1h83RR4hXwH6_zI944lvk88UowLEZfBWzZghfYF4ISeUc87OOYspk35zMd_8N",
+      "latitude_google": 25.1448721,
+      "longitude_google": 82.5688232,
+      "google_place_id": "ChIJgWsSNdPBjzkRtDt1JgXfnvI",
+      "google_place_rating": 3.6,
+      "google_user_rating": 195,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "4HV9+WGW, Bhagwandas Baranwal Marg, Dankinganj, Mirzapur-cum-Vindhyachal"
+    },
+    {
+      "place_name": "Cafe Melody and Devalaya Inn",
+      "map_reflink": "https://maps.google.com/maps/contrib/111744906128571649188",
+      "map_nametag": "Cafe Melody and Devalaya Inn",
+      "photo_reference": "AcJnMuEQP5VQU23cJ2wKW3tE0jb4DUL_19vYY2eggdcrn7uigOivzExvlD0AqPjgpSaRkYFasjHqdydBn477XQjNuSGaO6vmggx4CFwqAqF-pLpJ-iEcYrziBy2WzvRbFhpo1WtuE8Vj9N2fXJ4_FsJzcYyoZBZ2vu-S3YB_6AvNDXKOY1bZ",
+      "latitude_google": 25.1449851,
+      "longitude_google": 82.5704253,
+      "google_place_id": "ChIJ8aZlrlLBjzkRxSkn8X_9W5Q",
+      "google_place_rating": 5,
+      "google_user_rating": 7,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Beltar Road, Badli Katra, Dankinganj, Mirzapur"
+    },
+    {
+      "place_name": "ATITHI RASOI",
+      "map_reflink": "https://maps.google.com/maps/contrib/108900773128779120027",
+      "map_nametag": "YASH INN",
+      "photo_reference": "AcJnMuH6B61ie4GenXPaa_KCmBKQO2lYKFzG_hePIa5vqOX-KFmh5QA0X43Q9_IJ3oLLK_c9MIyABhIcxGDUJ_ckyFpHcdwWWLz50f3DuidX90eecTpmctL9P4-H5mqIxfWU3ikxAEeis4USL8b-yABYKQ-Ni3W1HY5lE34nb2zHyvAjlypX",
+      "latitude_google": 25.1447571,
+      "longitude_google": 82.5676934,
+      "google_place_id": "ChIJb-dJU9PBjzkRyxcNa7Wpin8",
+      "google_place_rating": 3.5,
+      "google_user_rating": 96,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Pairiya, Chaubey Tola Street, Dankinganj, Mirzapur"
+    },
+    {
+      "place_name": "Jagdish Fast Food",
+      "map_reflink": "https://maps.google.com/maps/contrib/103536126873322872828",
+      "map_nametag": "Jagdish Fast Food",
+      "photo_reference": "AcJnMuHpNlv8txHrleX6IEUeCtzGLPZYBnvUZuiIFm9lmBWVBNsprb36igMzs8ysdHqAaAHyywRsNxnfPnPlcJEJt87wj_1GfElldGvkM_rdvyWyA8AplrfqSW7LvsmQlWZ9jKEzMqVT-63O3a7u4b2lLmQmu1CjLr8dyOWAGSd--iGxqgja",
+      "latitude_google": 25.1464865,
+      "longitude_google": 82.5708162,
+      "google_place_id": "ChIJ557w93TBjzkRHL_n1jURErU",
+      "google_place_rating": "",
+      "google_user_rating": "",
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Girdhar ka chauraha, 4HWC H8X, Wellesley Ganj, Mirzapur"
+    },
+    {
+      "place_name": "Foodiz veg roll corner",
+      "map_reflink": "https://maps.google.com/maps/contrib/104167608552355065225",
+      "map_nametag": "Foodiz veg roll corner",
+      "photo_reference": "AcJnMuHi4bCPHhmDD_gd59iXR6_p1Vvn3qn85TlXEKfyeTmZrT3VNUOtHEGBQrsAQKsdnHkPx2YakAOrdxGbUcKg1EGbz-YV8tq7BCW0JMINKNEAtlldyYWhjhASH-2yKxz_dVZKagwHyHBplYkYc7bZC5kLpgbsflkc0nI4quYQbotIpLml",
+      "latitude_google": 25.1452649,
+      "longitude_google": 82.57076359999999,
+      "google_place_id": "ChIJZavIi2nBjzkRDSM_6wLYoSA",
+      "google_place_rating": 4.5,
+      "google_user_rating": 44,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Near Girdhar Ka Chauraha, Badli Katra, Arya Kanya Road, Bhatwa Ki Pokhari, Dankinganj, Mirzapur-cum-Vindhyachal"
+    },
+    {
+      "place_name": "Shagun Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/101351526049545538424",
+      "map_nametag": "Shagun Restaurant",
+      "photo_reference": "AcJnMuHFXtLqr3NzniBqX68nWFUImwRw_WuW50jRuEfuC5jwYqcq8zSaiROX77y_37KAiDpROGcOKXJZ2gcUz3OWCVW-NHrn6yBVAT5GOtwE2xrTljF00527NzVOq_d3MN1-4fHSr8zo6OY1m8fK9XlgYcu0XwxQFLrV2rVNpOBi5pUokdMj",
+      "latitude_google": 25.1465689,
+      "longitude_google": 82.5671163,
+      "google_place_id": "ChIJvWvwZdPBjzkRbWbqENKuqOM",
+      "google_place_rating": 3.4,
+      "google_user_rating": 204,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Paira Tola, Mirzapur-cum-Vindhyachal"
+    },
+    {},
+    {
+      "place_name": "New Chatora Bite",
+      "map_reflink": "https://maps.google.com/maps/contrib/105185311603368770409",
+      "map_nametag": "Muktesh Mohan",
+      "photo_reference": "AcJnMuEo1rJLKTo4qbufL43yzNdBce8AIj-eTIRhvkTQgP-askQsMKvdmGsCDTUwu6c1ZWoNey73EeZcg9toVknf3smxUV5dd4yFFdits41C81ypvd3yHIg8MqfONEJ4TToNb0b-5V8lgllwdeDfHJjU8uIqsBTc6LksK_NvWgms8Jf_JtB5",
+      "latitude_google": 25.1447663,
+      "longitude_google": 82.57062909999999,
+      "google_place_id": "ChIJyUOZg_jBjzkRM0u8NpVKJR8",
+      "google_place_rating": 4,
+      "google_user_rating": 2,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Badli Katra, Bhatwa Ki Pokhari, Dankinganj, Mirzapur-cum-Vindhyachal"
+    }
+  ]
+}

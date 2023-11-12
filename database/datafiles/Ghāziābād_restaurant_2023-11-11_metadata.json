@@ -1,0 +1,333 @@
+{
+  "city": "Gh\u0101zi\u0101b\u0101d",
+  "city_ascii": "Ghaziabad",
+  "latitude": "28.6700",
+  "longitude": "77.4200",
+  "country": "India",
+  "country_iso2": "IN",
+  "country_iso3": "IND",
+  "admin_name": "Uttar Pradesh",
+  "capital": "",
+  "population": "2375820",
+  "places_city": [
+    {
+      "place_name": "VEG STATION",
+      "map_reflink": "https://maps.google.com/maps/contrib/110399285332067232746",
+      "map_nametag": "VEG STATION",
+      "photo_reference": "AcJnMuHWsM8w7O0mRtDBxb47QUER3JHimYx2Qp5hts18mg9rnKJ8M7mkjZqzDuQC8ejNOtYmvYMI0YrqE6DcFA559a-X6IW-f1LPG__ohgkjIc0N-j5pd1QLWSaJfsXF-XnByWAVG3NRm-zbJsjusMXdUFnTu8zSU4XzjpDZLRy5qr0CbTk_",
+      "latitude_google": 28.6631495,
+      "longitude_google": 77.4302546,
+      "google_place_id": "ChIJjV9s1svxDDkR-Hm8UtmkWl8",
+      "google_place_rating": 4,
+      "google_user_rating": 325,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "near Veterinary, Shop No.4, Subhash Municipal Market Out Side Nyay Ganj Hospital, near Veterinary, Ramte Ram Road, Ghaziabad"
+    },
+    {},
+    {
+      "place_name": "Udupi Krishna Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/116863741493169692168",
+      "map_nametag": "Udupi Krishna Restaurant",
+      "photo_reference": "AcJnMuEIlOQXG-ThgGCiq6beLJA19yMdLDc-5f5VtqW9SrOE3bqNYgGQCikYgrwhDy0o23AJBvm-wAPW0Dt5gokBb95z12EKiYogmwDaMHKiBKbCCPOODut9Zta-gwsdqYRciX9zP2HxmUiIvEGbaj8Z1T6m5cqkGfUUr5x7V4ZcWbbLbpRE",
+      "latitude_google": 28.668069,
+      "longitude_google": 77.428716,
+      "google_place_id": "ChIJd0zBwLXxDDkRxVXr4t7H2MU",
+      "google_place_rating": 4.2,
+      "google_user_rating": 5522,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "69, Navyug Market, Naya Ganj, Ghaziabad"
+    },
+    {
+      "place_name": "DD Lands Pvt. Ltd.",
+      "map_reflink": "https://maps.google.com/maps/contrib/109106255795751265896",
+      "map_nametag": "DD Lands Pvt. Ltd.",
+      "photo_reference": "AcJnMuGSfJOAVS82OUJYcnBWRzv6tt0ZfJQQ07KxVHwA1x23263DAgYc9UBF58Pqp-beCLd6Jj4zA43ciKCPjJspDtJhokGnzAK29BVod5v3FFOemTkr8R8-DhK5rFXKd_tzXSvStc62_tfszqV_TBiDu5olZAMtKX0fJQKrP5nEj4xkdeG6",
+      "latitude_google": 28.6703452,
+      "longitude_google": 77.4294074,
+      "google_place_id": "ChIJ8QuVILTxDDkRXXGWr1iJCBo",
+      "google_place_rating": 3.4,
+      "google_user_rating": 9,
+      "place_types": [
+        "real_estate_agency",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "J-80 Patel Nagar - 1, Ghaziabad"
+    },
+    {
+      "place_name": "little Chef",
+      "map_reflink": "https://maps.google.com/maps/contrib/111113514368516551176",
+      "map_nametag": "Akshata Gupta",
+      "photo_reference": "AcJnMuG4YjX0CUxAeTp8DCGKdwWyYWJ6LIkP4wbJAmwlUaDAdJYklMHXQ_GpUgCg0G5GsxNgCFyb1oF_bD5I8djut2W6RuH8jCfCE5CnoGAIZwxFlvZP3OD6bsj8waf_3dofiXM_Bsv-P4w0KIPez1uj3LqUk20gi1wp7u9nlWHea_wz4BnZ",
+      "latitude_google": 28.65978539999999,
+      "longitude_google": 77.4272945,
+      "google_place_id": "ChIJZfIAfczxDDkRkHMR5Ax79fw",
+      "google_place_rating": 4.2,
+      "google_user_rating": 294,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "71 railway road ghanta ghar, ghazaibad"
+    },
+    {
+      "place_name": "Aa",
+      "map_reflink": "https://maps.google.com/maps/contrib/102069117657311086445",
+      "map_nametag": "sunil kumar",
+      "photo_reference": "AcJnMuGg-adTVDOZn-aabQMuEUasJnZxMcZ3zoFEDFDn5hK4lHC1SsL_CpipzfKfyZpC5d8A8Q9krxgbx5K11BqSCirkL1LYR_wB06PVDskr8D8rfiKooHpUSL_k9D59LU0PfGla1uUWDPGHfFlsZ0D-0xH81gLlJ0x1NLNy63O81jKPbgLu",
+      "latitude_google": 28.6794954,
+      "longitude_google": 77.4298962,
+      "google_place_id": "ChIJZ_Wn363xDDkRvWkdbxk5P2k",
+      "google_place_rating": 4.3,
+      "google_user_rating": 16,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "C41, Sector 21, Meerut Road Industrial Area, Ghaziabad"
+    },
+    {
+      "place_name": "MANGLI HOSIERY",
+      "map_reflink": "https://maps.google.com/maps/contrib/111598759598308069179",
+      "map_nametag": "MANGLI HOSIERY",
+      "photo_reference": "AcJnMuFlCJ1RMt0zKAEI3j2GZnKm13JR0kcltRp6NX0VUgO6vNA-1a_uldPgUiNKloVcyOE2HuNeDbCC4En9Y478pp9olpX0krlI4epwOuo1SXRGZmZRSa2dmhqF_zSiSYaxb0uY08GqiGM8AwvGToplqkqK9KM8nRpIH_lpfNTB3TAhezq2",
+      "latitude_google": 28.6601266,
+      "longitude_google": 77.43416289999999,
+      "google_place_id": "ChIJVVVVGc_xDDkR8Jmai9HFKA8",
+      "google_place_rating": 4,
+      "google_user_rating": 532,
+      "place_types": [
+        "clothing_store",
+        "store",
+        "health",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "402, Turab Nagar Turab Nagar main market, Ambedkar Road, Ghaziabad"
+    },
+    {
+      "place_name": "The Yellow Chilli",
+      "map_reflink": "https://maps.google.com/maps/contrib/101432554183428501121",
+      "map_nametag": "Rahul yadav",
+      "photo_reference": "AcJnMuG3N-EPZFUeTtlobj35G7cSjfp7yVy2WdxPWKz00VkEPY7PWb2b2g8v8bwAU5Hlqkcrqr3elEdwOXEsKRDzZ9_9PaX2VPJTiWphem-dWVY0WvVZXsKzXgVt1RZ6t3H1OzRN2zcqIVzZ32Wnh9hjl7GLxNpVivV0Flyp38vKMSgU3Qkb",
+      "latitude_google": 28.6828104,
+      "longitude_google": 77.42863919999999,
+      "google_place_id": "ChIJ8f__v63xDDkRKEvB_g-Xdao",
+      "google_place_rating": 4,
+      "google_user_rating": 680,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Plot No -A 1/1 Movie World Multiplex Complex, Sihani Chungi, Sector 21, Ghaziabad"
+    },
+    {
+      "place_name": "Sugandh Sweets",
+      "map_reflink": "https://maps.google.com/maps/contrib/110774312700321987651",
+      "map_nametag": "Sugandh Sweets",
+      "photo_reference": "AcJnMuGtKJEcGOY5tFM1rEkwJZeNv2ahWxBWeFi4sXB_WDiMtR4HjbYm5SA20tgdP5U398X_iz6wQPYWVrwoN0pjdNkMrB9svyE2uBdobOWEmFGUSIw6IYI3eikXmZkHe4q_5FYjZl0r6Fib3X3Tipe4wmgyGMBk-GP1xxL-7G4UC8UGkkDy",
+      "latitude_google": 28.6583991,
+      "longitude_google": 77.43541309999999,
+      "google_place_id": "ChIJ6bT2RbbxDDkR2PcydHgCFjE",
+      "google_place_rating": 4,
+      "google_user_rating": 251,
+      "place_types": [
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "3rd, N/23, Ambedkar Road, Meerut Road Industrial Area, Ghaziabad"
+    },
+    {},
+    {
+      "place_name": "McDonald's",
+      "map_reflink": "https://maps.google.com/maps/contrib/105903044343295220328",
+      "map_nametag": "Sugam Sharma",
+      "photo_reference": "AcJnMuGgFcMdfBpu6U3-XOcBnILfqanSRJj4K9brDLtdf9e-k_17fvFq36mtw9LDuoYhjKUIZxKZshDNrqSK3fcCfx8I7D-QJ1XNjUvaK4d8QnZgFmc2cTA0mOoJmQDg-_agx-GyUM0r7mPhuZsQrx1KGs3HIG0IP21yimPCNL9APTjEXvnJ",
+      "latitude_google": 28.6739763,
+      "longitude_google": 77.440054,
+      "google_place_id": "ChIJcz2ewrvxDDkRAK7DEmnsMhs",
+      "google_place_rating": 4.2,
+      "google_user_rating": 3972,
+      "place_types": [
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Gaur Central Mall, Shop No GF 01, FF 01, Raj Nagar, Ghaziabad"
+    },
+    {
+      "place_name": "Giani -G",
+      "map_reflink": "https://maps.google.com/maps/contrib/118041321647389398798",
+      "map_nametag": "abhi nahi",
+      "photo_reference": "AcJnMuE6rc9huJa2BEnYVoQlHq37-OCTNwMcL71Agc4D6rcQrhAiqg_v4p4cpXRuol6zcIHXwmMfJXd6nfPNXFC3Utux38H2lfT7GcNalLIK903KlxnWaG-0sE9DEgA8ciQWPZP_VpEslHyHY-dH8mLBOWW6WJtNhpvuXIlsNFsOpvNKv3rR",
+      "latitude_google": 28.6739653,
+      "longitude_google": 77.440073,
+      "google_place_id": "ChIJOd2CwrvxDDkRiy5HaxocgsM",
+      "google_place_rating": 3.7,
+      "google_user_rating": 40,
+      "place_types": [
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "106, Maharana Pratap Marg, Raj Nagar, Ghaziabad"
+    },
+    {
+      "place_name": "Barbeque Nation",
+      "map_reflink": "https://maps.google.com/maps/contrib/100040098815089636445",
+      "map_nametag": "Bikash Kumar Jha",
+      "photo_reference": "AcJnMuE-TVdfMKcdtnSv-ELzgB8R7aqathNZ7ss-bNAadMta97MjFN_uubYLzsFk8uxCTQghfLW3ZJo5eyqrsttqw14_4zIFalsu_00qrB310s1UEYpU83UiUS-ch9Ln_V1NWH1FrAxuczVFJE6LvaSBlWcspLmpmcUZvgQfZWjQgueSmA-z",
+      "latitude_google": 28.673997,
+      "longitude_google": 77.4400991,
+      "google_place_id": "ChIJQ8_H57vxDDkRC-Urkw88wz4",
+      "google_place_rating": 4.3,
+      "google_user_rating": 3950,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Gaur Central Mall, 5th Floor, opposite HDFC Bank, RDC, Block 1, P & T Colony, Raj Nagar, Ghaziabad"
+    },
+    {
+      "place_name": "Bikanervala",
+      "map_reflink": "https://maps.google.com/maps/contrib/116478428246026603785",
+      "map_nametag": "Tunir Sharma",
+      "photo_reference": "AcJnMuGdY-CzfpL1fL5W_-xzuAIgjGPP7LUklUHWwDv8cN-3TWdr8ZItAcAl8konodWCpsZE-O9ljYFRqU07jz6LjoeNXs5X0ODWEJA4VkpFpr5nAZBM4be8gTTAgg7KoPK3aS9naq8TqCXE6rgPOYpSX0LBm23gP4Jr1m9llG0X8012AGYy",
+      "latitude_google": 28.656764,
+      "longitude_google": 77.4343384,
+      "google_place_id": "ChIJHYeAwc_xDDkRaqoTsjVHqFo",
+      "google_place_rating": 4,
+      "google_user_rating": 3669,
+      "place_types": [
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Shop No, near Choudhary Morh, 40, Ambedkar Road, Maliwara, Nehru Nagar, Ghaziabad"
+    },
+    {
+      "place_name": "Domino's Pizza",
+      "map_reflink": "https://maps.google.com/maps/contrib/103021011523890022832",
+      "map_nametag": "Domino's Pizza",
+      "photo_reference": "AcJnMuFxzpN_SdfV_0JXmFec2gHvpnnLf3nSUksUvu4Pl5-_6eMYEIbULGExHnO-BGwyOevfOZbAOwPNJyCKyeuWOKd6sa_xNVMjm4o83PaEOVPqnvIfHP2lrd-S58cL-uJgViIkLDRF74VfRzD2qkYNkvejNpixIgAA5pfXfOUBmXhKaF1-",
+      "latitude_google": 28.65610839999999,
+      "longitude_google": 77.4336363,
+      "google_place_id": "ChIJX_S1Ngb7DDkRHGm3lRbxWv4",
+      "google_place_rating": 3.9,
+      "google_user_rating": 2834,
+      "place_types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "PLOT NO. 15-A, MUNICIPAL NO. 96A, ground floor, 15-A, Grand Trunk Road, Model Town East, Ghaziabad"
+    },
+    {},
+    {
+      "place_name": "Pind Balluchi RDC",
+      "map_reflink": "https://maps.google.com/maps/contrib/118067938923696049958",
+      "map_nametag": "Pind Balluchi RDC",
+      "photo_reference": "AcJnMuGf0t2p-pex5pQo2_bC_uBPwRCFDLxEVOhaosSNbO-SGBStQoMXFKYHn98otZQf0UZ8eEqeNdXXNSglTk9lNsXnic_ryfLU0vlQEKBq-OGoDCoiseOF0fXY1ffaA3dXB71ZZpMrCW6lyfd_dQpSIsoPFJQP-H_QGL0u5cIUato8mN_l",
+      "latitude_google": 28.6749737,
+      "longitude_google": 77.4411304,
+      "google_place_id": "ChIJgfzKvbzxDDkR1yuqjornJVA",
+      "google_place_rating": 3.9,
+      "google_user_rating": 1966,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "opposite BSNL Exchange, Ground Floor, D-8, opposite BSNL Exchange, RDC, Raj Nagar, Ghaziabad"
+    },
+    {
+      "place_name": "Standard",
+      "map_reflink": "https://maps.google.com/maps/contrib/102583143735956206836",
+      "map_nametag": "Shivam Thakur",
+      "photo_reference": "AcJnMuE_HulegV3zPKfZOlxNieVgyn4mYbG62r0t8HumwjQPk5UiCNG1ayKezm4Xu8_b2tl98q8P7l116QR99EXKDLkhIfHzNwkq7BblnofEcdXGrN7SbPu7_QyL7cgyLFJOaFDryEuUrRu6G0i96W2xYP-cB1jTOpKNsSEmyVZoI3x-Tk63",
+      "latitude_google": 28.657012,
+      "longitude_google": 77.4363621,
+      "google_place_id": "ChIJHes-XcXxDDkRgUcV-5NKsRc",
+      "google_place_rating": 4.1,
+      "google_user_rating": 33,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "MC4P+RG5, Gandhi Nagar, Nehru Nagar III, Nehru Nagar, Ghaziabad"
+    },
+    {
+      "place_name": "Le Winkies",
+      "map_reflink": "https://maps.google.com/maps/contrib/109287191139882432950",
+      "map_nametag": "Rakhi Raj",
+      "photo_reference": "AcJnMuFzd_f1ZHG_0w6WgOkS0aRf_BfPMxFdconb4FJIHJjGJY-oWsKDPi4hY3u5GZ93MsuhIQW1_lHxE2UZ68ONkHERN_hhLtaer8OvhLaMkAHiI6yD8o4qmxXBi1J27PmHeX7HynZnjjhpUZCNIKA-fCCQu-gFJ1VxwknbFz8GRj4N5iC9",
+      "latitude_google": 28.6749123,
+      "longitude_google": 77.44179849999999,
+      "google_place_id": "ChIJUVVV2b_xDDkRuvZGFHRB3GY",
+      "google_place_rating": 4.4,
+      "google_user_rating": 2314,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Block 1, P & T Colony, Raj Nagar, Ghaziabad"
+    },
+    {
+      "place_name": "Subway",
+      "map_reflink": "https://maps.google.com/maps/contrib/115268465710272309243",
+      "map_nametag": "Amar Singh",
+      "photo_reference": "AcJnMuH3A0jKWgUOQB8Hjy2ag3bZEJ3E2hZaNMLy1eIhg9jwkhBtf9gbViFk32PptwvygmYG3orIS6KJriByiEOjJT624C6ORB7DEgnPBYD82aa_U28BOgSw6uSRVb1K9z9G73VpHpp41iyGOvpwurV30yL1UwyeAkiX5jGYPraTVtId9Mpw",
+      "latitude_google": 28.6749612,
+      "longitude_google": 77.4422321,
+      "google_place_id": "ChIJeeLTcrzxDDkRgAyaq3DgzD0",
+      "google_place_rating": 4.1,
+      "google_user_rating": 741,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "MCFR+XVQ, C Block Road, RDC, Sector 15, Raj Nagar, Ghaziabad"
+    }
+  ]
+}

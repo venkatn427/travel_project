@@ -1,0 +1,310 @@
+{
+  "city": "Kolk\u0101ta",
+  "city_ascii": "Kolkata",
+  "latitude": "22.5675",
+  "longitude": "88.3700",
+  "country": "India",
+  "country_iso2": "IN",
+  "country_iso3": "IND",
+  "admin_name": "West Bengal",
+  "capital": "admin",
+  "population": "18502000",
+  "places_city": [
+    {
+      "place_name": "Sugar & Spice",
+      "map_reflink": "https://maps.google.com/maps/contrib/108121805194764957943",
+      "map_nametag": "BARNALI MUKHERJEE",
+      "photo_reference": "AcJnMuGB59devHH7n6IQYjYBH0PlvyMvANN112ZXsC91fzPKEjDbkEuSuJz4e2AoSnrMqlN95GbeWlpLBC1HrOonFMHSbLDl-LWKxUwJyTddIqRikPi75DENZTklE202HuTrCLo4LDLrI79laN-Gcc4uD7torkzOHxphXg2E6RtM7SNXkb4",
+      "latitude_google": 22.572646,
+      "longitude_google": 88.36389500000001,
+      "google_place_id": "ChIJe6yzIVN2AjoRpnq6Ojv2HoM",
+      "google_place_rating": 3.7,
+      "google_user_rating": 26,
+      "place_types": [
+        "restaurant",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "78/B, Acharya Prafulla Chandra Road, Sealdah, Newland, Baithakkhana, Kolkata"
+    },
+    {
+      "place_name": "Target",
+      "map_reflink": "https://maps.google.com/maps/contrib/116246600267765913958",
+      "map_nametag": "Mahamaya sinha",
+      "photo_reference": "AcJnMuHsM6MqFetiP2Vzs0-_Hp6BOXVXa8pqw6NIQ7JWe8UxvifdByuXggusGO-baUU2RnatFLh0uQGu49fqqim4CtNQ0_8Wt-_H21R4STbxi0PPp2YngtB2y_RnoczL57m66xQcNCjn-V7Zsvx31qKCUqErj6vVBDNcse1QbnV4ZR_kZaKk",
+      "latitude_google": 22.5779656,
+      "longitude_google": 88.36896449999999,
+      "google_place_id": "ChIJFRuNb052AjoRczdlejfgkmY",
+      "google_place_rating": 4,
+      "google_user_rating": 52,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "116, Keshab Chandra Sen Street, Machuabazar, Kolkata"
+    },
+    {
+      "place_name": "Kalika",
+      "map_reflink": "https://maps.google.com/maps/contrib/106449242842677329728",
+      "map_nametag": "Mr Mazician",
+      "photo_reference": "AcJnMuFqbgT6w4enKYxJTtZqmz4eZtnVcqaLkWonddfbvCgwYJTquWKGq4ufqJGmq6_PkVniQCiqm3SdvGKHZckwTAwcfsg1g4toqRB_KETb-Y_lXr7EW-z0mCDRN8APKCa7pklgoMWQSvz8Y7_lo3dav-0uYeJRyQnPTsO2hsgoaG3anFYE",
+      "latitude_google": 22.5728549,
+      "longitude_google": 88.3665144,
+      "google_place_id": "ChIJP9TSylN2AjoRLfcvd9C0_Lc",
+      "google_place_rating": 4.2,
+      "google_user_rating": 2641,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "29, Surya Sen Street, College Square, Kolkata"
+    },
+    {
+      "place_name": "Annapurna Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/107539241502228911166",
+      "map_nametag": "Soumili Sil",
+      "photo_reference": "AcJnMuFBxF2NIivKDsUwUhYJX_FCTMQpIXMRxXgn4IvnWZw2eME-ZxYAKN1GxzOrz3wy97ql0zbScK7x4asUIIC2S0s6Qwx6QvxZOelIWXmCOFtkaTUgRP4LIH0yLUSF91vDiXqqGB4pnIem8dNHsNUIi7KrcmOoKLJLqH-BiCbrg0D2XFt4",
+      "latitude_google": 22.5709242,
+      "longitude_google": 88.3690227,
+      "google_place_id": "ChIJ9SwGb1F2AjoRdtCULiTA6QY",
+      "google_place_rating": 4.1,
+      "google_user_rating": 151,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "23, Mahatma Gandhi Road, Sealdah, Baithakkhana, Kolkata"
+    },
+    {
+      "place_name": "Tajmahal Hotel",
+      "map_reflink": "https://maps.google.com/maps/contrib/114850061319860094672",
+      "map_nametag": "Pulkit Dance Studio",
+      "photo_reference": "AcJnMuGRoK4xjlilr_3jGrou374-CMcpgB7xJh8ivY0PRRj2M-17SNIe8tDCSv1Eep-b2je6SytRok9zYZdxgR4S6aIbrZYCMGAug63NGTtIW8Q-9hbd8yVLZ_tclakJZtKfp3Vl1oKJ2lVaw63PwbkaW6w27CQf9tGVthtpClD96O6TxV5Z",
+      "latitude_google": 22.5688128,
+      "longitude_google": 88.37018859999999,
+      "google_place_id": "ChIJiWKALVd2AjoRX4HrjjXJ3xE",
+      "google_place_rating": 4.2,
+      "google_user_rating": 81,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Acharya Prafulla Chandra Road, Sealdah, Raja Bazar, Kolkata"
+    },
+    {
+      "place_name": "Shankar Hotel",
+      "map_reflink": "",
+      "photo_reference": "",
+      "map_nametag": "",
+      "latitude_google": 22.5705659,
+      "longitude_google": 88.3686252,
+      "google_place_id": "ChIJBY4GSFF2AjoRwPS-i2lcwUM",
+      "google_place_rating": 5,
+      "google_user_rating": 3,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "10A, Baitha KKhana Rd , A.J.C.Bose Road, Park Circus, Baithakkhana, Kolkata"
+    },
+    {
+      "place_name": "Arambagh's Chicken",
+      "map_reflink": "https://maps.google.com/maps/contrib/108294676865696013050",
+      "map_nametag": "Arambagh's chicken",
+      "photo_reference": "AcJnMuHsKHBLjS9oLbIFC8DA8m6ETPzGCTWG1k2qs0Sa0nOy_ZWW2yl6j5MqAaGznQbPBgNkEuMrsFvCImVBCuB6fcd_JpOeIEMFlsyBBsPhegQdA7_dtAF5TAgY1iyhuA1GQ2B3njCAymr8AdPXBoL9sGENW-CeUF_p-ZfGWL5H0APvz0-J",
+      "latitude_google": 22.5735271,
+      "longitude_google": 88.3673977,
+      "google_place_id": "ChIJ5-IeV052AjoRQaPKv5agTxI",
+      "google_place_rating": 3.9,
+      "google_user_rating": 88,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "24B, Amherst Street, M.G Road & Amherst Street Crossing,, Kolkata"
+    },
+    {},
+    {
+      "place_name": "Mother Dairy",
+      "map_reflink": "https://maps.google.com/maps/contrib/105918141809579342223",
+      "map_nametag": "ASHOK KUMAR A",
+      "photo_reference": "AcJnMuEhqhMAS1QoMz5Fzbe7tDCp-Y7-T8rox7Q4Welp7CX1BcJL_OaiWedtR0YLguk21_S50IYmMJ3A_HK3WVRAZKawanH6jWKnyntxncCfr5t3x6cBvEhTNlxp71LEbDg7QjIkZ3cZ6K81sGImv8RsnqrwzknquH88smUIdrzATwmgJI5u",
+      "latitude_google": 22.5728816,
+      "longitude_google": 88.37572259999999,
+      "google_place_id": "ChIJOw9tp1t2AjoRDJYNsJkRcAo",
+      "google_place_rating": 4.2,
+      "google_user_rating": 28,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "H9FG+575, Harshee Street, Raja Bazar, Kolkata"
+    },
+    {},
+    {
+      "place_name": "Haveli",
+      "map_reflink": "https://maps.google.com/maps/contrib/110213552762856085061",
+      "map_nametag": "Dhruv Agarwal",
+      "photo_reference": "AcJnMuGX6EJtXXVbRY2DzlqSFdGIwCSHNIDA0PsY-kjOvoJdDKaoSnX1RufYyfabTJiTVi4BpzON2CbBTZf7RP6j8VRi8liK8KjX5ZhiAz1K0yr41_z4iX38B45q1HsMyMzOES4fn7xKJ6so9kYLTrA7tVX9A8ONxx6SK-S4qyfeHPSRogIT",
+      "latitude_google": 22.57265499999999,
+      "longitude_google": 88.3638989,
+      "google_place_id": "ChIJV4XKzr11AjoRP0-VgPG3Zvw",
+      "google_place_rating": 3.9,
+      "google_user_rating": 214,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Ck2,2nd Avenue, Sector-II, Kolkata"
+    },
+    {},
+    {},
+    {
+      "place_name": "Food Station",
+      "map_reflink": "https://maps.google.com/maps/contrib/100637656554094612567",
+      "map_nametag": "Norbu Gyeltshen",
+      "photo_reference": "AcJnMuHvB9MToUADkqSW0a91XR2gR8bN3UPzbPK4I0Y55UDPZLzVMntq5TJx44F-jVbHBAAl2vaFOd-4j0C6_snaKbY6NnMXNPhe-w_SguhSicuA471obVcd20Cu4pehhWuWSEdya9Kyw8rf5_98co5TXfQuQ4uTdIg8QBfnV4IyA6qW3Ea0",
+      "latitude_google": 22.5737668,
+      "longitude_google": 88.3628191,
+      "google_place_id": "ChIJxwdGy1J2AjoR8-i_4xpEAL4",
+      "google_place_rating": 4.1,
+      "google_user_rating": 2203,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "opp. kolkata medical college, 52/1/1A, College Street, Newland, College Square, Kolkata"
+    },
+    {
+      "place_name": "Tasty Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/100630058434902145620",
+      "map_nametag": "Disha Das",
+      "photo_reference": "AcJnMuEyksm9yqyf0JKsEkjPi4Rs3GhNbpXcOvU9SHrXqMB9f-0yLaV7Vl-WcFSVbQTAro2z--9SMm-10yxJQP1o6XYkcbAnexOySeew0fgJXjLlH6Ysy3JHuQWDvr0G1DaN3Mukm92h4k3jiApxA7KWrwdsr0NBqikvLeUsDvaxjQ7nk1yE",
+      "latitude_google": 22.5758336,
+      "longitude_google": 88.36469269999999,
+      "google_place_id": "ChIJZQZtYk12AjoRM460gcFy8co",
+      "google_place_rating": 3.9,
+      "google_user_rating": 279,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "12/1A, 12/1A, Bankim Chatterjee Street, Kolkata"
+    },
+    {
+      "place_name": "Taj Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/112219778391546366399",
+      "map_nametag": "Taj Restaurant",
+      "photo_reference": "AcJnMuGz8OaPdxW7jg4-rOs16Dtudb0kOIC__iH-mvEIH0Gownh7J4c9XACYr81hFAuSRI3Tsi6qLax0w2M879tLFZzpwKR_1xuS2mf_p2GbaIlDUsLi8560HP8nRFrddrUJjW3WdqRJfhlUR8RXUmgzeZt0tJiJMicTFmDpwKq-sHWp_oBT",
+      "latitude_google": 22.5770932,
+      "longitude_google": 88.3722825,
+      "google_place_id": "ChIJN6vV9U92AjoRATmmV4YyR-4",
+      "google_place_rating": 3.8,
+      "google_user_rating": 538,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "147, Keshab Chandra Sen Street, Machuabazar, Kolkata"
+    },
+    {
+      "place_name": "Domino's Pizza",
+      "map_reflink": "https://maps.google.com/maps/contrib/113019998498827186096",
+      "map_nametag": "DHANANJOY ROY",
+      "photo_reference": "AcJnMuFlnRhifX6G5Hust03sMe3cSDWbxeglFrq-xr2FiDXNppUBpxQBVH5uR1d--pZ77upJ3D1tDFsuyCbduL9S7Q2Z_F4X_hQ_S5Ovj_6iYkLIZzw52RrmENiBSi6EqQ1aiFckNJ8AGd_9MXzRJsGWoy9htf1bC4eqF_SjzfC4JDm78yMo",
+      "latitude_google": 22.5580934,
+      "longitude_google": 88.3655702,
+      "google_place_id": "ChIJUVHzgv52AjoRefqr9vDPfeU",
+      "google_place_rating": 4.1,
+      "google_user_rating": 2343,
+      "place_types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "No 84A, 1st Floor, Fomra Tower, opposite Entally, Market, Acharya Jagdish Chandra Bose Road, Sealdah, Kolkata"
+    },
+    {
+      "place_name": "Tasty",
+      "map_reflink": "https://maps.google.com/maps/contrib/110432653101496400842",
+      "map_nametag": "Ayantik Biswas",
+      "photo_reference": "AcJnMuGjNaoySU0IlH-5Dch-S3cPaKUtOsa8un5V3eB7Pd5UbF2n1ktZzg7-jSmgiIfhebA3wMdGiAA6Tw1vuB2EpvWNR1saVlx23gEvpBE-E9VM1fgcpvA5gyJ4HnwCyicDE0wobyQDLlSJQo9VWcXo3--HBMhXYTOgrrl2mgQ261b6pOpj",
+      "latitude_google": 22.5769457,
+      "longitude_google": 88.36474969999999,
+      "google_place_id": "ChIJaULbMEZ2AjoR3aKdac5Q4KU",
+      "google_place_rating": 4.3,
+      "google_user_rating": 28,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "77/1, Mahatma Gandhi Road, Amherst Street, College Street, Kolkata"
+    },
+    {
+      "place_name": "Yummy Tummy",
+      "map_reflink": "https://maps.google.com/maps/contrib/117305466356864019592",
+      "map_nametag": "Abdul Muthlib Choudhury",
+      "photo_reference": "AcJnMuEC7bBuA038BLZ0h3zLSTdGN7kIEg2RnYUryaRER_OKjiDrksaLIPyvW819AA1j0joADUHFJ3aET0Wb1tKccIgbM5HYhLzP1IM2HiTI3wWSJXUZt9QIrkc1K3H_b-iQMPMqRfMEk7HBg5iiMl-lFPUgU6bVaLcWseg2_oLeup3cR-18",
+      "latitude_google": 22.5766171,
+      "longitude_google": 88.3640379,
+      "google_place_id": "ChIJ58W8Qk12AjoRRUd6-X2TNHY",
+      "google_place_rating": 3.8,
+      "google_user_rating": 121,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "65, (Opp., 65, College Street, Kolkata"
+    },
+    {
+      "place_name": "Rehan Restaurant",
+      "map_reflink": "",
+      "photo_reference": "",
+      "map_nametag": "",
+      "latitude_google": 22.5681647,
+      "longitude_google": 88.35768519999999,
+      "google_place_id": "ChIJa2bcYKl3AjoR3UOaZtd31mw",
+      "google_place_rating": 3.7,
+      "google_user_rating": 3,
+      "place_types": [
+        "real_estate_agency",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "34, Chittaranjan Avenue, Chandni Chawk, Bowbazar, Kolkata"
+    }
+  ]
+}

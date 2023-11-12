@@ -1,0 +1,362 @@
+{
+  "city": "Bangalore",
+  "city_ascii": "Bangalore",
+  "latitude": "12.9789",
+  "longitude": "77.5917",
+  "country": "India",
+  "country_iso2": "IN",
+  "country_iso3": "IND",
+  "admin_name": "Karn\u0101taka",
+  "capital": "admin",
+  "population": "15386000",
+  "places_city": [
+    {
+      "place_name": "Oakwood Premier Prestige Bangalore",
+      "map_reflink": "https://maps.google.com/maps/contrib/111206751990745939258",
+      "map_nametag": "Oakwood Premier Prestige Bangalore",
+      "photo_reference": "AcJnMuHgjY4t2hE65AWy9hwsZ_YDxiniDxWm3RpUDgkO0CCOXjjlG9Cva59cMUJkBklhB7EsoFj7smLQ3m6XXNhaXa59tbGxocXztNNnKwQvHTLmrhtsvM-S94-k7K21ePh_PGaVsZOMeaRa1O2jezjlt7PTCUKCMLEt4l4Q_4cBNUB3QuRl",
+      "latitude_google": 12.9716313,
+      "longitude_google": 77.59581170000001,
+      "google_place_id": "ChIJjfOyQ3cWrjsRWT1o2XkzO94",
+      "google_place_rating": 4.6,
+      "google_user_rating": 3403,
+      "place_types": [
+        "spa",
+        "night_club",
+        "bar",
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "UB City, 24, Vittal Mallya Road, Ashok Nagar, Bengaluru"
+    },
+    {
+      "place_name": "Fortune Select JP Cosmos",
+      "map_reflink": "https://maps.google.com/maps/contrib/100891243065217325246",
+      "map_nametag": "Fortune Select JP Cosmos",
+      "photo_reference": "AcJnMuEpNdpe7m5mztPtI108HecIdUjizgxD0_oERDhyv-nQj32UHmBhWRqQFFdslHLCd_1GNtNoTslJLJSPta1E8w1x0AKQ83TUT21153Kvqi_ws83rylqR37YQpVC0Q_ud6rt7hJqIhRQkfuNRlm-FSNfXtBmw-7m8XHqarDnJ9RaRE2R1",
+      "latitude_google": 12.989634,
+      "longitude_google": 77.59485730000002,
+      "google_place_id": "ChIJ8chsFWgWrjsRWEHptfbZ30A",
+      "google_place_rating": 4.1,
+      "google_user_rating": 3831,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "behind \u092b\u094b\u0930\u094d\u091f\u093f\u0938 \u0939\u0949\u0938\u094d\u092a\u093f\u091f\u0932, 49, Cunningham Crescent Road, Vasanth Nagar, Bengaluru"
+    },
+    {
+      "place_name": "37th Crescent Hotel Bengaluru",
+      "map_reflink": "https://maps.google.com/maps/contrib/118402887172909209548",
+      "map_nametag": "lakshmi narayana Prasad",
+      "photo_reference": "AcJnMuGgzW5ElAhl8OYj1Y8AZhg7c6BlMuzC_LOfWCWeTtAOgCaiQIAnFWwcc76sn7-PB7Ax1_91mIqxjcXUAKNZCzB2J7IeWybOY9ozhGS_j6foYzKUu8BCAKWqIrGfUHlsIbjVWLwWT4eNn1kWRFf5Tr0OTo8aJ-cymcGNhLRbmAVYNg5g",
+      "latitude_google": 12.9848935,
+      "longitude_google": 77.5808723,
+      "google_place_id": "ChIJPVF2VRQWrjsRX_uY_L-0GD8",
+      "google_place_rating": 4.5,
+      "google_user_rating": 2337,
+      "place_types": [
+        "bar",
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Near 37, Crescent Road, High Grounds, Gandhi Nagar, Bengaluru"
+    },
+    {
+      "place_name": "Cafe Noir",
+      "map_reflink": "https://maps.google.com/maps/contrib/101374894529519131212",
+      "map_nametag": "Anirban Barat",
+      "photo_reference": "AcJnMuH8vjQ7X2XUcBF2J2ve8oVBdtgu9WfLQANN9cHCSt6vw8lvmPGhOnaDYQbl94eZkwdphbH02OSGUxBbmG5g9zAcmlbwxW-zSSpZd6RXEzswUHqGCS-L2uIPUUq9vvEUWntXHbb3CGmr9L0QAAlDnjcmS2ciiIri8edOSbpvOtW7fWpS",
+      "latitude_google": 12.9717869,
+      "longitude_google": 77.5960995,
+      "google_place_id": "ChIJbQI8Z3cWrjsRINCtdIXs7GM",
+      "google_place_rating": 4.2,
+      "google_user_rating": 2980,
+      "place_types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "UB City, Unit No 206, The Collection, No 24, Vittal Mallya Road, Bengaluru"
+    },
+    {},
+    {
+      "place_name": "Sunnys Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/110584767649831514765",
+      "map_nametag": "The Liquor Library MRP Outlet",
+      "photo_reference": "AcJnMuFMm6hrvWPksGVcp15YPTQSdpVNmYBzUUSaoMZk4cYUTpOwfCrXeDRpLxKUknOfOdi82P0sOJk6Zym6EOrYZ60oRISNA0mmUK17lLya1ln962D9ttFtIGlEa0l8QCCH5q-TMTD4ztq3jNbOMmzSfEHwJHsiNgzynArOlewEHbOxB2V2",
+      "latitude_google": 12.9718487,
+      "longitude_google": 77.5985968,
+      "google_place_id": "ChIJTWDVw3kWrjsRNHolmSx5oH0",
+      "google_place_rating": 4.1,
+      "google_user_rating": 2311,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "50, Lavelle Road, Shanthala Nagar, Ashok Nagar, Bengaluru"
+    },
+    {
+      "place_name": "The Biere Club",
+      "map_reflink": "https://maps.google.com/maps/contrib/102064730502325933270",
+      "map_nametag": "The Biere Club",
+      "photo_reference": "AcJnMuHIxdLizjSdzw4GiFr-PoteomkkYcVboyxmQSlmq3HtTSPIHmQoSc1gYuRZGeQHxu6tFILfoWFbaOQo2bbWFZHuAyjppGJMK-XPe1RBMkWC6GaRV5hVkORL6RH5vXWTKBNzWIdCygEYh8zUw_ID_bD4ZoscE2zyKpS2ImCT55EzfqNy",
+      "latitude_google": 12.9708863,
+      "longitude_google": 77.59758389999999,
+      "google_place_id": "ChIJMYFexnkWrjsRMszkT3qrDa0",
+      "google_place_rating": 4.3,
+      "google_user_rating": 10554,
+      "place_types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "20/2, Vittal Mallya Road, Ashok Nagar, Bengaluru"
+    },
+    {
+      "place_name": "Hard Rock Cafe",
+      "map_reflink": "https://maps.google.com/maps/contrib/106164853809126079685",
+      "map_nametag": "Hard Rock Cafe Bengaluru",
+      "photo_reference": "AcJnMuHMj_1RJQKw--b3zJ_IE-S8wWFNn1aSpyk835jZrwkG0glkzVGP6EAr5ldDaOH_klaa6s53ba8Pvu2EXR_qPdna6wradQVG_9FDHT5GtwiV1mgL-fLBG5_iCHUbfvWxumbffAuaPjbCqQJaFk5Fu0TicyYcXnShgXdjiwYyJfT8iwK2",
+      "latitude_google": 12.9761398,
+      "longitude_google": 77.60150279999999,
+      "google_place_id": "ChIJ3f5vgnsWrjsRhDkIjzW274o",
+      "google_place_rating": 4.4,
+      "google_user_rating": 14693,
+      "place_types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "40, Saint Mark's Road, Bengaluru"
+    },
+    {
+      "place_name": "Hotel Paraag",
+      "map_reflink": "https://maps.google.com/maps/contrib/107085014320570341422",
+      "map_nametag": "manoj s Gowda",
+      "photo_reference": "AcJnMuFUPYN8Rd4f9Gy1pTM0WXUi0MXQWGr7Js_O_k4-bpnn2P2eZf6hKDnr2ib0_45WtCa-8EejGigTMPH3dOnRdDU_DmYZffLDAXuE0DCUqxj24JmMLMT78NjxJczatwir1huNpl-hUegG-nU6Qer0i3o4NBuj_AUi7bc1McsyZ-tfzxqE",
+      "latitude_google": 12.9821124,
+      "longitude_google": 77.5942737,
+      "google_place_id": "ChIJTYzlmmsWrjsRbrEDUGLCE4g",
+      "google_place_rating": 3.8,
+      "google_user_rating": 2071,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "opp. GPO, 3, Raj Bhavan Road, Bengaluru"
+    },
+    {
+      "place_name": "The Capitol Hotel",
+      "map_reflink": "https://maps.google.com/maps/contrib/111761882690296332879",
+      "map_nametag": "sushant kumar",
+      "photo_reference": "AcJnMuG5pfNV5rnZZyJSAzk_4KmTyxSezXRqmVndP93c6CWJFIAqAY3x5K16joH4JkziQ_3GOrpYMUUSDNZhOqRYgAqXYWSgutH4LJMLCtVeQeob0J5W6CfRUYL7PYshO44qWEzy11M4d9h3HlIgAkXDU_KQYfv3Qqx_koun_TA7HPHR6c6F",
+      "latitude_google": 12.9825481,
+      "longitude_google": 77.59455299999999,
+      "google_place_id": "ChIJpbEvEG8WrjsRoR6I4Wx5kjg",
+      "google_place_rating": 4,
+      "google_user_rating": 6494,
+      "place_types": [
+        "bar",
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "3, Raj Bhavan Road, Vasanth Nagar, Bengaluru"
+    },
+    {
+      "place_name": "Hotel Empire - Central Street",
+      "map_reflink": "https://maps.google.com/maps/contrib/102078228970349627326",
+      "map_nametag": "Hotel empire - Central Street",
+      "photo_reference": "AcJnMuHwyJLZaCN-Ufprf9rD6KYxE__o98rDZeaQigmFN4NyM4eqSOc8SFK4bpCKNT_olCL8G5gZc3HA7RsY5-zpHKNMgzpQkdbP_nn5MiC9cnVrMcV331nP2DzaVoTt9KwVeYc-A1FkYtC9c_qttkQyJRchmLQ0Zl8KLHQ2MgKpIYQNP-lu",
+      "latitude_google": 12.9797611,
+      "longitude_google": 77.6027774,
+      "google_place_id": "ChIJD5qeXGMWrjsRcj9bNc5M7kk",
+      "google_place_rating": 4.3,
+      "google_user_rating": 16789,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "78, Central Street, Shivaji Nagar, Bengaluru"
+    },
+    {
+      "place_name": "Empire Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/109165404566805368389",
+      "map_nametag": "Empire Restaurant - Church Street",
+      "photo_reference": "AcJnMuF-DSjUrLmOehyw336q_9uS-slYOqtsk1Mv_FtNK7hUc4x-iJ7Gue2G4G6WIMTnaXzp2MozQHROuFds_t_PhPfwAyA8BQSqYfqplC0TLrDbrK4KMZRnaXX6Xzh4A6ImOdz1qnK7Xog4yTzE3ODqBfUOTKmNsrGnfbc93iazKIgEgP1q",
+      "latitude_google": 12.9753943,
+      "longitude_google": 77.60280720000002,
+      "google_place_id": "ChIJwQm9enwWrjsR9RHPsY1L59o",
+      "google_place_rating": 4,
+      "google_user_rating": 22116,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "36, Church Street, Off, Mahatma Gandhi Road, Bengaluru"
+    },
+    {
+      "place_name": "Subway",
+      "map_reflink": "https://maps.google.com/maps/contrib/107092375253238015185",
+      "map_nametag": "Peter Paul",
+      "photo_reference": "AcJnMuE5woDNQSN95qGuROh6d45BXSkWO3qpo4B8nigO2WsoS4F7PhOl4f4D1leI3bPj7KBonhqSDHqrFw0n0mnv4zDN6iW97-HwFi3ZSDiOV2m_Sndr1DmMZw2M1h7uKRt_9PrsBgtpemJMrbWgbN731Y7zIG1vXxB7pk1gc1jJPPTgnUiP",
+      "latitude_google": 12.9717269,
+      "longitude_google": 77.596153,
+      "google_place_id": "ChIJtVUzWXcWrjsRrjkWdidvCAw",
+      "google_place_rating": 3.8,
+      "google_user_rating": 266,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "2nd Floor, UB City, Near-Regent, Vittal Mallya Road, Bengaluru"
+    },
+    {
+      "place_name": "Cafe Coffee Day - The Square",
+      "map_reflink": "https://maps.google.com/maps/contrib/104713109896290174693",
+      "map_nametag": "Cafe Coffee Day - The Square",
+      "photo_reference": "AcJnMuEXNMKidMmoOu6WN9OuYkryJqXRWnUYa_a0J4TE2jctjZSsif23ullLe6CL9Q2HYiDdgmqQBBRo7dla6_J_l2ip-gtyu8qpKV19bIE2SsYd4N5NFt3Oum4fA7a2VEkuHxL8fvosYQ6QWSkVqEQffwaQ2MBX_vSwi1Yn-df-i2-0LYxi",
+      "latitude_google": 12.9717197,
+      "longitude_google": 77.5943527,
+      "google_place_id": "ChIJ-VrecmkWrjsRtN8D7e0Ddcc",
+      "google_place_rating": 4.3,
+      "google_user_rating": 4719,
+      "place_types": [
+        "cafe",
+        "bakery",
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "google_place_vicinity": "near Cubbon Park, 23/2 Coffee Day Square, near Cubbon Park, Vittal Mallya Road, Bengaluru"
+    },
+    {
+      "place_name": "Upper House",
+      "map_reflink": "",
+      "photo_reference": "",
+      "map_nametag": "",
+      "latitude_google": 12.9832549,
+      "longitude_google": 77.5924122,
+      "google_place_id": "ChIJ7bdRB2wWrjsR2DIA6f9zMrE",
+      "google_place_rating": "",
+      "google_user_rating": "",
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "The Capital,3, Rajbhavan Road,, Bengaluru"
+    },
+    {
+      "place_name": "Chung's Chinese Corner",
+      "map_reflink": "https://maps.google.com/maps/contrib/113837487643888315440",
+      "map_nametag": "Harsha Bolar",
+      "photo_reference": "AcJnMuGJbH9aE5S99YYrC8IOIDScmu2bhQcpfQlxNcnlxEANMZ9hnOi0cGznBdVbErAHfFz9_5nQ-JGkBmisKbvbkhKOX5qY4Nqh8DcNxphJxGX4ll6H45ZCiNzMaxrvCaOpefegjgJS2IJgCFNLVERvgoyz1oAzvpJrWfbaCi7dvY88kkjX",
+      "latitude_google": 12.9890957,
+      "longitude_google": 77.5937754,
+      "google_place_id": "ChIJSXk5LWgWrjsRa4HooF9gC14",
+      "google_place_rating": 3.8,
+      "google_user_rating": 913,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "106/13, Ground Floor, Westminster Building, Cunningham Road, Bangalore, Cunningham Road, Central Bangalore, Bengaluru"
+    },
+    {},
+    {
+      "place_name": "infinitea",
+      "map_reflink": "https://maps.google.com/maps/contrib/100090035112731500797",
+      "map_nametag": "infinitea",
+      "photo_reference": "AcJnMuGXEvSikC3ZQD-WFX_BxwxIlb6CoEgx7mjk989mZBZKtabYmVpZT39q_QD8y8vI-rw05EKYTLEpHO1szSLC9XmE1qNrCvCRKIEDSY7xfTKpEGHVrD0WLCxvviDa2GvAkW4yK5DQnBFlN5zx7NclJa-X89qnMJzmGQbZLnZGfPW4uyGr",
+      "latitude_google": 12.98705,
+      "longitude_google": 77.5947166,
+      "google_place_id": "ChIJE-njW2gWrjsRUNoH91ymG-E",
+      "google_place_rating": 4.4,
+      "google_user_rating": 1945,
+      "place_types": [
+        "cafe",
+        "bakery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "google_place_vicinity": "2, 17/1, Cunningham Road Shah Sultan Complex, Ali Askar, Cross, Road, Bengaluru"
+    },
+    {
+      "place_name": "Shiro",
+      "map_reflink": "https://maps.google.com/maps/contrib/117342921817647016601",
+      "map_nametag": "Shiro",
+      "photo_reference": "AcJnMuEYQvP0mMGOSdSISK4hIbLcxaaPFu-_ZommEHK13gPVsTIMvA0gH_x5gO8ceqvueMWbl52Ie86LvTJFuxTF7cXRhRhyQq-V3fh_vRFzRmb_z8VE6lPFhKMg5TCjoJachntSD90_MY0J0LDY7Gjf7F83FMNloHZnT8zhDyGkmknkYw8l",
+      "latitude_google": 12.9716517,
+      "longitude_google": 77.5959781,
+      "google_place_id": "ChIJ897J43kWrjsRwLzr4oSg67c",
+      "google_place_rating": 4.3,
+      "google_user_rating": 3387,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "3rd Floor, 222, Vittal Mallya Road, Ashok Nagar, Bengaluru"
+    },
+    {
+      "place_name": "\u0939\u094b\u091f\u0932 \u0936\u094d\u0930\u0940 \u0915\u0943\u0937\u094d\u0923\u093e \u0909\u092a\u0939\u093e\u0930",
+      "map_reflink": "",
+      "photo_reference": "",
+      "map_nametag": "",
+      "latitude_google": 12.9715987,
+      "longitude_google": 77.5945627,
+      "google_place_id": "ChIJE8R9PncWrjsRn9_NkP5zGnE",
+      "google_place_rating": 4.3,
+      "google_user_rating": 14,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "India"
+    }
+  ]
+}

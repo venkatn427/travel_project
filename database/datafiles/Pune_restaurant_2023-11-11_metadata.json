@@ -1,0 +1,260 @@
+{
+  "city": "Pune",
+  "city_ascii": "Pune",
+  "latitude": "18.5203",
+  "longitude": "73.8567",
+  "country": "India",
+  "country_iso2": "IN",
+  "country_iso3": "IND",
+  "admin_name": "Mah\u0101r\u0101shtra",
+  "capital": "",
+  "population": "8231000",
+  "places_city": [
+    {},
+    {
+      "place_name": "Gandharva Residency - Hotel - Banquets - Restaurant & Bar",
+      "map_reflink": "https://maps.google.com/maps/contrib/104827265901145910200",
+      "map_nametag": "Pankaj Kesharwani",
+      "photo_reference": "AcJnMuEr6VhiXb9KQOyGAEEKuid2gLdpM9n6w67Em9jKiN09-Bg-lsD9JUUxePRVSFhNI-xPzeO8oKVtgxAN7KrXEzBcs5tyT3cuUkTxh97NjkhAYWInoS2DVYPGDSf-KdnEbgbODaEWeKlgj8RAk50lyQ6EcejlLKFABxkVtLL_l7cWbRMZ",
+      "latitude_google": 18.5229448,
+      "longitude_google": 73.8491935,
+      "google_place_id": "ChIJ54o7acHBwjsRBr2bqX7HnmE",
+      "google_place_rating": 3.8,
+      "google_user_rating": 1122,
+      "place_types": [
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Gandharva Residency Managed by Rapid Hospitality, Jangali Maharaj Road, Shivajinagar, Pune"
+    },
+    {
+      "place_name": "Madhuban Hotel",
+      "map_reflink": "https://maps.google.com/maps/contrib/109975994269704036241",
+      "map_nametag": "atharva arts",
+      "photo_reference": "AcJnMuEc4OLBfto9s4dSgWHcrsaGV9Ef5CGhn0gTayPvAR6oZOWcQryu2fbYPeo4LbcexnZpiPCLtV8ddPanKYtxsB3Zo1kLVPZh5dvjrDPde6Odcp8FxR0mLpxu_Qs74oEgsrS5eulMembkq2diWMqNBEuu7UnidHv4aSVjbQe9mURI2rKt",
+      "latitude_google": 18.5193856,
+      "longitude_google": 73.8487751,
+      "google_place_id": "ChIJaYD1O3rAwjsRYUR6zo__ne4",
+      "google_place_rating": 3.6,
+      "google_user_rating": 153,
+      "place_types": [
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "GR9X+QG2, Chandrashekhar Agashe Path, Shaniwar Peth, Pune"
+    },
+    {
+      "place_name": "Sankalp Restaurant & Bar",
+      "map_reflink": "https://maps.google.com/maps/contrib/113136385510162435634",
+      "map_nametag": "Sankalp Restaurant & Bar",
+      "photo_reference": "AcJnMuGquRYLKLpdMWQIf7FHkD2Y3ZSNl0puvI3fDBqFwfao1WOZX2UQ027wkFqCbRmKXmqoO83JS7ARe0QeIH5KdLniSdOYcqyie79SUqQTM3V45a2XXO4bQ3oScwjk4fyjTgvtqD9mT54IJF5cw5hiTHZfVi3bo8A8m5SvhMPYN7arRgbn",
+      "latitude_google": 18.5140593,
+      "longitude_google": 73.85614439999999,
+      "google_place_id": "ChIJj1IpQW7AwjsRbupRpFgh_bw",
+      "google_place_rating": 3.9,
+      "google_user_rating": 382,
+      "place_types": [
+        "restaurant",
+        "food",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Babu Genu Chowk, 1116, Tulshibaug Internal Road, Tulshibaug, Shukrawar Peth, Pune"
+    },
+    {
+      "place_name": "Shree Krishna Veg Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/115227476191624344471",
+      "map_nametag": "Vedant Alandkar",
+      "photo_reference": "AcJnMuFT59bWFAGY1BCo4wfxGj2Hm1mAeXxB-Q-41NFDa2wkrlCAykI39PUiYuUzIXwNbCOgn0F5SPAy-KMMufwwN8EwO3N6l2vNamkZnFpixnNM1jiPBoebfkWBQ8iRtnvHpWerBt0EC86vodlA6G5RQnqoCCmv8aS82YdMJzv_yQr4dXPs",
+      "latitude_google": 18.5184571,
+      "longitude_google": 73.8563679,
+      "google_place_id": "ChIJVVVVJW_AwjsRxEtTnD0gxps",
+      "google_place_rating": 3.3,
+      "google_user_rating": 32,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "GV94+9GQ, Near Savali Furnitures, Ganesh Road, Budhwar Peth, Pune"
+    },
+    {},
+    {
+      "place_name": "Dulari Garden",
+      "map_reflink": "https://maps.google.com/maps/contrib/100615533649102861600",
+      "map_nametag": "Abhishek Dhumal",
+      "photo_reference": "AcJnMuGdO-GEc5NtJcRyeBPSuYA9FzgICAw9xDaUlFbTGeS2W78BkQi4ZMw9qn_7-LGx416LtpuF6H6m6ROr463WS1oOq__qUXQ6ng69mRRaXlxi3vMTdjsDXuIHuc9hoCLHnNbrwOA2U6OVbBx2E2euIvQVPLO2VQrtFJIgO_tL_FhFHEdH",
+      "latitude_google": 18.5192605,
+      "longitude_google": 73.8653028,
+      "google_place_id": "ChIJVVVViULAwjsRmRUxFF74sNc",
+      "google_place_rating": 3.9,
+      "google_user_rating": 238,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "near Apollo Theatre, 337, Mudaliar Road, Rasta Peth, Pune"
+    },
+    {
+      "place_name": "Lalit Mahal",
+      "map_reflink": "https://maps.google.com/maps/contrib/109733352568183169827",
+      "map_nametag": "mani maran",
+      "photo_reference": "AcJnMuE2sIjD7GsxiM7hfTxou1lTie8IHa6POWz5fvdUuUxGSRx-zOiqd6xjctmjqXhk8abStr98T4BTZBMgsFRVOS-QVBZzkCtD35rkw3F_NEufr3CKC2HfqkikEhU7rGgK0VcO58ZuJ9l7yVkOt-NMh1bFsh0Y94lPVTsbQa67T_eZalxt",
+      "latitude_google": 18.5207588,
+      "longitude_google": 73.86490309999999,
+      "google_place_id": "ChIJMxPMjWfAwjsR7MkD4svQ77w",
+      "google_place_rating": 3.9,
+      "google_user_rating": 209,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "GVC7+8X2, near Bank Of Maharashtra, Railway Station Road, Somwar Peth, Pune"
+    },
+    {
+      "place_name": "New India Chicken Center",
+      "map_reflink": "https://maps.google.com/maps/contrib/103977795383682626027",
+      "map_nametag": "New India Chicken Center",
+      "photo_reference": "AcJnMuHP4AoK9rzbl0FMdrXZhm0FZDmkco5SGp4whTy4cfi7tc9aAqcBmvzsYDGb3cLmdGdUBEbwX7lG-255P35TDYMF34mjKm7_Va6Id70xFQZff2hAZVXHq0wpdXhuCBgIxSE6mMAoDe2qnwgV-tFTdB-ShYTPEWtLIkSY7jjlHtsHW6dz",
+      "latitude_google": 18.5221212,
+      "longitude_google": 73.858347,
+      "google_place_id": "ChIJ12_EOWTAwjsRQy46t40WQcA",
+      "google_place_rating": 4.4,
+      "google_user_rating": 60,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "1229 Kasba Peth, Pawale chowk,opp Ganesh Collections, Pune"
+    },
+    {},
+    {},
+    {},
+    {
+      "place_name": "Hotel Vihar",
+      "map_reflink": "https://maps.google.com/maps/contrib/102235156806500317571",
+      "map_nametag": "srastara",
+      "photo_reference": "AcJnMuGQXLLUsR6YIBfxSeu8Y3XQuQ-cOEk1cVcGQLLWRr89jVRoNwyPWMCq5dwXDdSkgp1JHNccyJaoBHangGr-Rnf05vGkCO-gB2v6qhxyYvIK7SbB8Wx4YfoGMTKsxLGLh4aBZAZtkUpIISek_nIabpG7VnMtD2kLnpMy0JuYxZjm6HRI",
+      "latitude_google": 18.524815,
+      "longitude_google": 73.853002,
+      "google_place_id": "ChIJfd-XsHzAwjsR49CKZukPKGg",
+      "google_place_rating": 3.6,
+      "google_user_rating": 5,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Opp PMC, Tophakhana, Shivajinagar, Pune"
+    },
+    {
+      "place_name": "Sudama Garden Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/105296001489408725994",
+      "map_nametag": "Muzammil Magdum",
+      "photo_reference": "AcJnMuEZGZ_gSX4vba5IiVfXHAzGchBV1t9FpTdA-oJcd3Bs_xgsw37mRK2ddnudRWebxX71LEciIIyzIhaCvDZDCSu6drEjceGR-vctQU1nRCvZgRVnFkboKHDz7Z4pq7sFwIxB9DETEU8l2scokqRV59EH3JbEa2bdYawEd1EEYQ3k3DJA",
+      "latitude_google": 18.5261254,
+      "longitude_google": 73.85199,
+      "google_place_id": "ChIJSQFw53zAwjsR983VPlTtF8w",
+      "google_place_rating": 4.2,
+      "google_user_rating": 5039,
+      "place_types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "365/11, J M Road, Opp Jungli Maharaj Temple, Shivajinagar, 104, NH 4, Gaothan, Shivajinagar, Pune"
+    },
+    {
+      "place_name": "Chinese Corner",
+      "map_reflink": "https://maps.google.com/maps/contrib/112615118294341138263",
+      "map_nametag": "Chef Tanay Goregaokar",
+      "photo_reference": "AcJnMuFknl9hXub5ehV6v4PQ4xHkkquRyQVTDJP71JF8eIdD3NM2Qm3bZHglDd-ignf4-AHnc6AoqG8ZQP9n4neCwIzc9RtyHgX7PIvwuargdDZL8LuiPym_A-8S9eqeTjo71BWnoYJoLHqKnIAl0DpzIuM8c_xKxkdYdNRm6FgMiO1Uq3zS",
+      "latitude_google": 18.518833,
+      "longitude_google": 73.8592252,
+      "google_place_id": "ChIJRUy-_mXAwjsR72Br8UYw0Ug",
+      "google_place_rating": 3.6,
+      "google_user_rating": 30,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "GV95+GMQ, Ganesh Road, Phadke Haud, Kasba Peth, Pune"
+    },
+    {},
+    {
+      "place_name": "Cafe Crush",
+      "map_reflink": "https://maps.google.com/maps/contrib/108747728957117031591",
+      "map_nametag": "Hatim Ali Hussainy",
+      "photo_reference": "AcJnMuHUL8aa4ewORkq18Jful6dKDuauErQQVDvaoK67aKt7ZymFSabEce_MuAvISSverp5p0VxTDH-0yaSLbR3xJ4Qzd64MAvvd0SqXBaDEmnB6V23R7YSTS-COSH0FdzLq4WVhewb_kEz1peOw5Tgn2BbsIczV_eKcB5pQ8Euw0b3YKKyq",
+      "latitude_google": 18.5163778,
+      "longitude_google": 73.8546898,
+      "google_place_id": "ChIJF6bLxm_AwjsR_7hPQn1Zs6U",
+      "google_place_rating": 4.1,
+      "google_user_rating": 34,
+      "place_types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "40, Jogeshwari Lane, Tulshibaug, Budhwar Peth, Pune"
+    },
+    {
+      "place_name": "Hotel Lajjatdar",
+      "map_reflink": "https://maps.google.com/maps/contrib/116595161977236704884",
+      "map_nametag": "Sachin Shilawane",
+      "photo_reference": "AcJnMuHTPICZ6vjyCQTvN8cX7wU_dZA3g0-rjHh8k4JhQT66dy2HnjG-kp5QHv207W1CKNzk9f4bjyoR6S_PX98TLPI3YNj8cAdyxDiw-EHwnS9dSPdSY8jvj-xoYahiofuX1-chsTmL8Aq8GVFZqVkOwQ3j6D20l2H7ed934So0UbldHw1C",
+      "latitude_google": 18.5156067,
+      "longitude_google": 73.85764820000001,
+      "google_place_id": "ChIJyYrrB2_AwjsR6bMKcHpK3yQ",
+      "google_place_rating": 3.8,
+      "google_user_rating": 168,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "856, Near City Post Office, Next To PDCC Bank,vijay Maruti Chowk, Laxmi Road, Pune"
+    },
+    {},
+    {
+      "place_name": "Ronak Pure Veg",
+      "map_reflink": "https://maps.google.com/maps/contrib/108141408731206031753",
+      "map_nametag": "Chirag Chotai",
+      "photo_reference": "AcJnMuEfSWa_d1HKpU2Ai3-ZNjEloiy4jYwhk0DPezfwZZ0YXQgiYrYSSyyCk9zScEMq7HXb6RVmsXmczJ9RmSOq9E7gLSO_s3nCJn9ZyAB6R5UT0DhC78OhrkIyIE5QscdzXk1mwbBvO8awbod2iWuGWJA62Stkl9z-gmjD8ooBoBZL6L9-",
+      "latitude_google": 18.5145022,
+      "longitude_google": 73.854411,
+      "google_place_id": "ChIJPUOROm7AwjsRl5K2bCAEV-I",
+      "google_place_rating": 4,
+      "google_user_rating": 265,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Tulshibaug Internal Road, Tulshibaug, Budhwar Peth, Pune"
+    }
+  ]
+}

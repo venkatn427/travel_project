@@ -1,0 +1,385 @@
+{
+  "city": "Chennai",
+  "city_ascii": "Chennai",
+  "latitude": "13.0825",
+  "longitude": "80.2750",
+  "country": "India",
+  "country_iso2": "IN",
+  "country_iso3": "IND",
+  "admin_name": "Tamil N\u0101du",
+  "capital": "admin",
+  "population": "12395000",
+  "places_city": [
+    {
+      "place_name": "HOTEL SARAVANA BHAVAN",
+      "map_reflink": "https://maps.google.com/maps/contrib/113615179180815731213",
+      "map_nametag": "HOTEL SARAVANA BHAVAN",
+      "photo_reference": "AcJnMuFsmAlX8utfPoAJsm-k6OHCj10aGsM5iKo9y6SWtQu-hParoFB0IiqAKpsQeJKapfcvE3vR5_fcIEP2tZNC1EzHaO4IeSGZDEZO7YiIN9hiGN7ksilds4hg3nPjDpJOcOjc9eHTAO_-LtKlOfI20AZNo8tTh8WLtEZpX4UwgdIFllHa",
+      "latitude_google": 13.0768178,
+      "longitude_google": 80.2620945,
+      "google_place_id": "ChIJ-3RWKQlmUjoRhN1jfy02FEU",
+      "google_place_rating": 3.6,
+      "google_user_rating": 4547,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Singapore Complex, 21, Kennet Lane, Egmore, Chennai"
+    },
+    {
+      "place_name": "Marina Inn",
+      "map_reflink": "https://maps.google.com/maps/contrib/112852557389277568359",
+      "map_nametag": "chandrasekar swaminathan",
+      "photo_reference": "AcJnMuERNP0XKXvcyjUleQXzagvLxkiV3wjw16U3ouB8t1vQ1UKalCvaUAXd9EeRwIIO0ztY197Mtl8qBzrRUY9Miaf8EfFnD3iEgZmrdyaGowg6Zzd_Aloykj5RL3H8G_QrIB5XnudK26W-mCpE3vDEd2HHR9Yd3PKcAk8ZGuAysw-0C7Pl",
+      "latitude_google": 13.0753827,
+      "longitude_google": 80.2591272,
+      "google_place_id": "ChIJ34dKGgxmUjoRLoM50OfEEMo",
+      "google_place_rating": 3.8,
+      "google_user_rating": 1907,
+      "place_types": [
+        "bar",
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "55/31, Gandhi Irwin Road, Egmore, Chennai"
+    },
+    {
+      "place_name": "Hotel Blue Diamond",
+      "map_reflink": "https://maps.google.com/maps/contrib/103750351752994483318",
+      "map_nametag": "Anup",
+      "photo_reference": "AcJnMuGkiLK8T5pnmecPvYHIYkGa_PjCCqjz54q7nJ6_JmgnpGl94C969fzIrR0suVAnfjL1eydcqTk6Nu8noO_xu98SQdhtjuODUrde4q2VK-lvfNj29v4TYz-pKvnx9_2919fBgNBz1IhHtb-Oe61JORM9DX0mdXqplRxRJBXGQ3apES6V",
+      "latitude_google": 13.0790264,
+      "longitude_google": 80.2532858,
+      "google_place_id": "ChIJZSDfI3VmUjoRCM1JBcRWYhU",
+      "google_place_rating": 4,
+      "google_user_rating": 588,
+      "place_types": [
+        "bar",
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "E.V.R.Periyar Salai,, 934, Poonamallee High Road, Chennai"
+    },
+    {
+      "place_name": "Hotel Saravana Bhavan",
+      "map_reflink": "https://maps.google.com/maps/contrib/102390030469045694841",
+      "map_nametag": "Hotel Saravana Bhavan",
+      "photo_reference": "AcJnMuELsCyl1zDXjRFOq1ZYQSAjUxROhCROSyhiu-IWdPgvpcB_BZXhyC0xCADaGnWnmpy7LcOChi1NBQpPWzRDPnSb-_zWicnZWjEkGCYXSqjFxAv7VWpX2-JWsUutdKvOLy7Pe5_blGaXPDtdeSsNAPdDEcJadh1CFhzX6ocEFR1FBTqg",
+      "latitude_google": 13.0853492,
+      "longitude_google": 80.25215639999999,
+      "google_place_id": "ChIJm0fOW95lUjoR9z9D9wCIAAA",
+      "google_place_rating": 3.4,
+      "google_user_rating": 3372,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "No1, Vellala Street, Purasaiwakkam, Chennai"
+    },
+    {
+      "place_name": "NAIR MESS",
+      "map_reflink": "https://maps.google.com/maps/contrib/111450764555066659916",
+      "map_nametag": "Yabeejan Koya",
+      "photo_reference": "AcJnMuH_DRggAj0LtTJ5N-Ha4lbL-MH4S8aF7E_31APNIl5faHQOa9HsahKLBhHklQAQ3l112Vh_xuMClZvN0abDUYrQiRQkazRh7olRBUmG96LLGETHJozvJr37xY7V4bSyw02y86vwWkzccEd1iIFU2KMwlRTDdS4OBaqdM7Mznyh44T-E",
+      "latitude_google": 13.0647229,
+      "longitude_google": 80.2772578,
+      "google_place_id": "ChIJF2qyuaBoUjoRv5PhU-dsSC8",
+      "google_place_rating": 4.1,
+      "google_user_rating": 8158,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "NO:22, MOHAMMED ABDULLAH SAHIB, 2nd Street, Chepauk, Chennai"
+    },
+    {
+      "place_name": "Kings Hotel - Egmore",
+      "map_reflink": "https://maps.google.com/maps/contrib/111039081399896134440",
+      "map_nametag": "Kings Hotel - Egmore",
+      "photo_reference": "AcJnMuFEyl9iflvqoi8XSFsTUDeFD4qRhBrn2NlafWPkrerksx8m_HIRiqXNnGScQzjMhshmKwTXpeNEcwJTjicjam2zRTdapD8c4K0bs48ALGS6kADItIsnSscmxtZs605HkKabrWt4NGYXvhXdYFWgeY5DndCCYrKAuxDTaxF6ESgactk",
+      "latitude_google": 13.0725053,
+      "longitude_google": 80.25477839999999,
+      "google_place_id": "ChIJudduh3ZmUjoR3cPhhtS_ZRQ",
+      "google_place_rating": 3.8,
+      "google_user_rating": 1501,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Opposite Egmore Baby Hospital, 32, Tamil Salai, Egmore, Chennai"
+    },
+    {
+      "place_name": "Hot Chips Veg Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/113861927216725884948",
+      "map_nametag": "Shashwat Saxena",
+      "photo_reference": "AcJnMuFLg6KW2tllr4VwZSWgA70UwcPLEhawcLWmy3wQOKz7_b09F2ipI2xp0KPTLucevwqL4zw45hvRzj7hB_F_FbAflBFmboikw9QA2czf5wQIPcLzLgWmxCRRWBfW-LAZjjuOuzBLRgTenn-EUWKL-k_oz_d7qj5U0rVzb-N0ndJ4ao1E",
+      "latitude_google": 13.0887379,
+      "longitude_google": 80.2868447,
+      "google_place_id": "ChIJcZxBO2pmUjoRbaWSxl-lkv0",
+      "google_place_rating": 3.7,
+      "google_user_rating": 2393,
+      "place_types": [
+        "cafe",
+        "restaurant",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "225, NSC Bose Road, Parry's Corner, George Town, Chennai"
+    },
+    {
+      "place_name": "Hotel Sangam",
+      "map_reflink": "https://maps.google.com/maps/contrib/107391243324127795686",
+      "map_nametag": "Edison Robert",
+      "photo_reference": "AcJnMuEGqNFFeX4olyJWXIYwTUbGgylBieEPP5IRnaaHwRiCyAG9ucWlAGBoxoo7a9rw7o1nV0Qrt9tG0K9AFSJA8CT1jhWR4im1-zVmP5IhVBEJLv-EbMFfHqFFb5qex6uESh_8Jh6S46MvyrLa_SECkEwRMrH0YN8XsR-h1JWjNy9Qbdpy",
+      "latitude_google": 13.0661,
+      "longitude_google": 80.2682262,
+      "google_place_id": "ChIJmdm8NBpmUjoR--ao9D5H2ag",
+      "google_place_rating": 3.9,
+      "google_user_rating": 7514,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Nakoda Towers, No.9 , Ground Floor, Narasingapuram Street, Mount Road, Anna Salai, Chennai"
+    },
+    {
+      "place_name": "Salt and Pepper",
+      "map_reflink": "https://maps.google.com/maps/contrib/100080602475104113376",
+      "map_nametag": "Amit Kumar",
+      "photo_reference": "AcJnMuFZi3BS_ySeTsmED-OaZVIZDz2PAuCvkTzGcAzkMUrp5Hg_x4Wk31WPgq9oMVOxg-fbc5BGCh7n8A4Ygq2BFGIOhg32zram76K754n-ivtByk54Y_1Hr77m1TFK1bmDMAW8dtib51ljxzGg6XHkaC94tqjGrzc-knPdD1e8cgfAjaMw",
+      "latitude_google": 13.067192,
+      "longitude_google": 80.258528,
+      "google_place_id": "ChIJcdkANRJmUjoR69jA2TUKS6E",
+      "google_place_rating": 4.1,
+      "google_user_rating": 17,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "India"
+    },
+    {
+      "place_name": "Welcome Hotel",
+      "map_reflink": "https://maps.google.com/maps/contrib/104710460928667700045",
+      "map_nametag": "Sarva M",
+      "photo_reference": "AcJnMuF6Lon0MPsv4Hk2JYhbd44ktuDoSg9KZp5ggTvycOybQGOIcSQXflCWT75D_rj4cW59wxyW_h0q_Xk0Yq0UE7fs-kZC44iaIw0ZTdtLAURzT5WqkIVXY0Crpemm30A99IG_hVOq_A0EMJSCpz3vyz6UrjSIG4wFgaSvZKJht4Tip6nl",
+      "latitude_google": 13.0858651,
+      "longitude_google": 80.2546232,
+      "google_place_id": "ChIJxWXToeBlUjoRRBipL6VAIsM",
+      "google_place_rating": 4.3,
+      "google_user_rating": 11405,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "241, Purasawalkam High Road, Purasaiwakkam, Chennai"
+    },
+    {
+      "place_name": "New Central Hotel",
+      "map_reflink": "https://maps.google.com/maps/contrib/105768545165081845122",
+      "map_nametag": "Mani Kandan",
+      "photo_reference": "AcJnMuEhUQHVTcXp91pRfANfgWEVyf7vm2m-qjdWZIhhC1bYt51PLxzSF9fgP5bwA_YEA33jAUILsVxIbFLvrzhbBDQJ272b-YpfK752IXYo8dpNCNCxW52nvVZI2l4piDgdpj-npUutMljOf0jRdbCvxyet9ZoU0KwS1odALKLSOShJ42G9",
+      "latitude_google": 13.0835751,
+      "longitude_google": 80.2762034,
+      "google_place_id": "ChIJp0mL_P9lUjoRV6xbvFmWabk",
+      "google_place_rating": 3,
+      "google_user_rating": 395,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "159/160, Wall Tax Road, Park Town, Chennai"
+    },
+    {
+      "place_name": "Sri Hotel Andhra Bhavan",
+      "map_reflink": "https://maps.google.com/maps/contrib/107641776181955428070",
+      "map_nametag": "Rabindra Barik",
+      "photo_reference": "AcJnMuGvXdTioZEEaBYTWahBwMpXZ67hh9cog6dZJfByCZ7zcZarxHSzBYrN141UGzpLq9ppZot6Y02FqX_jwsC0wwkBJhzUtPE7EymM2CE-wVoT2wCtHEYwR3vU_loToaSdqVvsbt9z-rDVxCjqrHEXBumDyBPuGJfFnUA9wNaiBURfJ2-7",
+      "latitude_google": 13.0809655,
+      "longitude_google": 80.2698169,
+      "google_place_id": "ChIJ21hoDAhmUjoRm8ZJwmG0SH0",
+      "google_place_rating": 3.8,
+      "google_user_rating": 559,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "1119, Near Rippon Building, 38, Poonamallee High Road, Periyamet, Chennai"
+    },
+    {
+      "place_name": "Hot Chips Vegetarian Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/113691488767370165574",
+      "map_nametag": "Vairamuthu Chandrabose",
+      "photo_reference": "AcJnMuFKAEA-oKqWZULl1FAVMlfKzJx4ecFSr5V53ObPE4m1PWMcnazQWvPayxSeFxk44AR-lC-JoL8e7bq24xT_xBRXwzsosbqvZmvMEfHBCJY4vARFs1yfJyj9e9rkGwc-SkENGDU_KNeMO_IMR01xJ6TnPWzeY4Lpb89GUFZPXytekqwv",
+      "latitude_google": 13.077251,
+      "longitude_google": 80.2615491,
+      "google_place_id": "ChIJ_____wxmUjoRA3kCyhyt0Tw",
+      "google_place_rating": 3.5,
+      "google_user_rating": 272,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Railway Station, opp. Egmore, 37, 39, Gandhi Irwin Road, Egmore, Chennai"
+    },
+    {
+      "place_name": "Splendour",
+      "map_reflink": "https://maps.google.com/maps/contrib/112760592473899755480",
+      "map_nametag": "A G S CHAIRS",
+      "photo_reference": "AcJnMuHRKHjee78oNREis2S1RpMBWcYBMxY96yj8zswnJzGN-_YiXu7s-8klFDe17YfEJY_VJBjiND_EkpghSLJcgxz02zL3QhE6f1yZxTYn6-veAaOIoPiOUz2EbIu1FgEn1g96Trs69EzFdiw7lBKWQikiRsRw1XzFc_cmYspa8Vc85lt1",
+      "latitude_google": 13.0676274,
+      "longitude_google": 80.2590424,
+      "google_place_id": "ChIJjUmuMxJmUjoRN7xK3phIAwk",
+      "google_place_rating": 3.8,
+      "google_user_rating": 23,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "3795+3J3, Red Cross Road, Egmore, Chennai"
+    },
+    {
+      "place_name": "Hotel Zum Zum",
+      "map_reflink": "https://maps.google.com/maps/contrib/100896375560101230642",
+      "map_nametag": "sooraj mangadan",
+      "photo_reference": "AcJnMuEkwVw8sbhP3YO2ImPvzKnXkZGqKg77dTSzSBC5JR6EdhLACupwFw_M7bYvKH0fTNRywLcfeppzbslXRMSwNXzQ7LlzzU0FFe3wCyr_F5yYZwiEk_ZvfnNBtcoI3O202ri3jSva_YJYJkQQMplx4Of-yEyDNma68d4KxHqd3eMvcTJv",
+      "latitude_google": 13.0939048,
+      "longitude_google": 80.2912908,
+      "google_place_id": "ChIJmUC-Yk9vUjoRH1PcP2vwPfI",
+      "google_place_rating": 3.7,
+      "google_user_rating": 1472,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "2nd Line Beach, Parrys, 17, Beach Road, George Town, Chennai"
+    },
+    {
+      "place_name": "LINGAM HOT CHIPS",
+      "map_reflink": "https://maps.google.com/maps/contrib/110775526407416152291",
+      "map_nametag": "LINGAM HOT CHIPS",
+      "photo_reference": "AcJnMuF8LO0z2UspfIHobN57UM_dJObKi1dzVfDWmlSR76MZTHLSLwmtcv_qGE9SjSAJVmiQMYlj_w5agDC7_9rIzXzaK_s_A-sUD9jT_WLCRc_nSTozMuqHm6mnRe8tXruS7jh1aC9QMc4vynw5JBbsQUFwTmmsaC6zVJwP2Z1q22urKhOn",
+      "latitude_google": 13.0849861,
+      "longitude_google": 80.254693,
+      "google_place_id": "ChIJt1B5ahBlUjoRRajP4jLeZdY",
+      "google_place_rating": 3.5,
+      "google_user_rating": 34,
+      "place_types": [
+        "restaurant",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "32, Gangadeeshwar Koil Street, Purasaiwakkam, Chennai"
+    },
+    {
+      "place_name": "Domino's Pizza",
+      "map_reflink": "https://maps.google.com/maps/contrib/114241828977747943541",
+      "map_nametag": "Neha Khan",
+      "photo_reference": "AcJnMuHLUv_vEn_HMPBXMlih_dQ5z_mK3SJ6I_5if64GEkBwuZa5nZlu3pmC0TprmqXB0oepK1YNG_HOgk7ECIpixeNlzRdVP724ayCAEymae_wF8aQxWBy0bIin3UGh3G6gv48bQKY8ZvKDuf-A6LFGTvI7burGE_7ndLXPjvWKafLiaEM3",
+      "latitude_google": 13.0805408,
+      "longitude_google": 80.2498942,
+      "google_place_id": "ChIJZSz16nVmUjoRpbR2uC5tPH4",
+      "google_place_rating": 4,
+      "google_user_rating": 2554,
+      "place_types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Door No 19, Ground Floor Purasawalkam, behind Sangam Theatre, near, Flowers Road, Block 2, Kilpauk, Chennai"
+    },
+    {
+      "place_name": "NOVELTY TEA HOUSE",
+      "map_reflink": "https://maps.google.com/maps/contrib/117776985807000657410",
+      "map_nametag": "Rineet Subramanian",
+      "photo_reference": "AcJnMuFH3fUWWsQSXRW0WbGFZnPwtLTPNe7rsvapBhL_0nelKHE8oqzssV8Q1MqOy2ASo7QlEiWECGlRtkehHq3seNumMUHl9Nrsi9e2RADzymMnexrWOP0xdMAAXgP6UmzNe9ecqvG-sA3X7z3YFOUNigcwuhvoItHXeLwLZsj3h_lJTUGI",
+      "latitude_google": 13.0891373,
+      "longitude_google": 80.27889619999999,
+      "google_place_id": "ChIJYzomiqpoUjoRq8A5IC6RAwc",
+      "google_place_rating": 4.2,
+      "google_user_rating": 1748,
+      "place_types": [
+        "cafe",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "355, Mint Street, Park Town, Chennai"
+    },
+    {
+      "place_name": "Hotel shiva sagar",
+      "map_reflink": "https://maps.google.com/maps/contrib/115730553982542522454",
+      "map_nametag": "Sri sai Kishore",
+      "photo_reference": "AcJnMuHrWny0bl_udw9jg_pMw8JdHLvIkkQVg7TW-oZJ-Tt6WeGiWUNinrmR9fXTlMYKCnGRNX1-wRDWs4g_Qb6PuAas6drr7Pa0ugMMT57q872gJB7TxA8mKGdu1tkyrC57fRA6m0Pj5I2zjRWORCkxhK2iDTFIqMpK0pKKCjIUUoPFiVLk",
+      "latitude_google": 13.0847943,
+      "longitude_google": 80.27605419999999,
+      "google_place_id": "ChIJp0mL_P9lUjoRGpfKfeXvSek",
+      "google_place_rating": 4.1,
+      "google_user_rating": 1920,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Old No. 144, New No. 317, Wall Tax Road, Jutkapuram, Periyamet, Chennai"
+    },
+    {
+      "place_name": "Hotel Sennthur",
+      "map_reflink": "https://maps.google.com/maps/contrib/103158277596116424874",
+      "map_nametag": "Siddharthaa Radhakrishnan",
+      "photo_reference": "AcJnMuFc8a9Jyx2MpD9CIzTZJIrEn5HI9mvDZ_k74SjrYr6KlUmGKRveBWy2wzuDfV8kITr1kXK9nxBv2peHyZVTpVBxn_kih0cHzyUArqWj_XRxxPsl6NqM_CaCKb9C9VStS2HnJ7OhiToF6j28zhBdK771YN3cbiU1SaoXFRCEgQ6gqyga",
+      "latitude_google": 13.0617961,
+      "longitude_google": 80.2632805,
+      "google_place_id": "ChIJTZ7fBhdmUjoRfinwjYPGXhA",
+      "google_place_rating": 4,
+      "google_user_rating": 1476,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "154, Club House Road, Express Estate, Royapettah, Chennai"
+    }
+  ]
+}

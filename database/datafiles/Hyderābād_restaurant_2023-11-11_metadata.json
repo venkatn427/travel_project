@@ -1,0 +1,349 @@
+{
+  "city": "Hyder\u0101b\u0101d",
+  "city_ascii": "Hyderabad",
+  "latitude": "17.3850",
+  "longitude": "78.4867",
+  "country": "India",
+  "country_iso2": "IN",
+  "country_iso3": "IND",
+  "admin_name": "Telang\u0101na",
+  "capital": "admin",
+  "population": "10494000",
+  "places_city": [
+    {
+      "place_name": "Grand Hotel",
+      "map_reflink": "https://maps.google.com/maps/contrib/114894976030832183457",
+      "map_nametag": "Nishant Karkala",
+      "photo_reference": "AcJnMuGtTraM0OYhA-hsyGmuwBIgdrBMvk7JN69_Cv0qG7JoAbWRWlmEWCV8mG_P1s4d9TFOlpmocs-YWO3r09OPlDSLNAaAPJ6NcbOL-LJJZ4kReUwf2JuXtzESIBfbl56vEVrpJwjQSrs-5Is8m96d6Z0lrBWxxyrOgTnw1Hcg0vMQvQQm",
+      "latitude_google": 17.3879007,
+      "longitude_google": 78.4770363,
+      "google_place_id": "ChIJvzzJa9aZyzsR6kewVJXGfVs",
+      "google_place_rating": 4.1,
+      "google_user_rating": 27961,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "4-1-395, Bank Street, Troop Bazaar, Koti, Hyderabad"
+    },
+    {
+      "place_name": "Chicken Fast Food Corner",
+      "map_reflink": "https://maps.google.com/maps/contrib/104094926155518270683",
+      "map_nametag": "Srinath Gopalkrishna",
+      "photo_reference": "AcJnMuHFVo9FT7U6JQefzZilc3cu3CadI2vMftM-BGwVmflPcM7oXEyq2Wjqyfyl4iX06YySsBW3KrgThvwkJ1J94qfylEm3cgRGNqqgJuvNIlkljJZqQTaNpEvaaJaI-iaWTNHOfCIcYDk7sVJY0fj0scc7YyrcmFKuH4JSbMtvOYV_K_wm",
+      "latitude_google": 17.3870307,
+      "longitude_google": 78.4763766,
+      "google_place_id": "ChIJo_eeDtaZyzsRQGNf0h_CeF8",
+      "google_place_rating": 4.3,
+      "google_user_rating": 8,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "9FPG+RH6, Jawaharlal Nehru Road, Troop Bazaar, Koti, Hyderabad"
+    },
+    {
+      "place_name": "Taj Mahal Hotel",
+      "map_reflink": "https://maps.google.com/maps/contrib/110340068110480263585",
+      "map_nametag": "nikhil m",
+      "photo_reference": "AcJnMuFH_otVZwsFKy3FXWlX6zYLxOnxsoqKZqK_4YdH5IMwApONCpeR9neIljaBSddg8KIaJhwqqsjqSFUIRnZvU4DqQio9N1-xpIeWEqybt3J9BYWDjsYEvJQFBT7Vd4ew0I0sDYkoAgoQFBzCVC0iFsj-quTt9LEaX2crhxFOhohXp-XR",
+      "latitude_google": 17.3917263,
+      "longitude_google": 78.4770327,
+      "google_place_id": "ChIJxwozzBSZyzsRiwULSfN7Fxk",
+      "google_place_rating": 4.2,
+      "google_user_rating": 17558,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "4-1-999, Abids Road, Abids, Hyderabad"
+    },
+    {
+      "place_name": "Annapurna Mess",
+      "map_reflink": "https://maps.google.com/maps/contrib/108081877775378371073",
+      "map_nametag": "Sai Kumar Gandhi",
+      "photo_reference": "AcJnMuHz-1XYcXctHFq1sAmQL5LH9w1BTDdXD6OFHp1rubYGXkb1-HQ9K1dpuZopbhUrjGIsRG6LFl_GJtsUZUlLiV8Ygp9_JfAEIxgvCkOwUIi36YvbDX-oV6sKsS3CtsVf3ZrTUPpOFfIDdCKZbWX3j7O8Z89mHczu3ndoTkyU7cLiC-BP",
+      "latitude_google": 17.3848438,
+      "longitude_google": 78.48346099999999,
+      "google_place_id": "ChIJ69jPrdOZyzsR23K1pmUAaFQ",
+      "google_place_rating": 3.8,
+      "google_user_rating": 80,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "5-1-783, Troop Bazaar, Koti, Hyderabad"
+    },
+    {
+      "place_name": "AGRAwala SWEETS, Abids",
+      "map_reflink": "https://maps.google.com/maps/contrib/113149251208279716911",
+      "map_nametag": "AGRAwala SWEETS, Abids",
+      "photo_reference": "AcJnMuEeTOwFcvOmzSEOk6qRq7zTVAcwIN_b8A1xl9t4I2d9eSiYmZLL6f2OJfzZ3ZcEBsfrTDqy4rwB8N4SJPfmAk9q-fwmuEKg5yqcMJx4mFwrGHMW2_GvB9VRr1poN3M70Das8vv-ProomF6XOveL_tDEeP0qS357IFt9wxmm48VLbkxs",
+      "latitude_google": 17.3865529,
+      "longitude_google": 78.4760453,
+      "google_place_id": "ChIJyZc9D9aZyzsR4kYKisk0NY8",
+      "google_place_rating": 4.1,
+      "google_user_rating": 1701,
+      "place_types": [
+        "bakery",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "beside BAJAJ electronics, 5-4-18, Jawaharlal Nehru Road, Muralidhar Bagh, Old Kattal Mandi, Abids, Hyderabad"
+    },
+    {
+      "place_name": "Pragathi Tiffin Center",
+      "map_reflink": "https://maps.google.com/maps/contrib/115839285457292323148",
+      "map_nametag": "Pragathi Tiffin Center",
+      "photo_reference": "AcJnMuEBMb8SbW93FQ1jc3qaNuqBzt3-5xVnNIkOEpnDGVXVbQzPghr-9RQflvPzwdC49_bSoYwViPpqWruRiP-pDDfBiCtm-SvOMfXeaYrJzoIVNZ1Ui6sUOhi61MJNRtpkbnz4I9jazYiERkrxlf_XjcL8FIrcNwgmve5sQvIDsWpYaDaD",
+      "latitude_google": 17.387938,
+      "longitude_google": 78.4811814,
+      "google_place_id": "ChIJl2l98zORyzsRLEA720EopvY",
+      "google_place_rating": 4.2,
+      "google_user_rating": 11704,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Near Pargati College, H V S Road, Hanuman Tekdi, Near Pargati College, KS Lane, Koti, Hyderabad"
+    },
+    {
+      "place_name": "Krishna Hotel",
+      "map_reflink": "https://maps.google.com/maps/contrib/105688082893349003539",
+      "map_nametag": "Diviti YOGENDRA",
+      "photo_reference": "AcJnMuHHOe1UnkmbBYaGrNLNtPLyGbeEmWBnGZ6moGuagsQCZ3Z4J4ZaLnnLFkCxDcQzdwEZOwioXQKLyA-JFrSngpekJnoycIeykt4KMuBAaX9uYTS63968IFriJWGyEGZGW0PUNIWGmVuCUDH4-yHDTPH7SpBUtE7ttxC6Rupf3Pj8LxSz",
+      "latitude_google": 17.38321,
+      "longitude_google": 78.4819272,
+      "google_place_id": "ChIJFXLNbdOZyzsRUt_QerpXgas",
+      "google_place_rating": 3.3,
+      "google_user_rating": 21,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Shop No.150, Pushpanjali Complex, Troop Bazaar, Koti, Hyderabad"
+    },
+    {
+      "place_name": "Tabla Multicuisine Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/112851472790586591092",
+      "map_nametag": "Samsappa Samsudeen",
+      "photo_reference": "AcJnMuEpDK2P4mRb2EEK3yKrjdqC4j_ufqsKQgXK5hmCgHOaVChzNYNK6d869pQDbeg91hWvPVR-RxXlvmkUFdiaVaNqVBJshhBsiPHDcolmVJ2WeVmYjINf9BLo-DEu-8BXASn28xgyDdR4vqyprZjIR9akClOetdJ3cT1mdhdSMwNzHelP",
+      "latitude_google": 17.3850872,
+      "longitude_google": 78.4865817,
+      "google_place_id": "ChIJG4Lch82ZyzsR2mN5PW_igow",
+      "google_place_rating": 4,
+      "google_user_rating": 31,
+      "place_types": [
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "2nd, Floor, APHB Commercial Complex, Near Shiva Parvati Theatre, Kukatpally, Goutam Nagar, Badi Chowdi, Kachiguda, Kukatpally"
+    },
+    {
+      "place_name": "vinayaka tiffin centre",
+      "map_reflink": "",
+      "photo_reference": "",
+      "map_nametag": "",
+      "latitude_google": 17.3850872,
+      "longitude_google": 78.4865817,
+      "google_place_id": "ChIJ-ZudEdCRyzsRtrUepdaihYU",
+      "google_place_rating": 4,
+      "google_user_rating": 1,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "h.no.a-995 opposite hanuman templeallwyn colony, Phase 1, kukukatpally, Hyderabad"
+    },
+    {
+      "place_name": "Gemini Caterers",
+      "map_reflink": "",
+      "photo_reference": "",
+      "map_nametag": "",
+      "latitude_google": 17.3900213,
+      "longitude_google": 78.4929784,
+      "google_place_id": "ChIJ6wb6qcmZyzsRau70Fh0Wq6U",
+      "google_place_rating": 4.5,
+      "google_user_rating": 6,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "3-3-56, Kachiguda Station Road, Barkatpura, Kachiguda, Hyderabad"
+    },
+    {
+      "place_name": "Sri Balaji Family Dhaba",
+      "map_reflink": "https://maps.google.com/maps/contrib/103628408544345776783",
+      "map_nametag": "Sri Balaji Family Dhaba",
+      "photo_reference": "AcJnMuG24nc0NGw46Y2GC3G3w2gmx5rNSjFl784WqgklHdhZy8TEke1AuaiIYZdn3GfgPOHJghxqg9V1SvpsUp4QtuVFIfzgOOIO4i9gf30-5-iKODFiNOeg-U8K3KLhvJCkPNpAXBSXm4zv4nUqFJsuAQ_c8MS6zAOtFnZP80AEtWcXqYBK",
+      "latitude_google": 17.390392,
+      "longitude_google": 78.485771,
+      "google_place_id": "ChIJU7sbMtCZyzsReJu7bWu3dCg",
+      "google_place_rating": 4.1,
+      "google_user_rating": 2695,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "beside ACP Office, Ramkote X Road, beside ACP Office, Rajamohallah, King Koti, Hyderguda"
+    },
+    {},
+    {
+      "place_name": "Mayur Pan House",
+      "map_reflink": "https://maps.google.com/maps/contrib/102702587669631251058",
+      "map_nametag": "Mayur Pan House",
+      "photo_reference": "AcJnMuEENOQeRfiL_IAfI293wYZ3RgN9SAQxrtokFh1ABB4YdTQdWKwTCibqSyb2Lcp8q56pedQ-ocx8184HEtMSITmHgwIt6bUuyIZGQOeuxeDqEj6rDapvqymF7C2YR0zbDi7PJ1fo1hiHDSst_wB0wh2z8OQAdqCxWXfu683HuPXzVBnt",
+      "latitude_google": 17.389225,
+      "longitude_google": 78.48073579999999,
+      "google_place_id": "ChIJGdRWzNaZyzsRFzIpFZs6CfA",
+      "google_place_rating": 4.2,
+      "google_user_rating": 6431,
+      "place_types": [
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Needs Arcade, 4-3-548, 14, Hyderabad"
+    },
+    {
+      "place_name": "Roshan-Da-Dhaba (Exclusive Punjabi Restaurant)",
+      "map_reflink": "https://maps.google.com/maps/contrib/116722010220171787229",
+      "map_nametag": "Prakash Aavula",
+      "photo_reference": "AcJnMuG_HW7uP2pts-3yykTqTuLAl53IP0cbjTngKrZdzIz81dxzXrt7KDEBQ81eUZwH-GnJt72XeLhex_K_4GnmDL23G0AiFG9-9TTTqVNn7A93OS7ZNHRzmiHmwxHlwfZE0aVhkEHuJbBgZJH6aU6ctIooSHMCGemL0Gzaee5EYU6wCuL-",
+      "latitude_google": 17.3905386,
+      "longitude_google": 78.4919362,
+      "google_place_id": "ChIJqyfjKc-ZyzsRlzEeMk9hEjE",
+      "google_place_rating": 3.7,
+      "google_user_rating": 20,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "9FRR+6Q7, opposite Hotel Panchratan, Kachiguda Station Road, Kachiguda, Hyderabad"
+    },
+    {
+      "place_name": "Royal Tiffin Centre",
+      "map_reflink": "https://maps.google.com/maps/contrib/117981467783859159105",
+      "map_nametag": "Royal Tiffin Center",
+      "photo_reference": "AcJnMuGNp_uKDKvoWlJhRs1AHBYPJDJWifDag0S6UyfH9azbiZyo8p_2rERGnrYc3SFpKJkwjUao-aeJua4na4fhQ8KMSXdphFFouni9rD8-rcJ682KMEQbyDIyhY9ZcQbp1S-THGSjcTJOZ4NQALDv6A-eaXf0qbA_rJORg2TaxjXaWX2uA",
+      "latitude_google": 17.389466,
+      "longitude_google": 78.4804011,
+      "google_place_id": "ChIJp9E_0daZyzsR6bXExQIuwIs",
+      "google_place_rating": 4.1,
+      "google_user_rating": 10330,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "4/1/896, Tilak Road, Hanuman Tekdi, Abids, Hyderabad"
+    },
+    {
+      "place_name": "Siddhartha Coffee Shop A/C",
+      "map_reflink": "https://maps.google.com/maps/contrib/101204681649152567416",
+      "map_nametag": "Sachit Mathur",
+      "photo_reference": "AcJnMuFCKTBRBFNAKbaE3MnJ16ynh7UWZ294zPR5x_g0paQqDWfPhCPpkzHtLBgs48IKv1lQXmc3uFpujBgAPCkgq7FgcoPrLQcD8fxcHFDAF7wcsS85Oz8HiPmdCfBD6o1GpKOTDJoWiMQauYrOtnqy60Bguqb6NIGXxv61xYe3SwjIWBg8",
+      "latitude_google": 17.38583,
+      "longitude_google": 78.478714,
+      "google_place_id": "ChIJd7SbMNSZyzsRKoj9eWat9nM",
+      "google_place_rating": 3.9,
+      "google_user_rating": 442,
+      "place_types": [
+        "restaurant",
+        "cafe",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "No. 4-1-465/466, Bank Street, Abids, Hyderabad"
+    },
+    {
+      "place_name": "Oye Pizza",
+      "map_reflink": "https://maps.google.com/maps/contrib/108443416806845476383",
+      "map_nametag": "Praneeth e",
+      "photo_reference": "AcJnMuFnOrexqfgRxzLWazmiue1Q_odpsprPnJNZAt3A1iijW1aJ7yKrbb17aRD0YSCk2dY-X49UwznELbtVQWCbL3QWNsIrg5vGytmOB06lfJi9q6X3dDMQ1K3mDMt93sj873D5QK_YEnDgndhae67AbsmjZqQdM0AzkQ4CYOKsF0BpQ9ei",
+      "latitude_google": 17.3920009,
+      "longitude_google": 78.4800564,
+      "google_place_id": "ChIJKatMN9eZyzsRCTEDRx9YBJ8",
+      "google_place_rating": 3.9,
+      "google_user_rating": 385,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Shop No. 4-1-1228/1 Kamineni hospital road, Bogulkunta, Abids, Hyderabad"
+    },
+    {
+      "place_name": "Vinay Pan Mahal A/C",
+      "map_reflink": "https://maps.google.com/maps/contrib/117602898418634013373",
+      "map_nametag": "Support directindia",
+      "photo_reference": "AcJnMuHOCdnASS2zaK8lIrcbCQqAx3t6-PyI02d3XZmaViIlsu2Tb-iocrf3qd8pIqZLf7-E0n2lyuNOZhmA-3mG8KUiHHmfcxei4-2hXgixE7viJqMJ37wfP3zzVt81FQptYzOuhrPh_VWcpk_7K2DeoP4D3EzOKd3DXC2-z5qT8jeUo9L1",
+      "latitude_google": 17.3861702,
+      "longitude_google": 78.476805,
+      "google_place_id": "ChIJKaUo5tWZyzsRQdJr0XS52g0",
+      "google_place_rating": 4.1,
+      "google_user_rating": 196,
+      "place_types": [
+        "cafe",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Shop No.6, NTR Estate, Jawaharlal Nehru Road, Abids, Hyderabad"
+    },
+    {
+      "place_name": "Al Saud Mandi",
+      "map_reflink": "https://maps.google.com/maps/contrib/109421509368127092034",
+      "map_nametag": "Al Saud Mandi",
+      "photo_reference": "AcJnMuEiOmcVkYLbtLG3Lga-4jfYrmtSbkuvTvp7D-JtavwLkYtLTMRCiZiqflOWmRwrAlIlUo_ii88O5kK1AECadBM0PnawjgyP9elh-XIPJtRuflj3RMzrBnamVk1qMnqR4vuQFzlOWSAhOXf89sVBaBvN4ETnEMOi3Sfty2ezVI8zah4r",
+      "latitude_google": 17.3944441,
+      "longitude_google": 78.48472749999999,
+      "google_place_id": "ChIJe1Xl89qZyzsRqlNBbi54wKI",
+      "google_place_rating": 4,
+      "google_user_rating": 6708,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Beside St. Joseph's Public School, King Koti, Hyderabad"
+    },
+    {}
+  ]
+}

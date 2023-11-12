@@ -1,0 +1,389 @@
+{
+  "city": "Jaipur",
+  "city_ascii": "Jaipur",
+  "latitude": "26.9000",
+  "longitude": "75.8000",
+  "country": "India",
+  "country_iso2": "IN",
+  "country_iso3": "IND",
+  "admin_name": "R\u0101jasth\u0101n",
+  "capital": "admin",
+  "population": "3073350",
+  "places_city": [
+    {
+      "place_name": "Ratnawali - A Vegatarain Heritage Hotel",
+      "map_reflink": "https://maps.google.com/maps/contrib/117388845036908077427",
+      "map_nametag": "Ratnawali - A Vegatarain Heritage Hotel",
+      "photo_reference": "AcJnMuHJ0nLRP_tnideFJmkdWrz_43AAa0RuFt0bnAgBLw8k5BE49mI1HSM5lxuXfmlc5ezrb1p4_3TjgFlY96lfWcW7cDHjdEZgEGweU0Sa-yUkYZsomyNiAsZX8Be4B7D1M6irbrL87rNBdlKTtNNbsWTECyzGjxgTOQZM0rV_oSVgy1Nk",
+      "latitude_google": 26.9178678,
+      "longitude_google": 75.8114788,
+      "google_place_id": "ChIJVVWVfxq2bTkRqgXX8vqU7FE",
+      "google_place_rating": 4.2,
+      "google_user_rating": 919,
+      "place_types": [
+        "cafe",
+        "lodging",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "near Panch Batti, B-12, Mirza Ismail Road, New Colony, Jaipur"
+    },
+    {
+      "place_name": "Kailrugji - A City Centre Hotel",
+      "map_reflink": "https://maps.google.com/maps/contrib/109299971685048871026",
+      "map_nametag": "Afzal Qadri",
+      "photo_reference": "AcJnMuFAckSQmh99-uNKhbmiLYR_amHgmuT-UcS7JvN1BtJcAmNN2ZCnBYf2_TPjN_1tngYaiE4SAXb-XRMtvC6Db9OiL4qOFl1S7FajqDT9qlH0ZNhivty6VETLHvWbuOLhXzQ6-O7mtxAzsVAT18JStlOwsFzFYYQYFzSSlU8Jq7i-OiM",
+      "latitude_google": 26.9168985,
+      "longitude_google": 75.7945525,
+      "google_place_id": "ChIJuW3fbQi0bTkRM0AcuEAnR_I",
+      "google_place_rating": 4,
+      "google_user_rating": 296,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "22-C, Gopal Bari, Near Radisson City Centre Near Vidhayakpuri Police Station, Off, Mirza Ismail Road, Jaipur"
+    },
+    {
+      "place_name": "Jai Niwas Hotel",
+      "map_reflink": "https://maps.google.com/maps/contrib/102868110194345225495",
+      "map_nametag": "Jai Niwas Hotel",
+      "photo_reference": "AcJnMuFEmre5VGCsVzc3CIa-a6WN6NYmjUVQZC-j8iNfcxZWqFPwggScAZsCjR6TgKQI85Soh3ptg7p_3EB0SKVZZe6kxsY93D_EY2aeJOkPPQUm1YR08RTSQ_ePEwKURsUz8i5XWatDLk0hisvoGu3CoVb_gCry6ggT4RfojDKawrn1sDpM",
+      "latitude_google": 26.9191308,
+      "longitude_google": 75.8053843,
+      "google_place_id": "ChIJDVLPcwC0bTkRurw0zLGu6Ag",
+      "google_place_rating": 4.4,
+      "google_user_rating": 515,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "near GPO, Gopinath Marg \u0917\u094b\u092a\u0940\u0928\u093e\u0925 \u092e\u093e\u0930\u094d\u0917, near GPO, Mirza Ismail Road, Jaipur"
+    },
+    {
+      "place_name": "Lords Plaza, Jaipur",
+      "map_reflink": "https://maps.google.com/maps/contrib/111219181587802146362",
+      "map_nametag": "Lords Plaza, Jaipur",
+      "photo_reference": "AcJnMuEwenr_K6os7Uf67fR6wKzmcyrI_rMpv5v_dQ5umI06ghyBDe_Y3u34qN2b2Mi2fDYccYShnOBTSB6RjaeGK8QFCd4GWmZphnlbeAYqLjbYs-GiqnSklrkU0QlNWMJNvyOmub3WGXwi_l1Beyyghlia4jgsvQfylK74fONnncO6ZR2b",
+      "latitude_google": 26.9089956,
+      "longitude_google": 75.8150872,
+      "google_place_id": "ChIJPRuWhqW2bTkRaMx5S80BHfA",
+      "google_place_rating": 4.2,
+      "google_user_rating": 2839,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Suchna Kendra, near Jaipur, Sawai Ram Singh Road, Jaipur"
+    },
+    {
+      "place_name": "Comfort Inn Sapphire",
+      "map_reflink": "https://maps.google.com/maps/contrib/111191320845893461043",
+      "map_nametag": "Comfort Inn Sapphire",
+      "photo_reference": "AcJnMuGNA0G-TABKkgZjfzCcQd9cvra-DzRFs-6LumByremTdBZKAFhZ6nKe_XMziBtya2_IdZszFduKo2oyHA6RFySD-qBnFwfBiKJo4tJC7oyE-YLuo5W1WzA9DN8GxvyWpjzBLRZpoPSGN0h19SJv-DO89qusCPdqrHIv5BMUfOGNqJAT",
+      "latitude_google": 26.9177032,
+      "longitude_google": 75.8111261,
+      "google_place_id": "ChIJHR2J1gG0bTkR5yNhhQvmZbw",
+      "google_place_rating": 4.1,
+      "google_user_rating": 1241,
+      "place_types": [
+        "lodging",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "near Panchbatti, C-5 Mirza Ismail Road Circle, near Panchbatti, New Colony, Jaipur"
+    },
+    {
+      "place_name": "Hotel Rajasthan Palace",
+      "map_reflink": "https://maps.google.com/maps/contrib/106411075352632428464",
+      "map_nametag": "Hotel Rajasthan Palace",
+      "photo_reference": "AcJnMuFsqmjV6zg4mZdpDFwp3KnZqh5Ald8vZQ6QATkI2PxLVwQKkttVJakg61bMTVZg4kWfYk9t3kRxS_jslD-XrQOOM-srs1H-gq9jcmF1iQdSs09bfBTimmRSpBqjtjF1a6jupwRoMbhYIATYnU0LBwK--DKx0Utbz6Xd2GD6kH0oOiJZ",
+      "latitude_google": 26.9008788,
+      "longitude_google": 75.82113609999999,
+      "google_place_id": "ChIJAQAAAJS2bTkRWUWQ2VmlhSA",
+      "google_place_rating": 4.7,
+      "google_user_rating": 2842,
+      "place_types": [
+        "lodging",
+        "park",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "3, Peelwa Garden, Rajasthan Palace Hotel, Moti Doongari Road, Jaipur"
+    },
+    {
+      "place_name": "Hotel Kanchandeep",
+      "map_reflink": "https://maps.google.com/maps/contrib/114419496109619623126",
+      "map_nametag": "Hotel Kanchandeep",
+      "photo_reference": "AcJnMuE2rQBEnAIKkcmPxjm1HigZWzC7nQjubRjDg7kFALlDYuZox8qRlb-MonLv0m-d0gsf1qD1uh7ZeElpGOBa9GtDgRAlLYVPVl9jPV0-dVtVKvJ6PClHM75Mv8IIhCSPtsToQ3ElOn1hFiWWXQzeV39W1xSqX40DKjpvI_5rSgC7H5z3",
+      "latitude_google": 26.9206612,
+      "longitude_google": 75.8010281,
+      "google_place_id": "ChIJs77cTv-zbTkRxBF-MlzK9GM",
+      "google_place_rating": 3.9,
+      "google_user_rating": 1110,
+      "place_types": [
+        "meal_takeaway",
+        "lodging",
+        "travel_agency",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "17, Vanasthali Marg, Sindhi Camp, Jaipur"
+    },
+    {
+      "place_name": "Hotel RAYA INN",
+      "map_reflink": "https://maps.google.com/maps/contrib/111436023078351216534",
+      "map_nametag": "Hotel RAYA INN",
+      "photo_reference": "AcJnMuFXvZNLckmEKg43tA7t9LDwfx8tkdEfnWA6NaQUU9niZWGvuxLOKzsDrDmrLrVNCrD5XDPXvc5LJpuQ6wNVzVdOrZxYz0BQJiyTcyMdUAPuGIyGZOocqEIRZkqoNwa2C2kYOiKN_V58_3ZmUiBRjFmp7yWRLY0DrT54f2BXOvRudfk",
+      "latitude_google": 26.9213787,
+      "longitude_google": 75.7878805,
+      "google_place_id": "ChIJUTnLS_SzbTkR7f1GD8Knwf4",
+      "google_place_rating": 3.9,
+      "google_user_rating": 1717,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Power House Road, Opp. Jaipur Junction, 32, Ram Mandir Road, Jaipur"
+    },
+    {
+      "place_name": "Hotel Ananta Inn",
+      "map_reflink": "https://maps.google.com/maps/contrib/103704067855912158621",
+      "map_nametag": "Hotel Ananta Inn",
+      "photo_reference": "AcJnMuHi_0hKis5MKyFd0_9Tj6i2cvEueibC7XrzSqj1tZxmtb-Kyb1zcQArmVqa7J_8XQIBiqbL2MPDp7Td9qX60P7ay2aPqG5yj5mlQknMC40LH_3nOpQ2mgCgj27-etZ0ScGmTAhgrxYRC3nXxRHMM6E7FP7dcH3g1QLSN1_A3WOdpUek",
+      "latitude_google": 26.8903322,
+      "longitude_google": 75.80441429999999,
+      "google_place_id": "ChIJ_R6eLye0bTkRaMeTz-55osE",
+      "google_place_rating": 3.9,
+      "google_user_rating": 647,
+      "place_types": [
+        "cafe",
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Plot No, 1A, \u090f\u0935\u0930\u0947\u0938\u094d\u091f \u0915\u0949\u0932\u094b\u0928\u0940, \u0935\u093f\u0927\u093e\u092f\u0915 \u0928\u0917\u0930, \u0932\u093e\u0932 \u0915\u094b\u0920\u0940, \u091c\u092f\u092a\u0941\u0930"
+    },
+    {
+      "place_name": "Hotel Ganga Kripa Jaipur",
+      "map_reflink": "https://maps.google.com/maps/contrib/111831492331859131826",
+      "map_nametag": "Hotel Ganga Kripa Jaipur",
+      "photo_reference": "AcJnMuH0huRITGsvYaGI2T-uHBLM47mN-N3SPPswwy_vSukJGp23sTbo8IXPRHBks_U8WEECPDs0FfmI0EL-z2j9U0cEqeqQg08X4WjyflOMB1YgOvQv8IqP6OG9govrhVjAn65qTDhN0wDwgxXqU51oNh2SnDyxeah0haxe0jWn1lSqvoi4",
+      "latitude_google": 26.9165239,
+      "longitude_google": 75.7918218,
+      "google_place_id": "ChIJYXczugm0bTkRjBxuoRO7ZQM",
+      "google_place_rating": 3.3,
+      "google_user_rating": 455,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "D-111, Kalwar Scheme, Gopalbari, Jaipur"
+    },
+    {
+      "place_name": "Hotel Golden Tulip Essential",
+      "map_reflink": "https://maps.google.com/maps/contrib/113172926245945658042",
+      "map_nametag": "Hotel Golden Tulip Essential",
+      "photo_reference": "AcJnMuHwUFa3C3T3JQfTY4u4u2bmNwCbuT_g7YRmIyFHKXP4sIMvF65l-L3uySmSA3s7x294BZ1qRC35IkTrYXfHP-zkL5ddA17O6Z_A8Yd07PazlQOSDATykOL2FbDmh_zYaQA7AvU99HH-Adh5Ff1E4ecxJ70Z49ktOUCzOYCF9PpJeL0t",
+      "latitude_google": 26.91701949999999,
+      "longitude_google": 75.8061386,
+      "google_place_id": "ChIJW3gz9Aq1bTkR96TU3BEpO7A",
+      "google_place_rating": 4.3,
+      "google_user_rating": 7962,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Plot no, opp. Lakshmi Complex, 5, Mirza Ismail Road, Jalupura, Jaipur"
+    },
+    {
+      "place_name": "Pratap Bhawan Cuisine & Homestay",
+      "map_reflink": "https://maps.google.com/maps/contrib/102314339878545147550",
+      "map_nametag": "Pratap Bhawan Cuisine & Homestay",
+      "photo_reference": "AcJnMuGMHRg7VM1RvZfGh3Mzx80-JHBZ1em-B5tSlXnLRQApgCKu99aFBOcbKpNKbHAQNada3TYmaCxOqaw-DjK_76XVm2q7WIG61GSmtbRgIJHenXDlgJR3V90CDGv1_CEEh5mTxFdpIEpDIT41pEgdOHTmaTdAuMpky8C8WMUEaGqZsqvF",
+      "latitude_google": 26.9088686,
+      "longitude_google": 75.7912941,
+      "google_place_id": "ChIJhYx1Rg60bTkR4PbOPMVvhLk",
+      "google_place_rating": 4.6,
+      "google_user_rating": 109,
+      "place_types": [
+        "meal_takeaway",
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "A-4, Pratap Bhawan, Jamnalal Bajaj Marg, C Scheme, Jaipur"
+    },
+    {
+      "place_name": "Hotel The Heritage Castle",
+      "map_reflink": "https://maps.google.com/maps/contrib/116336534754465539153",
+      "map_nametag": "Zeeshan Ansari (Zeeshu)",
+      "photo_reference": "AcJnMuEJvWO0hlQxoV5luJIQXjoKbtHI06LKttLtSNDxdNg-WxvMRq_1GDsOKRmFYd7nwBKuqQnDBLJ6q3hg-ueYuB2bwlY59hwwaQNd6Hsqm8gpexSu2W9A3qRxJ-7POXMlUE9wSeIOt3v29-thnLZgRbsvjbddWpSEs6vK5pSEnbE6fTKu",
+      "latitude_google": 26.9193687,
+      "longitude_google": 75.7974763,
+      "google_place_id": "ChIJ7fboyQC0bTkRQegDBge50so",
+      "google_place_rating": 3.4,
+      "google_user_rating": 326,
+      "place_types": [
+        "lodging",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "opposite All India Radio Station, near GANPATI PLAZA, 218, Mirza Ismail Road, Gopalbari, Jaipur"
+    },
+    {
+      "place_name": "Sanjay Omelette - Egg Dee",
+      "map_reflink": "https://maps.google.com/maps/contrib/103893453833064666391",
+      "map_nametag": "Sanjay Omelette - Egg Dee",
+      "photo_reference": "AcJnMuH6MPGY8HCUnG-tQ8KwUV0BqkN3hLSdbVorUvd8hd4xDiy_gvirrKmQbYySFSzAs-3pM9tYVOnVQ89hOPPETN6Yo2O4SLirEZD0YKeK8Us3f5gDyhyNO-fxCxxMBPjTlWf6KZFI0ep25UbGXDJ0YT1r3_oDQhAeTTaqsiI84APEENPU",
+      "latitude_google": 26.8903126,
+      "longitude_google": 75.81045259999999,
+      "google_place_id": "ChIJayzUMJy2bTkRFYUhfXgaNxs",
+      "google_place_rating": 4.3,
+      "google_user_rating": 4928,
+      "place_types": [
+        "restaurant",
+        "meal_takeaway",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Janta Store Shopping Centre, University Marg, Bapu Nagar, Jaipur"
+    },
+    {
+      "place_name": "Aunty's cafe",
+      "map_reflink": "https://maps.google.com/maps/contrib/112799871806177802122",
+      "map_nametag": "Rajesh Srivastav",
+      "photo_reference": "AcJnMuF3LS2zK4yqm60_K8mMLfLPGQ03f6uK7P7tyjlYk_T8aKLb-ho1KHEHCqwj4x6axjRJBQwWgyFEuH2iIsZMko5P0Ae1lrP3tNu_RL4nSIRVFfLvRxFVuqTrCjbYQSDJFWvZpAglbFqs8zpEahsl50RRhtCuy4l3S0iHgD6EKLc5M7S0",
+      "latitude_google": 26.9091698,
+      "longitude_google": 75.8023029,
+      "google_place_id": "ChIJFREpQAO0bTkR3qc1KTDt22k",
+      "google_place_rating": 3.6,
+      "google_user_rating": 2805,
+      "place_types": [
+        "restaurant",
+        "cafe",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "google_place_vicinity": "Sarojini Marg, Ashok Nagar, Jaipur"
+    },
+    {},
+    {
+      "place_name": "Chaisa Cafe",
+      "map_reflink": "https://maps.google.com/maps/contrib/106197504380539666597",
+      "map_nametag": "Chaisa Cafe",
+      "photo_reference": "AcJnMuHXo5-rTMJ2m8uPTxXq_ac0vNd26bDUvzPQoWWivOA32wpj38KjLyBO57Nk_Ac-dgA_FT888x34CmXnmVFyHVitZmyBf_T35U3gFnuf_AVaxJrKKVSok4nMZgnq07CiHgp0qRKsoyHbjbn_gX1DvMkBcIFWsDyu9yT3R0jW8XGD5aiM",
+      "latitude_google": 26.8915476,
+      "longitude_google": 75.7994789,
+      "google_place_id": "ChIJ9TOrkyO0bTkR4GHr_BcTWHc",
+      "google_place_rating": 4.3,
+      "google_user_rating": 1889,
+      "place_types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "google_place_vicinity": "Close to Vidhan Sabha, 8A-Satya Vihar, Pankaj Singhvi Marg, Vidhayak Nagar, Lalkothi, Jaipur"
+    },
+    {
+      "place_name": "Mewar Internet Cafe n Cafeteria",
+      "map_reflink": "https://maps.google.com/maps/contrib/112395176927582375386",
+      "map_nametag": "Mewar Internet Cafe n Cafeteria",
+      "photo_reference": "AcJnMuHUd0dOtA8adLlIsQqfGJUQWzuEIme54_6AQCfGdKMyCvbiU767T_xHqfokpSC6sKSWXnxn-vzTILEBvmtXaOWu24iF6QEBC8kphvNkI6AEholKrpZvRuG7dkwN_xEhjVtTdCyb5irkkvx0HYijZP0Nwe6mJttTZmc0qW7qJd7s5QU1",
+      "latitude_google": 26.9226982,
+      "longitude_google": 75.79959889999999,
+      "google_place_id": "ChIJaz51IvmzbTkR4BPl_AQ6TDM",
+      "google_place_rating": 4.5,
+      "google_user_rating": 102,
+      "place_types": [
+        "travel_agency",
+        "real_estate_agency",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "google_place_vicinity": "opp. Metro Station Sindhi Camp, Station Road, Jaipur"
+    },
+    {
+      "place_name": "Nawab Ganj Safari",
+      "map_reflink": "",
+      "photo_reference": "",
+      "map_nametag": "",
+      "latitude_google": 26.903481,
+      "longitude_google": 75.793612,
+      "google_place_id": "ChIJaU23AhG0bTkRGos3IcucXYU",
+      "google_place_rating": 5,
+      "google_user_rating": 2,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "2, Nh-11c, Shivaji Nagar, Ashok Nagar, Jaipur"
+    },
+    {
+      "place_name": "Doodh Misthan Bhandar",
+      "map_reflink": "https://maps.google.com/maps/contrib/108309060344912587307",
+      "map_nametag": "Doodh Misthan Bhandar (DMB SWEETS PVT LTD)",
+      "photo_reference": "AcJnMuEZ8dlk2ArYGu2-LSepp0y_zBO2TFl1Y6etUmVlxGkC_CXzPXaKDTR5qggERHjizXFWqZBlzihYEQMJloM8RmU0wRcg6XZWTJWwFyVIRTPWjybf0X1c0FjOQZ9y7POqjh2Yptrj_fFSWp1SMD17sVEjnUBfzOGfx4VEtYw7OsTbdGid",
+      "latitude_google": 26.8864245,
+      "longitude_google": 75.7958671,
+      "google_place_id": "ChIJsbzMLyW0bTkRuZaHLqcvbzc",
+      "google_place_rating": 4.2,
+      "google_user_rating": 4148,
+      "place_types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "google_place_vicinity": "Near Hero Honda Showroom, B-73A, Sahakar Marg, Lal Kothi Scheme, Lalkothi, Jaipur"
+    }
+  ]
+}

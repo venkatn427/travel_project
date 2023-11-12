@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/style.css') }}">
+    <link rel="stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/tamilnadu_devo.css') }}">
+    <title> Location </title>
+</head>
+
+<body>
+
+    <body>
+
+        <!--===========Nav Bar=================-->
+        <section class="nav-bar">          
+            <ul class="menu">
+                <script> 
+                    var username = {{username1}}
+                    if (username) {
+                        <div class="logo"> Welcome, {{username}} </div>
+                    }
+                    else {
+                        <div class="logo"> {{ state }} </div> 
+                    }
+                        
+                    </script>
+                <li><a href="#">home</a></li>
+                <li><a href="#">blog</a></li>
+                <li><a href="#">about us</a></li>
+                <li><a href="#">contact us</a></li>
+                <li><a href= "{{ url_for('logout') }}" >Logout</a></li>
+            </ul>
+            </div>
+
+        </section>
+        <!--===============Banner================-->
+        <article> 
+            <div class="logo">Welcome to {{ state }} </div>
+            <div class="card-container">
+            {% for card in card_data %}
+            <div class="card {{ card.class }}">
+                <div class="visual">
+                    <img class="resizable-image" src="{{card.image}}" alt="img" />
+                </div>
+                <div class="text-content">
+                    <h3>{{card.name}}</h3>
+                    <p> {{card.description}}</p>
+                    <a href="{{card.location}}">Go to Maps</a>        
+            </div>
+            </div>
+            {% endfor %}
+            </div>
+            <article>
+        </section>
+
+        <div id="username_">{{username}}</div>
+        <div id="chat-window" class="chat-window">
+            <div class="chat-header">
+                Hello {{ username1 }}, How can I Help?
+                <button id="toggle-chat" class="minimize-button">-</button>
+            </div>
+            <div id="chat-output"></div>
+            <input type="text" id="user-input" placeholder="Type a message...">
+            <button id="send-button">Send</button>
+            </div>
+
+        </div>
+        <script src="{{ url_for('static',filename='styles/chat.js') }}"></script>
+    </body>
+
+    </body>
+
+</html>
+</body>
+
+</html>

@@ -1,0 +1,282 @@
+{
+  "city": "Mumbai",
+  "city_ascii": "Mumbai",
+  "latitude": "19.0761",
+  "longitude": "72.8775",
+  "country": "India",
+  "country_iso2": "IN",
+  "country_iso3": "IND",
+  "admin_name": "Mah\u0101r\u0101shtra",
+  "capital": "admin",
+  "population": "24973000",
+  "places_city": [
+    {
+      "place_name": "Trident Hotel Bandra Kurla",
+      "map_reflink": "https://maps.google.com/maps/contrib/115481549731382816212",
+      "map_nametag": "Ashish Kaushik",
+      "photo_reference": "AcJnMuE6caOQsNw1jmWgw0Ub9O6uBM8J_2p50PvoWcf2y9TEcGchv2fDvU45Fth6afqFxZ5eNbllaKsJGowbmLPn07W8F0EA2ad-9zu-fHbxcjry0PVysspaGmJBCb98mfIF32YL_noc0WF6OzkVUDIheNRAWv8rcoalRu5eHpXcUYtIEkCx",
+      "latitude_google": 19.0666028,
+      "longitude_google": 72.86743179999999,
+      "google_place_id": "ChIJIagRS-nI5zsRGLstOKTvrHQ",
+      "google_place_rating": 4.6,
+      "google_user_rating": 25417,
+      "place_types": [
+        "spa",
+        "bar",
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "C 56, G Block BKC, Bandra East, Mumbai"
+    },
+    {
+      "place_name": "Kohinoor Elite",
+      "map_reflink": "https://maps.google.com/maps/contrib/102937223750892811479",
+      "map_nametag": "Harshit Anand",
+      "photo_reference": "AcJnMuHeTCOXwEoiF8lLp6u968EdPlZ7cjI-sY5WvXo2Wf9lP6sLsZBvwDd3N_0wa1N1GIRBa59XSXQMdgnZhmD8toznAS75FvLujCXLGxa4ZZeNW6nRwZ-oeqDCVuQ5uf4NqwqQwr-YLjWcNP3CHFYgABkxzjszACevBBRLVfEotrqrQ0mi",
+      "latitude_google": 19.0806968,
+      "longitude_google": 72.885526,
+      "google_place_id": "ChIJS7bELI_I5zsRerwdkCoB21c",
+      "google_place_rating": 4.1,
+      "google_user_rating": 3792,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Kirol Road, Kurla West, Mumbai"
+    },
+    {
+      "place_name": "Pizza Hut",
+      "map_reflink": "https://maps.google.com/maps/contrib/113169649292296144851",
+      "map_nametag": "Be.bhukkadd",
+      "photo_reference": "AcJnMuGFV7Goa0StLeEjZfuBIFMMAHha9LG7oIKl5AQRMEIWofO15JcmF8JrL48wPWd5k43k9reRwzsRZ--AWXxikKYPso5RQ9VEf_X0S27VSmAYZX27AsxrRyFSXnszGL0qTcYyyTz7i1fYVx2XK5pm_u8gWUmpZdD5BZ-ZzvdN1XVyVXr0",
+      "latitude_google": 19.0697272,
+      "longitude_google": 72.8683322,
+      "google_place_id": "ChIJ0Unkie7I5zsRjvSZ502SXe0",
+      "google_place_rating": 3.8,
+      "google_user_rating": 1853,
+      "place_types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "opposite MMRD Ground, Gr Flr, Bandra Kurla Complex BPCL Petrol bunk, opposite MMRD Ground, Bandra East, Mumbai"
+    },
+    {
+      "place_name": "Soma",
+      "map_reflink": "https://maps.google.com/maps/contrib/111179356286052654979",
+      "map_nametag": "Soma",
+      "photo_reference": "AcJnMuEspqkILfdF57IDf8URsmxzQITdZJIP5jBCHTcDavohc0HtEoeLEW6TUVIOx0JdstHUXxPpQAIhIqko2PXZioWvK5vYecLYTr8AYum5kG_FshcCfKig-H2XGL-DuAyVbx_M_B8iXq-6etuStayHaHVmcemxHDwXv0BxcvXUDpFl3vlr",
+      "latitude_google": 19.0781118,
+      "longitude_google": 72.8512484,
+      "google_place_id": "ChIJ3yrXAQLJ5zsRW-BKiZgBHl8",
+      "google_place_rating": 3.7,
+      "google_user_rating": 71,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Grand Hyatt Mumbai Hotel and Residences Bandra Kurla Complex Vicinity, Off, Western Express Highway, Santacruz East, Mumbai"
+    },
+    {},
+    {
+      "place_name": "Nityanand Restaurant - Pure Veg",
+      "map_reflink": "https://maps.google.com/maps/contrib/104535378324184864697",
+      "map_nametag": "Mustafa Rangwalla",
+      "photo_reference": "AcJnMuFaoUrJpArZ4UffglFqd_q33wImbPR631mJgL_fTqWDRY_zGV5rtU6x70oAlYTxRhWS0_zv_UCsXYhvpHIRRwnmTt4BIb7RkNTnsER95L-MUOGQ0GeZPQChmZAGSSZhyxqSFOPGTWNmGl8izEe4mYlb9OzAmHtvzF4P13MxjqGYKYF1",
+      "latitude_google": 19.0717386,
+      "longitude_google": 72.864436,
+      "google_place_id": "ChIJRVR9ciHP5zsRpNfoQ2KJjgE",
+      "google_place_rating": 3.8,
+      "google_user_rating": 3739,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "297, Central Salsette Tramway Road, Vidya Nagari, Kalina, Santacruz East, Mumbai"
+    },
+    {
+      "place_name": "Monginis Cake Shop",
+      "map_reflink": "https://maps.google.com/maps/contrib/118178129402761414989",
+      "map_nametag": "Kunal Mohite",
+      "photo_reference": "AcJnMuHYwKGvTFg_DCCC4hSrNPIMSjaaieodGQK8RP4ZE-IDL1tvMJ4F4JHttcGfNDKlRVx8gcc_F26RF27Phag3c36HIe6WbwWONwcsleM4lUyBrJMqRLIjdOb2BvaFsLmKNcy2NesHDy_KQbUmBMPeIPyDYgP0vEPxPvTaRytgdMlyao26",
+      "latitude_google": 19.077864,
+      "longitude_google": 72.8651982,
+      "google_place_id": "ChIJVVVVZfHI5zsRlmC0Dja37R8",
+      "google_place_rating": 3.9,
+      "google_user_rating": 97,
+      "place_types": [
+        "bakery",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "opposite Kalina, Shop No 2, Golden Arch Society Kalina Kurla Rd, Old Kalina Mkt, opposite Kalina, Santacruz, Mumbai, Masjid, Mumbai"
+    },
+    {
+      "place_name": "Arvind Hotel",
+      "map_reflink": "https://maps.google.com/maps/contrib/112490221553463694651",
+      "map_nametag": "Narendra Mehra",
+      "photo_reference": "AcJnMuF4Wwftb3x2lJx-4hrtZUvr5McEKBWmGH6yHxp6vktmbbGueV0dNtsGibStTDYtdJtLJI3UG728RlSZkVLntA-wcZhSMD0-26Gm_OM--sfbE2M3kSl53A42ZUUzedbbJfy_ujeaMC2zhRMtNhuAfIhKbmR6pux8v92Nq8SEv2Ih_3NT",
+      "latitude_google": 19.0777199,
+      "longitude_google": 72.86552809999999,
+      "google_place_id": "ChIJXTFGUfHI5zsRJwBjKZrrQvk",
+      "google_place_rating": 4,
+      "google_user_rating": 401,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "apt shop, Gwens Apartment, 2, Kalina Kurla Road, Santacruz East, Mumbai"
+    },
+    {
+      "place_name": "Shahi Biryani Corner",
+      "map_reflink": "https://maps.google.com/maps/contrib/108070280968186164744",
+      "map_nametag": "Rpn Relocation Pvt Ltd",
+      "photo_reference": "AcJnMuGON2JWQlIjxpIGgcHwzjQq-3CpDkPsZbsAhvvMxYO7ECcg6FCFuQg38kYYoJRs8ZOhagu1QbhIIvm6NbK9dm0G7OkJVdUIbxngJHmeIJNtkT-0NZtIFhvJE99r6j6nD7OK9c3qVWlL1sudILqS_4mbc-61sktUY7dGlmqr-sZOApmM",
+      "latitude_google": 19.07565049999999,
+      "longitude_google": 72.8798925,
+      "google_place_id": "ChIJzbggx43I5zsRX0OAO_40Q4U",
+      "google_place_rating": 3.8,
+      "google_user_rating": 6,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "behind Rahul Wines, 5, Satyam CHS, Kalina, Santacruz East, behind Rahul Wines, Mumbai"
+    },
+    {
+      "place_name": "Poisar Health Home",
+      "map_reflink": "",
+      "photo_reference": "",
+      "map_nametag": "",
+      "latitude_google": 19.0759837,
+      "longitude_google": 72.8776559,
+      "google_place_id": "ChIJRVR9ciHP5zsR9W9muNYSXlE",
+      "google_place_rating": "",
+      "google_user_rating": "",
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "India"
+    },
+    {
+      "place_name": "Essence Of China",
+      "map_reflink": "https://maps.google.com/maps/contrib/116083836950312389745",
+      "map_nametag": "Meet Rachhadia",
+      "photo_reference": "AcJnMuEz5RPjxn1KJfWVKeYglEJZB-I0PkGpY7fZKbuDDzBx0_TQDFobcxmV2EvaPaBg30FRXCKT4cEzaLbFTqu5gWV13tbCpm7qkGgteYP100-fNwXGN5CACXsPZ1rbGfenlQqOcsY26opr2O4vetKNaRYtROgj-eq7Xuh_tc3ZkNoQ0vjU",
+      "latitude_google": 19.0866723,
+      "longitude_google": 72.8903036,
+      "google_place_id": "ChIJnda5fH3I5zsRiFxpWanRB5Y",
+      "google_place_rating": 3.7,
+      "google_user_rating": 170,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Unit S - 05, Lal Bahadur Shastri Marg, Kurla, Mumbai"
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "place_name": "New Sahara Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/111759340373153976136",
+      "map_nametag": "New Sahara Restaurant",
+      "photo_reference": "AcJnMuHQpoiUnPYkwaZPFrgFb94d10tyL-6oOOFMpbEIGP7WvzxPq4nlq7-TWCtDW0avXmP1OnhvpAe6OCd2vIC235GWBtDjkCN7hZptToB-82G-Xoo7h60WdpJAB7fqOllz2STloj5dHTYQjiSfiTVwcv8gtJBEtamC5E1o4V6ar4xERGAx",
+      "latitude_google": 19.0748809,
+      "longitude_google": 72.8767909,
+      "google_place_id": "ChIJffXFao3I5zsR27N2co4nmJs",
+      "google_place_rating": 4.6,
+      "google_user_rating": 55,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "opp. L.B.S, Shop No.11,Gulab Shah Estate, opp. L.B.S, Lal Bahadur Shastri Marg, Kurla West, Mumbai"
+    },
+    {
+      "place_name": "Domino's Pizza",
+      "map_reflink": "https://maps.google.com/maps/contrib/113711699098961501434",
+      "map_nametag": "Harsh Kumawat",
+      "photo_reference": "AcJnMuGEFhRTqwf6cD_1qhz1SFJarj16v8ZopWtP2dxgGY8Tx586WWuNULpMUK5ydgJQ42ESiqCQjgUcNgVgjcNvX4gtb4-XHwhI0NJbbCT5Z6IlOuuc3ET6RpBxdbF7HVNJ766l188wnQQ1yNWSEHjTjrhv2W3OnuCrD0eCqMZyKlNl2A8t",
+      "latitude_google": 19.0748054,
+      "longitude_google": 72.8762935,
+      "google_place_id": "ChIJA0JGR43I5zsRUBbzo4O7IIE",
+      "google_place_rating": 3.6,
+      "google_user_rating": 2030,
+      "place_types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Kanakia Zillion, Shop No 2, Ground, Lal Bahadur Shastri Marg, Kurla West, Mumbai"
+    },
+    {
+      "place_name": "The Lucky",
+      "map_reflink": "",
+      "photo_reference": "",
+      "map_nametag": "",
+      "latitude_google": 19.0756838,
+      "longitude_google": 72.8798985,
+      "google_place_id": "ChIJZaDoxo3I5zsRv029ugF1Has",
+      "google_place_rating": 4.2,
+      "google_user_rating": 10,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "3VGH+7XC, Kalina Kurla Road, Santacruz, Mumbai, Friends Colony, Kismat Nagar, Kurla"
+    },
+    {
+      "place_name": "Shalimar Restaurant & Store",
+      "map_reflink": "https://maps.google.com/maps/contrib/110910415327441135706",
+      "map_nametag": "Shalimar Restaurant & Store",
+      "photo_reference": "AcJnMuEULUxJtI3XoUUjLtOtM8M4Sp561kxxQQWalEP6GgNr85y-oWXRp47Zz0ZowwsjunaBzcZ3J5XjvGHZZqVADNNGHPZtD-TOMlSd9u2KG-8gG4x8b4vyGIViySpfVmWi9IgzthA7m2B8rmgVOV-go22RmG5I7Yx6xCUntKG4w9gfmV7H",
+      "latitude_google": 19.0783633,
+      "longitude_google": 72.88037419999999,
+      "google_place_id": "ChIJletROI7I5zsRnqvzRTkho30",
+      "google_place_rating": 4.1,
+      "google_user_rating": 1141,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "opp. Habib Hospital, New Mill Road, Kurla West, Kurla, Mumbai"
+    }
+  ]
+}

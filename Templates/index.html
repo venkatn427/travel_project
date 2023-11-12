@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/style.css') }}">
+    <title>Go Travel India - Find your Destination</title>
+</head>
+
+<body>
+
+    <body>
+
+        <!--===========Nav Bar=================-->
+        <section class="nav-bar">
+            <div class="logo">Travel India - Find your Next Destination</div>
+            <ul class="menu">
+                <li><a href="#">home</a></li>
+                <li><a href="#">blog</a></li>
+                <li><a href="#">about us</a></li>
+                <li><a href="#">contact us</a></li>
+                <li><a href="{{login}}">Login / Singup</a></li>
+            </ul>
+            </div>
+
+        </section>
+        <!--===============Banner================-->
+        <section class="banner">
+            <div class="banner-text-item">
+                <div class="banner-heading">
+                    <h1>Find your Next Tourist Spot!</h1>
+                </div>
+                <form class="form" method="POST" action="{{ url_for('locationdetails_new') }}">
+                    <input list="mylist" name="selected_state" id="state" placeholder="Where would you like to go? Select City Name">
+                    <datalist id="mylist">
+                        {% for location in locations %}
+                        <option>{{ location.city }} </option>
+                        {% endfor %}
+                    </datalist>
+                    
+                </form>
+            </div>
+        </section>
+
+        <!--==============Places===================-->
+        <section class="places">
+            <div class="places-text">
+                <h2>Favourite Places</h2>
+            </div>
+
+            <div class="cards">
+                <div class="card">
+                    <div class="zoom-img">
+                        <div class="img-card">
+                            <img
+                                src="https://res.cloudinary.com/dxssqb6l8/image/upload/v1605293874/switzerland_tubxcm.jpg">
+                        </div>
+                    </div>
+
+                    <div class="text">
+                        <span class="rating">⭐⭐⭐⭐⭐</span>
+                        <h2>The Dark Forest Adventure</h2>
+                        <div class="card-box">
+                            <p class="location">✈ Hyderabad</p>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="card">
+                    <div class="zoom-img">
+                        <div class="img-card">
+                            <img src="https://res.cloudinary.com/dxssqb6l8/image/upload/v1605293673/korea_bxrcj5.jpg">
+                        </div>
+                    </div>
+
+                    <div class="text">
+                        <span class="rating">⭐⭐⭐⭐⭐</span>
+                        <h2>The Dark Forest Adventure</h2>
+                        <div class="card-box">
+                            <p class="location">✈ Bengaluru</p>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="card">
+                    <div class="zoom-img">
+                        <div class="img-card">
+                            <img
+                                src="https://res.cloudinary.com/dxssqb6l8/image/upload/v1605293673/night-4336403_1920_demehp.jpg">
+                        </div>
+                    </div>
+
+                    <div class="text">
+                        <span class="rating">⭐⭐⭐⭐⭐</span>
+                        <h2>The Dark Forest Adventure</h2>
+                        <div class="card-box">
+                            <p class="location">✈ Mumbai</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!--===========Footer=================-->
+        <div class="footer">
+            <div class="links">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li>Contact Us</li>
+                    <li>About</li>
+                    <li>Frequently Asked Questions</li>
+                </ul>
+            </div>
+        </div>
+        <!-- Add this HTML code where you want the chat icon or button -->
+        <!-- Add this HTML code where you want the chat window -->
+
+        <div id="chat-window" class="chat-window">
+            <div class="chat-header">
+                Hello, How can I Help?
+                <button id="toggle-chat" class="minimize-button">-</button>
+            </div>
+            <div id="chat-output"></div>
+            <input type="text" id="user-input" placeholder="Type a message...">
+            <button id="send-button">Send</button>
+            </div>
+
+        </div>
+        <script src="{{ url_for('static',filename='styles/chat.js') }}"></script>
+    </body>
+
+</html>
+</body>
+
+</html>

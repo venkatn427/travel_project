@@ -1,0 +1,394 @@
+{
+  "city": "Delhi",
+  "city_ascii": "Delhi",
+  "latitude": "28.6100",
+  "longitude": "77.2300",
+  "country": "India",
+  "country_iso2": "IN",
+  "country_iso3": "IND",
+  "admin_name": "Delhi",
+  "capital": "admin",
+  "population": "32226000",
+  "places_city": [
+    {
+      "place_name": "The Oberoi, New Delhi",
+      "map_reflink": "https://maps.google.com/maps/contrib/110611388796494251041",
+      "map_nametag": "The Oberoi, New Delhi",
+      "photo_reference": "AcJnMuF6sFadpDhSXQDDSJtWryuSQ357pynLUHqE5cugKbZ17pK8VON1LIIL1zhaNGYa5c5HcCyzbR3HiEyyuN3xp3PEHgqw2uPdQcRJ0rmNQf1kGv5m2T6NnW9jSyLwbtf0fozuf1fRunqCxnTooF5uhrlM2Io4fUQbI9YadREyD0mg2-rl",
+      "latitude_google": 28.5963001,
+      "longitude_google": 77.2396602,
+      "google_place_id": "ChIJDbwn9uHiDDkRBBQtqfRdwkA",
+      "google_place_rating": 4.7,
+      "google_user_rating": 14700,
+      "place_types": [
+        "lodging",
+        "spa",
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Doctor Zakir Hussain Marg, New Delhi"
+    },
+    {
+      "place_name": "The Imperial New Delhi",
+      "map_reflink": "https://maps.google.com/maps/contrib/109736027308611637775",
+      "map_nametag": "The Imperial New Delhi",
+      "photo_reference": "AcJnMuEJcrHj8X7Sc5Z7lHAzuwI8GTimACImzgnH8FMCXhAJN8MwF2xaHOZ6NVWlD8LtxOk1nRgyriwcJ7vzcUOM6EM41DNQXhTilNjuSRDUqsd1_Uc7OfWvm8ijIowiS9zXX0hdQJhf_DC3Dq3RW62AgIekr3vKpriVgz1VOL7_GvR-eLed",
+      "latitude_google": 28.62501779999999,
+      "longitude_google": 77.21822759999999,
+      "google_place_id": "ChIJd-QC6zX9DDkRqWwtu31Dj84",
+      "google_place_rating": 4.7,
+      "google_user_rating": 7668,
+      "place_types": [
+        "lodging",
+        "spa",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Janpath Lane, Connaught Place, New Delhi"
+    },
+    {
+      "place_name": "The Lodhi",
+      "map_reflink": "https://maps.google.com/maps/contrib/110207035457616227864",
+      "map_nametag": "The Lodhi",
+      "photo_reference": "AcJnMuHaZp3eJ1-9TbXnisaiPi0fJUUppaZssTcl8IGrj4_j5JWGFKtBgKjlOMT8nWbTdKvI87WMvV4NKzEd_1-XDEpisWKdF3q3OTGNffg4_fNp4INlo1ZMecKncDoZk6Fmyqu9lgVyslpew7v7px4DX9IZLDhoI3My5YodrF8xwaFKIb4W",
+      "latitude_google": 28.591834,
+      "longitude_google": 77.2381782,
+      "google_place_id": "ChIJDaWrNO7iDDkRjGd9KR2dnw8",
+      "google_place_rating": 4.6,
+      "google_user_rating": 5665,
+      "place_types": [
+        "lodging",
+        "spa",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Lodhi Road, CGO Complex, Pragati Vihar, New Delhi"
+    },
+    {
+      "place_name": "Parikrama The Revolving Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/108422129952803929352",
+      "map_nametag": "Parikrama The Revolving Restaurant",
+      "photo_reference": "AcJnMuE2W7eJJv6hrh1rQgqNrknqriFvNIncAm35dbMm5hrsBLtW9OwBxiUda2BBmqgF37o7qyGt1BiveSt2lYkzg0Ai7Cmvtu6PV2IpB_IHdPin270Jh5YogCmDiBwpmo_oOgnbLJeB1UcJ2u58YXa0dDSY0eaT-ZH2QNgRY_9OAxF1wAKU",
+      "latitude_google": 28.628619,
+      "longitude_google": 77.22301399999999,
+      "google_place_id": "ChIJ7WmDCDT9DDkRPbwwwSOlWBw",
+      "google_place_rating": 4.1,
+      "google_user_rating": 10457,
+      "place_types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Antriksh Bhavan, 22, Kasturba Gandhi Marg, Barakhamba, New Delhi"
+    },
+    {
+      "place_name": "McDonald's",
+      "map_reflink": "https://maps.google.com/maps/contrib/106591357903787061525",
+      "map_nametag": "Vikas Sood",
+      "photo_reference": "AcJnMuHVdmCxmwUZe46ReurRQSedjOJVyX5xFDOLUdU4L2F4pNuZGuJ8VkJK8KS9vX3APn9tRwX-cSxt1lT-evfZM8ZnLFTfUNkP0fkuBuRrLfqIMHnm7w1Nso7GowLYChrne-NekPclXUBk8bQ8YhD9tswggtPgs1gKQI_NtU4_-R20CBlw",
+      "latitude_google": 28.6265736,
+      "longitude_google": 77.2196123,
+      "google_place_id": "ChIJvWix2jX9DDkRF6zXobyXRV4",
+      "google_place_rating": 4.3,
+      "google_user_rating": 7674,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Shop No. 42, Tolstoy Road, Janpath, New Delhi"
+    },
+    {
+      "place_name": "Hard Rock Cafe",
+      "map_reflink": "https://maps.google.com/maps/contrib/105357812867152114750",
+      "map_nametag": "Hard Rock Cafe",
+      "photo_reference": "AcJnMuFHg-i16RtUjKee3cvKw8g1jKo_kbVyarP4qBq83NOBvTbx9ZI9avPX__O76osnBQbzd1DqxaQXES4Y161P_eIY2UAfe84SjqmLEbrA1bmpvx47fUjn9KsfOWu08ZBcuN7E9cOyBZWadrxTgTn9e78VactKLmRvDZ5bBLM3s8rfeZMX",
+      "latitude_google": 28.6289243,
+      "longitude_google": 77.2196257,
+      "google_place_id": "ChIJbQ3c0fThDDkRC7IAMdZhv4w",
+      "google_place_rating": 4.2,
+      "google_user_rating": 2108,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Showroom No.1, Atma Ram Mansion, Mandi House, New Delhi"
+    },
+    {
+      "place_name": "KFC",
+      "map_reflink": "https://maps.google.com/maps/contrib/110810042731765135805",
+      "map_nametag": "Ayush Pratap",
+      "photo_reference": "AcJnMuE8pJLBL7wQAG28Dtp0ecf3GvqAETU2L7tm5tx1Lfhw4WWbSzEYtR86PixK-Oom_vfA5kytKl2oEZ0--jTrJBD4H893L1E-0D_hV-uCn1ijjdLgY6Y1nS5Qm7c8BAX7H8BWhsQW16vTQM5Byp0CUDOQhJVHxrSSPtgD7iWhLbEC7Wqf",
+      "latitude_google": 28.6297322,
+      "longitude_google": 77.2201032,
+      "google_place_id": "ChIJMwcsfDb9DDkR2OWj1aeTgcs",
+      "google_place_rating": 4.2,
+      "google_user_rating": 14410,
+      "place_types": [
+        "restaurant",
+        "meal_takeaway",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "No 6 & 7, Scindia House, Connaught Circle, Connaught Place, New Delhi"
+    },
+    {
+      "place_name": "United Coffee House",
+      "map_reflink": "https://maps.google.com/maps/contrib/101636459771776831551",
+      "map_nametag": "Aaditya Mishra",
+      "photo_reference": "AcJnMuGCSFERr_ZjBOSmJs7YM7GmbwDG_fxzxGX9hzbdT0SydkI7Wg2Vwgb0H3uW7GnegTyrzweLsa4Fc3e0y-D9FW_WLNbfcKsKQGxhfmYkhWh_mZ0WiNEXLPXUueKRQYP2FQMYWb_-Wg-0UbkgJJo1XsD0qtegf5FUwIpPCoyuKpkBIfC8",
+      "latitude_google": 28.63245749999999,
+      "longitude_google": 77.22138360000001,
+      "google_place_id": "ChIJhX7CHTf9DDkR86n_kiLOXkg",
+      "google_place_rating": 4.3,
+      "google_user_rating": 10146,
+      "place_types": [
+        "restaurant",
+        "cafe",
+        "bar",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "google_place_vicinity": "E-15, Rajiv Chowk, Connaught Place, New Delhi"
+    },
+    {
+      "place_name": "Cafe Lota",
+      "map_reflink": "https://maps.google.com/maps/contrib/112258566583954590905",
+      "map_nametag": "Cafe Lota",
+      "photo_reference": "AcJnMuExgEW64Eb4AA_nQUsjeAu9Csjfz8PI5UsVcDTtgoUaFqKSa_9Tm3SxpnEq5qiMqSbrfatiAfG-HqHn4CA6YTYZAcTG8FQ8SPEbQNu7hkkeQetZ4tZ9ff50zY2eEEHso9zOPXIr0h6up9hK6Nuw0rURNYBFybaLqXHJ7kY_8ZJcWTPp",
+      "latitude_google": 28.6134591,
+      "longitude_google": 77.2425038,
+      "google_place_id": "ChIJP_oFxSfjDDkRG_HG59ndSus",
+      "google_place_rating": 4.4,
+      "google_user_rating": 3076,
+      "place_types": [
+        "cafe",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "google_place_vicinity": "Gate No. 2, National Crafts Museum, \u092d\u0948\u0930\u094b\u0902 \u092e\u093e\u0930\u094d\u0917, \u092a\u094d\u0930\u0917\u0924\u093f \u092e\u0948\u0926\u093e\u0928, \u0928\u0908 \u0926\u093f\u0932\u094d\u0932\u0940"
+    },
+    {
+      "place_name": "Out of the Box",
+      "map_reflink": "https://maps.google.com/maps/contrib/100962264099818061787",
+      "map_nametag": "Out of the Box",
+      "photo_reference": "AcJnMuGTJg5mqOvmY8BgxVHl_scbThzEqI1Bp6myH8qWg4RV2vnaQc4C_ZvT6gnf87bsNOSV1_ii7MYB4rPjtxoqs57mT6-42761sNRJt3sna4WM5-IL-H763vpj-UnRrnIP7D4be95J50qR7uxhe7PE2WYGrqaawlyzI6czn454nW1GKG0j",
+      "latitude_google": 28.599719,
+      "longitude_google": 77.226145,
+      "google_place_id": "ChIJAbM0teniDDkR3tszjDvd0kw",
+      "google_place_rating": 4.3,
+      "google_user_rating": 1979,
+      "place_types": [
+        "restaurant",
+        "cafe",
+        "bar",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "google_place_vicinity": "5, Khan Market, Rabindra Nagar, Delhi"
+    },
+    {
+      "place_name": "Larry`s China Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/115466092419911375666",
+      "map_nametag": "Anuja Mathur",
+      "photo_reference": "AcJnMuFi_Qz96z2QtHZ6tuAUYpLlxgyn9KI-C5WCwOhtQpUoKkBA9NtYypw7Th-rUSbfUrk8bx3v-hcvjWkJWhv9fwb2_9WMU-1I8Q93R6Q-CZ18s3m8OYtOhqZM8y-NOt2XI6xVgRTkEeYqWSPOihR7VWQ1Nj_VlSWWIz-OEBRjC9uJ0Yiw",
+      "latitude_google": 28.60195259999999,
+      "longitude_google": 77.2287667,
+      "google_place_id": "ChIJiezrnjD9DDkRSMb6k8ecnpo",
+      "google_place_rating": 4.5,
+      "google_user_rating": 151,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Subramania Bharti Marg, Sujan Singh Park, New Delhi"
+    },
+    {
+      "place_name": "Soy",
+      "map_reflink": "",
+      "photo_reference": "",
+      "map_nametag": "",
+      "latitude_google": 28.599947,
+      "longitude_google": 77.226725,
+      "google_place_id": "ChIJw0XPN-jiDDkRPF1G3w2o7CM",
+      "google_place_rating": 3.8,
+      "google_user_rating": 9,
+      "place_types": [
+        "restaurant",
+        "bar",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Unit 58, Khan Market, Rabindra Nagar, New Delhi"
+    },
+    {
+      "place_name": "Giani's",
+      "map_reflink": "https://maps.google.com/maps/contrib/114324150596929005045",
+      "map_nametag": "Racha King",
+      "photo_reference": "AcJnMuG7uA8MHMaY31ed8X8nBdZpkzFJcboF9Xw4EXgopDYBIZyQwnPg2L7Q5NHoDgiaLFNt1cQV52lKqIdrHr4DHcvsXnQ7tvgqMpOeMoYChEgUoAsg4RGZMHYq3B7OOQPMYoUjkpL5_ia0BW1OnRVJKjOa_G2zc-HcvtPeaEaaD8dcFYjw",
+      "latitude_google": 28.6079277,
+      "longitude_google": 77.23006459999999,
+      "google_place_id": "ChIJ9RBAUNviDDkRExziVFTpmH4",
+      "google_place_rating": 3.9,
+      "google_user_rating": 38,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "google_place_vicinity": "J65J+52G, Pandara Flats, India Gate, New Delhi"
+    },
+    {
+      "place_name": "Bikaner House",
+      "map_reflink": "https://maps.google.com/maps/contrib/111564788308475017461",
+      "map_nametag": "Mohd Saad",
+      "photo_reference": "AcJnMuEABbtURezGn3aTEucFwJnKWEjcFXMp3YY_RklVw-jV52M-Gj-r7ZxFMBPtx2ICrmAE4az0T06r3nu7tWOs9Rm1rIOfxtaUvgerZ-CKyR6jD2VKtdUMqxIxiHH2NyNBoVFJW-BjKPcyNaxgUHrYCM3tc-zIkQUkL2crMojywUh-RyzH",
+      "latitude_google": 28.6090244,
+      "longitude_google": 77.229936,
+      "google_place_id": "ChIJad1vlHLjDDkRtt7_x7ZV4ss",
+      "google_place_rating": 4.4,
+      "google_user_rating": 1527,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Bikaner House between Pandara Rd, &, Shahjahan Road, India Gate, New Delhi"
+    },
+    {
+      "place_name": "Chor Bizarre",
+      "map_reflink": "https://maps.google.com/maps/contrib/114416181219744538463",
+      "map_nametag": "Chor Bizarre",
+      "photo_reference": "AcJnMuHjVbBLo7HJJfJxpw62Fzxv83bNgIhjUtcj1C2kS4Ew8rkIeCwTu60ep0xh36OT6lDpxOGLWycHSvE5ljyVffS44qL5f7HKH3Dwq3MNXXvU5fGtELf5OF7kGJ5KjlCvnJGoAsD41zt5fmmkrINbq-G3DzHlrUXzZ8yTeYQ9of2hP1kz",
+      "latitude_google": 28.6086625,
+      "longitude_google": 77.23017279999999,
+      "google_place_id": "ChIJaeHAONviDDkR8PFcqC-J6WE",
+      "google_place_rating": 4.5,
+      "google_user_rating": 2391,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "Chor Bizarre, Bikaner House, Pandara Road, India Gate, New Delhi"
+    },
+    {
+      "place_name": "Pindi Restaurant Delhi",
+      "map_reflink": "https://maps.google.com/maps/contrib/103159120514932589880",
+      "map_nametag": "Pindi Restaurant Delhi",
+      "photo_reference": "AcJnMuEPB22ml1yWQnzzE4oIxzbLpEwDNUPluoaXgVwyLq-MjutOd3jZcsYlCks7L7PYeciDJBVUIYOazLGDxqpssvfIQxk58jXZKkqGYnHx_IF4NPIw3U-g-UP7bCtifuNmrcQ53UrOmzUXIG31pRpQMpY-b-PI2xmB83eY_-bHLrlxqEbl",
+      "latitude_google": 28.60789909999999,
+      "longitude_google": 77.2296411,
+      "google_place_id": "ChIJ4cGusFP3ZxQRiylydpgVif8",
+      "google_place_rating": 4.2,
+      "google_user_rating": 2688,
+      "place_types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "16, Pandara Road, Market, New Delhi"
+    },
+    {
+      "place_name": "Varq",
+      "map_reflink": "https://maps.google.com/maps/contrib/114357845846954412014",
+      "map_nametag": "Varq",
+      "photo_reference": "AcJnMuGUQvFGvpsbVTaVOCWPQJRtYQqK_w_XKSCFZcaKPiCoB5IOT3-_gi2PC13Xdl8vTE3shRic-ko1hque_q1C5iYWLYr6cqYXGXr13FaS0Hoyw6YIo7F_rEs3Cc9alA4wrAUZW4TioIHT5KouAfxd_mZ0vaGZEmUNrt9qr36cJhlijWfK",
+      "latitude_google": 28.6050465,
+      "longitude_google": 77.2236236,
+      "google_place_id": "ChIJMR0q38PiDDkRw6OzHi_v-tI",
+      "google_place_rating": 4.7,
+      "google_user_rating": 1876,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "The Taj Mahal Hotel, No.1, Near, Maan Singh Road, Khan Market, India Gate, New Delhi"
+    },
+    {
+      "place_name": "Wasabi by Morimoto",
+      "map_reflink": "https://maps.google.com/maps/contrib/103175380463090764620",
+      "map_nametag": "Wasabi by Morimoto",
+      "photo_reference": "AcJnMuHMp3hOyPjYlexyuWXDcLbNrjkRqTBb57AVYYQ6Jeam9OEDVw5e8OvlHvYVOl4EJz-DgPcRmX8yOzm7ZZ8lkya_GcXArhYKWn3exSBYibOEJDXYD9jtwKm6GPDU-4-13275eyAFsIQhSxnRo9emSCtdOFd-QITLE6DMNz_xbQ8sMKyi",
+      "latitude_google": 28.6050333,
+      "longitude_google": 77.2235424,
+      "google_place_id": "ChIJL50eTbfiDDkRs2gRokDaPN8",
+      "google_place_rating": 4.8,
+      "google_user_rating": 1732,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "The Taj Mahal Hotel, near Khan Market, No.1, Maan Singh Road, India Gate, New Delhi"
+    },
+    {
+      "place_name": "The Chambers - Taj",
+      "map_reflink": "https://maps.google.com/maps/contrib/104292323629620784147",
+      "map_nametag": "Raviindar V Yadav",
+      "photo_reference": "AcJnMuE5V8XKVxK0KKwTUPgNAFSQ1HGCFXU9xm-JrWZaTrlL6ybdwtazYzMtRuT8F29VBY9FFmwIUwLj-21coa3uPhQO4i-m6_qyz2_RSA8OlvkXYJCg34Rr02SGkj0r4yLIhFhXwod79YjVaHNkoAnevgGyH0_RX73-aSxcxYAwUe_m7uSy",
+      "latitude_google": 28.6047628,
+      "longitude_google": 77.2238177,
+      "google_place_id": "ChIJLzr42sPiDDkR9sAF3A1YTWc",
+      "google_place_rating": 4.8,
+      "google_user_rating": 410,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "J63F+WG4, South Block, Man Singh Road Area, New Delhi"
+    },
+    {
+      "place_name": "Emperor Lounge",
+      "map_reflink": "https://maps.google.com/maps/contrib/111916037712763676829",
+      "map_nametag": "Emperor Lounge",
+      "photo_reference": "AcJnMuE5zEgLH115GSnI0BQNALlJII7iLPgeR-BBcOPk8UWTTNawOWnxzIZnqP8YClARGdvKpme8NB1CIaKQrsRHwLTntcwiMpczwzmE8U0iGgF9z34Mg3YlFoy-ptZo6annx6SoGPFV-dHAzdBBOVoWu5qgq3cZq0MbhteGWsTmoWy1kXdC",
+      "latitude_google": 28.604906,
+      "longitude_google": 77.22340299999999,
+      "google_place_id": "ChIJMdvP2MPiDDkRTIQVNwFCXyQ",
+      "google_place_rating": 4.5,
+      "google_user_rating": 110,
+      "place_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "google_place_vicinity": "The Taj Mahal Hotel,Mansingh Road,, India Gate, Near Khan Market, 1, Taj Mansingh Hotel Road, South Block, Man Singh Road Area, New Delhi"
+    }
+  ]
+}

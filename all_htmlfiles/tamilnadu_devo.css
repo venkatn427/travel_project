@@ -1,0 +1,104 @@
+/* Reset some default browser styles */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a background color for the entire page */
+body {
+    background-color: #f4f4f4;
+    font-family: Maiandra GD,Arial, sans-serif;
+}
+
+/* Style the article container */
+article {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Style the card sections with increased size */
+.card {
+    display: flex;
+    background-color: #fff;
+    margin-bottom: 20px; /* Add margin to create a gap between card blocks */
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+    padding: 20px; /* Increase padding for larger card size */
+    width: 100%; /* Make cards full-width */
+    max-width: 100%; /* Make cards full-width */
+}
+
+
+
+
+/* Odd-ordered cards have the visual on the right and text on the left */
+.card:nth-child(odd) .visual {
+    order: 2;
+}
+
+.card:nth-child(odd) .text-content {
+    order: 1;
+}
+
+/* Even-ordered cards have the visual on the left and text on the right */
+.card:nth-child(even) .visual {
+    order: 1;
+}
+
+.card:nth-child(even) .text-content {
+    order: 2;
+}
+
+/* Style the visual/image container */
+.visual {
+    flex: 1;
+}
+
+/* Style the image within the visual container */
+.visual img {
+    width: 100%;
+    height:auto;
+    display: block;
+}
+
+/* Style the text content container */
+.text-content {
+    flex: 1;
+    padding: 20px;
+}
+
+/* Style the heading */
+.text-content h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+/* Style the paragraph */
+.text-content p {
+    font-size: 1rem;
+    line-height: 1.4;
+    margin-bottom: 15px;
+}
+
+
+/* Style the "Join now" link/button */
+.text-content a {
+    display: inline-block;
+    color: #000;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background-color: transparent; /* Set background color to transparent */
+    border: 2px solid #000; /* Add a black border */
+}
+
+.text-content a:hover {
+    background-color: rgba(0, 0, 0, 0.1); /* Add a slight gray background on hover */
+}

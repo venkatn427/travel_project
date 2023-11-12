@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{state}}</title>
+    <link rel="stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/tamilnadu_devo.css') }}">
+</head>
+<body>
+<article>
+    
+    <div class="card-container">
+        {% for card in card_data %}
+        <div class="card {{ card.class }}">
+            <div class="visual">
+                <img src={{card.image}} alt="img" />
+            </div>
+            <div class="text-content">
+                <h3>{{card.name}}</h3>
+                <p> {{card.description}}</p>
+                <a href="#">Read More</a>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+</article>
+</body>
+</html>

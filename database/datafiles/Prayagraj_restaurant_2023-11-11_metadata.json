@@ -1,0 +1,354 @@
+{
+  "city": "Prayagraj",
+  "city_ascii": "Prayagraj",
+  "latitude": "25.4358",
+  "longitude": "81.8464",
+  "country": "India",
+  "country_iso2": "IN",
+  "country_iso3": "IND",
+  "admin_name": "Uttar Pradesh",
+  "capital": "",
+  "population": "5954391",
+  "places_city": [
+    {
+      "place_name": "Veggie Galaxy",
+      "map_reflink": "https://maps.google.com/maps/contrib/107164296883674360756",
+      "map_nametag": "Veggie Galaxy",
+      "photo_reference": "AcJnMuEiQPtcsdmdOQgejOwczwGdWhz_5HSywXfzfVvPAgxWy1n-dZtSebIT6_fXCYEDOyRRn0UY-fIQbX876N_J1C3It_FX2FoI40XUjgVn7VE9E2BolBssaYcEIsJrczdNa__BBpsuK0xFe5FYaD9KZWaWKcLFAQ4SAa62opX-nyck6ok7",
+      "latitude_google": 25.4493596,
+      "longitude_google": 81.83951619999999,
+      "google_place_id": "ChIJq7qhKoHLmjkRQ9dzO0Zz24g",
+      "google_place_rating": 3.8,
+      "google_user_rating": 955,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Ground Floor, 218E/71, Mahatma Gandhi Marg P Square Mall, Civil Lines, Prayagraj"
+    },
+    {
+      "place_name": "Millennium Inn, Prayagraj",
+      "map_reflink": "https://maps.google.com/maps/contrib/107512858343228992085",
+      "map_nametag": "Millennium Inn, Prayagraj",
+      "photo_reference": "AcJnMuGdjX24-cUQrokN9_hmLx2zgooiIWiEh2uuZSqGwhx-mkSBshumTbwQCjTzJ_B2UnWkFWjEa6Z2XS2yqZnpxMZeX2Ug7ro5yVcdZWuoXgMn49AIAmXTwSiF623YAMCBOYQ5iOQdDR_z9OVrKGjc3yWLY7L8dQZPYR1OX1ZeKU0D6933",
+      "latitude_google": 25.4508618,
+      "longitude_google": 81.8219402,
+      "google_place_id": "ChIJnSs2u-HKmjkRmlIF6PGCleU",
+      "google_place_rating": 4.2,
+      "google_user_rating": 2818,
+      "place_types": [
+        "cafe",
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Hasting Road, High Court, near Hanuman Mandir, 07F/06A, Nyaya Marg, Prayagraj"
+    },
+    {
+      "place_name": "Bridges The Restaurant & Hotel Vilas",
+      "map_reflink": "https://maps.google.com/maps/contrib/106627293615445096261",
+      "map_nametag": "Vrikesh Bhaskar",
+      "photo_reference": "AcJnMuHBRyLGDPjHBNZMeg-Ytf4AKI_LyNQEwoByBBavzA1GxUkLUrt9aybIdNsQEAo8PJEdkdQcyyK3p1hE2BuI338JoB0IngERaxvrDijQu26v5BcegeAhparD2vHgrUYojnTYGhtoYgSuHVePqZeWbVdG-6Sn3yUrpWL0kj9nxEWVJGDR",
+      "latitude_google": 25.4537617,
+      "longitude_google": 81.83466299999999,
+      "google_place_id": "ChIJWQkMXsPKmjkRfRxzNcESwHg",
+      "google_place_rating": 3.3,
+      "google_user_rating": 1111,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "22C, Sardar Patel Marg, Civil Lines, Prayagraj"
+    },
+    {
+      "place_name": "New Tepso Hotel",
+      "map_reflink": "https://maps.google.com/maps/contrib/106239620353539619748",
+      "map_nametag": "KULDIP BHANDARI",
+      "photo_reference": "AcJnMuFdX3IwEbVWlePQdQNl_Eos_O6c1qg3UCYK8W2eNW1FnbR2YWYOCO_eIkALa23luES3wLUPZ9qz80J98ndY_HtLhLGB8dBqHqcjehOKQUoTm0LUMtIFSWuZ1u7B-T0U4zG1AWyLNz4vYR5eHt4eawj4081Lw0SAUJv-hcwLKuRpfRPI",
+      "latitude_google": 25.45064199999999,
+      "longitude_google": 81.829414,
+      "google_place_id": "ChIJXRhRttvKmjkRtaT-VS4_9Xg",
+      "google_place_rating": 3.7,
+      "google_user_rating": 185,
+      "place_types": [
+        "restaurant",
+        "lodging",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "123, 27 A, Mahatma Gandhi Marg, Civil Lines, Prayagraj"
+    },
+    {
+      "place_name": "D Sapphire",
+      "map_reflink": "https://maps.google.com/maps/contrib/111797405020327352492",
+      "map_nametag": "Tulika Vats",
+      "photo_reference": "AcJnMuE6H3JGm4Cd6Bg_1r84-rcNWAffnEahBVjFdAQvBDsH-vVMMxfJsKINXcfikaZQwJ2CzxaoNkrfhMHR_FCc5JqgaD6BmOOeXhzyUfPFteUmKmpv-nTDslXU4LccrUkDkWPTv_5WJ5jIZ7C_zVKDiTmVFep1izRA8Z4cVjuWFOcDzPVO",
+      "latitude_google": 25.4519199,
+      "longitude_google": 81.834991,
+      "google_place_id": "ChIJixyjlMTKmjkRjvK6c-ejTNw",
+      "google_place_rating": 3.5,
+      "google_user_rating": 121,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "FR2M+QX9, Sardar Patel Rd, Civil Lines, Prayagraj"
+    },
+    {
+      "place_name": "Indian Coffee House",
+      "map_reflink": "https://maps.google.com/maps/contrib/111549700170830108099",
+      "map_nametag": "Pavan Kumar",
+      "photo_reference": "AcJnMuFmzdCe8UUANSC8wRQ1fYT_p35GKpIuUGMeV7zyPRFCyCUwYAgKuoXFoSSD_qGLun4wtYDIXJxKwsqhJKnhCwyp6CKhuvBMbSUsBqkr4edz33tjAT3wZ5E1JGwJZtnYTGk4MXPEn3beDtVa8lcEE3s0uaFkO1fo90hUyNm88LiYwD_A",
+      "latitude_google": 25.4502719,
+      "longitude_google": 81.82986369999999,
+      "google_place_id": "ChIJC8D5stvKmjkRhceJBL4UOfA",
+      "google_place_rating": 3.9,
+      "google_user_rating": 4883,
+      "place_types": [
+        "cafe",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "15, Mahatma Gandhi Marg, Civil Lines, Prayagraj"
+    },
+    {},
+    {
+      "place_name": "Jannat",
+      "map_reflink": "https://maps.google.com/maps/contrib/104436104763212386520",
+      "map_nametag": "Jannat",
+      "photo_reference": "AcJnMuH_qxNJ5X6jSyb_ggJ3QRI5hPqT07_HkYujHy5qZ8_mrdb9jKNBT5jP2TbWN9RDT-p7NmTH6eThO2jxSed8FGQXRtmyCEPdk_vn7Km5UkTKHp7S7H8ESUSi7nCT6aX6gPFP_KeZ8TIPa3jjYndlLnn0K7GFjYk0Hmqpo8D4K2iOMFZ3",
+      "latitude_google": 25.4496705,
+      "longitude_google": 81.8327652,
+      "google_place_id": "ChIJiQaE2trKmjkR7RDNmz0Dsq8",
+      "google_place_rating": 3.6,
+      "google_user_rating": 73,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Civil Lines, Prayagraj"
+    },
+    {
+      "place_name": "Nidhi Cafe & Restaurant",
+      "map_reflink": "https://maps.google.com/maps/contrib/100459262100349367186",
+      "map_nametag": "Nidhi Cafe & Restaurant",
+      "photo_reference": "AcJnMuFAW2r_qBtrJIyhPudjJa5XQ6SGVxDT_YY718I6-D3VMuE1QVynWzZgksnTMlKNzImlA11d0JnEaiT4NgOdGBcZ4d0zmOLHhsDTghVWpJlW-6mT_4SrtMvMVApbFKCNKkrx1ZMERjkJ7k4825U50RLuZUMXLytWhCi3Y58zIvSwpoZJ",
+      "latitude_google": 25.4418302,
+      "longitude_google": 81.8607114,
+      "google_place_id": "ChIJm9gd9qvKmjkRo5sGqTihMYU",
+      "google_place_rating": 3.6,
+      "google_user_rating": 1867,
+      "place_types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "97/6A, Old Lasker Line, Old, Bairhana, Prayagraj"
+    },
+    {
+      "place_name": "DEHLI Fruit Juice",
+      "map_reflink": "https://maps.google.com/maps/contrib/110737568622675446842",
+      "map_nametag": "HARSH KESARWANI",
+      "photo_reference": "AcJnMuGXTi0tz5vpFEv2wKtBqcMhMPYXAbFZzWHsUl9-m5FS1xIP2lab9hJaEBmfx2uEVCNK5jGJmgT8fMbQaZ64XQVplzJUQ7Lipx73IxYW1rvv4EkUcCSjr-cebnnRob2TxkboNvUFhVTH3JMbh1fsv07pCi1Btto3UBQ6UyWIaX-IYDHF",
+      "latitude_google": 25.4397637,
+      "longitude_google": 81.8346498,
+      "google_place_id": "ChIJZ4FzWc7KmjkRaOJ144pT0Uw",
+      "google_place_rating": 4.1,
+      "google_user_rating": 28,
+      "place_types": [
+        "cafe",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "87, Allahabad, Johnston Ganj, Mohatsim Ganj, Prayagraj"
+    },
+    {
+      "place_name": "Allahabad Cafe",
+      "map_reflink": "https://maps.google.com/maps/contrib/102100547616286787145",
+      "map_nametag": "Anchor Aamir Khan",
+      "photo_reference": "AcJnMuEzW0vHYzyq0aNPRcplQbonfY2OxjajFXuagpKEAN-R-GjQcUXqfLnokve5lnaoqGoyk-5D9xjHGFw2yUDUAI4mWhS-rJTpWHtIBiMRA0SHcfv-n3PJvE7aJkr_BnRqVney5S0wXdeBmibNF_iF_791ExpzAihIrYm7D2c8TFJheFJQ",
+      "latitude_google": 25.446916,
+      "longitude_google": 81.8399512,
+      "google_place_id": "ChIJszvhvMjKmjkRYqx-1ZTIGR8",
+      "google_place_rating": 3.6,
+      "google_user_rating": 153,
+      "place_types": [
+        "cafe",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "below Canara Bank, 12/4 Kamla Nehru Road, below Canara Bank, Bijli Ghar Chouraha, Civil Lines, Prayagraj"
+    },
+    {
+      "place_name": "Creambell Scoopers Ice Cream Parlour Meerapur",
+      "map_reflink": "https://maps.google.com/maps/contrib/102636400485255141611",
+      "map_nametag": "Creambell Scoopers Ice Cream Parlour Meerapur",
+      "photo_reference": "AcJnMuHttReU8N4nhO5LMhBdfbC_iOJebup85hiLUutDsqqvI5CIsrtHoOvVNzehMQwTv4-og6vQvHUaHQzp35N2WEO-lxxEDWPjLq2GgbSbx3Us8L_RHrtt7807HUtAW3_DtkXVIeUHn9iL3311R4ReRUTaWr_6IvPZ8DjxjLsAmlORwLdN",
+      "latitude_google": 25.4303807,
+      "longitude_google": 81.8297613,
+      "google_place_id": "ChIJDb3fOiw1hTkRF94p8hqt2uU",
+      "google_place_rating": 4.3,
+      "google_user_rating": 43,
+      "place_types": [
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "near Khatri Phatshala Chauraha, 188A / 255 C.L Plaza Meerapur, near Khatri Phatshala Chauraha, Prayagraj"
+    },
+    {
+      "place_name": "Chicago Pizza",
+      "map_reflink": "https://maps.google.com/maps/contrib/111260759640307626573",
+      "map_nametag": "Ausaf Ahmad",
+      "photo_reference": "AcJnMuE9SPu7_heZDqRkmfJpXXQbExKYrYYGPwZMKlT9ptPNbDiWoygNpNZBXgR9Uo0nddMzfmhndeVHcny5dFuwSgDWn2dtaUo4yz2JpQUoxCHqjC14LOU8sFmq4j6XERp1brhCs8_dBnCUWlloNi-n1tecQHFoqDPFm2_CNPBW_lI8gP_C",
+      "latitude_google": 25.4521658,
+      "longitude_google": 81.84137249999999,
+      "google_place_id": "ChIJ6SKW4xvLmjkRiQYB46WJHfQ",
+      "google_place_rating": 3.9,
+      "google_user_rating": 621,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Shop No. B-15, Upper ground floor, Saidham Landmark, Infront of Yash Hospital, 7/5, Lal Bahadur Shastri Marg, Civil Lines, Prayagraj"
+    },
+    {
+      "place_name": "Eden - Cafe by Connoisseur",
+      "map_reflink": "https://maps.google.com/maps/contrib/109318441903681910406",
+      "map_nametag": "Abhishek Pandey",
+      "photo_reference": "AcJnMuH1GiohTa4861zSM5eHmNAfolMxMHio7Jer_-K4XsyqcnG-Lr5g1Z7aR08LWgV-n4nzq9LtONGLXApsQJwEjROe2Gk50qjL_Kan41947_lauzpCwTRSQ7ypcSbc9VqXTPNZpovQgwVd7APNelbtEFcGvR1H2uDjI8ekP4WjJql9Jcz8",
+      "latitude_google": 25.449849,
+      "longitude_google": 81.833619,
+      "google_place_id": "ChIJ5adqLMXKmjkRzFuX_hF2H58",
+      "google_place_rating": 3.9,
+      "google_user_rating": 1585,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "49A, Mahatma Gandhi Marg, Civil Lines, Prayagraj"
+    },
+    {
+      "place_name": "Eat On",
+      "map_reflink": "https://maps.google.com/maps/contrib/112686331378459969076",
+      "map_nametag": "Anurag Singh",
+      "photo_reference": "AcJnMuF1vkIU0U9EOxfqluWHyypj8fYTpl_7esLfPNZVGINejeoT6sTJVI69Yj7OXZ2Gqejf90l2WLuV0p5NkBuWlzaiAuA9dO0mnC1WTae7kCxdj3XtdzC0_I7IbsVwnvEUvlcNpVQbAyqBTfYVD9FbTAU1th_2NrnZVjcB6twfnC50U52z",
+      "latitude_google": 25.45041789999999,
+      "longitude_google": 81.8316514,
+      "google_place_id": "ChIJW30yHNvKmjkRRGu5uN1n-k8",
+      "google_place_rating": 4.1,
+      "google_user_rating": 9127,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "26A, opposite Boy\u2019s High School, 5A, P. D. Tandon Road, Dhoomanganj, Prayagraj"
+    },
+    {},
+    {
+      "place_name": "Shree Muktanand Moti Mahal",
+      "map_reflink": "https://maps.google.com/maps/contrib/117091729335882689657",
+      "map_nametag": "BHUKHA BHEDIYA",
+      "photo_reference": "AcJnMuEsh7tMiXOqbMQLT30tbZoJu7qaRPpzNGS6ti6P9NYl8A-TB7p3QVzdFA_BdtZdfWYM5A89myO-hFy_dUcRx2Lunii4kN70B3nTRvQjJjVrTV7Kulu4sIrpBWDByQxRvEoQHAP5fYv0WkJlR4Dm1lf-urzm904u_qYhBBOG-j9dlTsm",
+      "latitude_google": 25.4520404,
+      "longitude_google": 81.8326294,
+      "google_place_id": "ChIJSYVIRtvKmjkRGYjGDUBYgFw",
+      "google_place_rating": 4,
+      "google_user_rating": 196,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "77A, Shree Muktanand, 29, Lal Bahadur Shastri Marg, Civil Lines, Prayagraj"
+    },
+    {
+      "place_name": "Pind Balluchi",
+      "map_reflink": "https://maps.google.com/maps/contrib/107184020451004700110",
+      "map_nametag": "Pind Balluchi",
+      "photo_reference": "AcJnMuFPBgLalgjN7Py2VduNd1XRZXYtfZk1lf-5sukOnXchfvL9euHu-LK4RdqxbEfAwFRv2Ij1vqulh2Gjir_TuT-0mfLahiUP0GnjvDHx3fKbc7SlxaLWgeoUbb5XvQg-VpZsT7MFLTHPnl7hdilZ5fzda8n3KjGEoGl6mAqVBfbvxPd8",
+      "latitude_google": 25.4525519,
+      "longitude_google": 81.8329275,
+      "google_place_id": "ChIJm405uMTKmjkRzlg5k1c8fCo",
+      "google_place_rating": 4.1,
+      "google_user_rating": 4168,
+      "place_types": [
+        "restaurant",
+        "meal_delivery",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "48, 8, Stretchy Road, Civil Lines, Prayagraj"
+    },
+    {
+      "place_name": "Hotel Kohinoor",
+      "map_reflink": "https://maps.google.com/maps/contrib/105893848541607773112",
+      "map_nametag": "Hotel Kohinoor",
+      "photo_reference": "AcJnMuH5lQ_wciVSThzm_m8nhGRLvhFPQc94iyVzW2DivGufuY7vLzAU6-ltchJ1kRU3IgjuMLyFEcV122GGrkhHezjeqFzAVc90bJ0DdbEVzYyzxyhVs7cxXw4oKH6hUc3VK6ceZa5jVEM3BSyHaDDhR8gWanImVt4Ylcy38oEkb5po2AW1",
+      "latitude_google": 25.4417396,
+      "longitude_google": 81.8243969,
+      "google_place_id": "ChIJE0z8RNbKmjkR5OjJsbc3Wr8",
+      "google_place_rating": 4.1,
+      "google_user_rating": 460,
+      "place_types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "near Railway Station, 10, Noorullah Road, Miurabad, Prayagraj"
+    },
+    {
+      "place_name": "Dosa Plaza",
+      "map_reflink": "https://maps.google.com/maps/contrib/106515396669076684210",
+      "map_nametag": "Dosa Plaza",
+      "photo_reference": "AcJnMuHzUynOqHhbYkqPFLTUfy_z1w4ZMRCG7mWMFJSD4CqnoZF6F56DSyeoj6P1S_2xYkMq3OYXZ8lCNf_o9GVc0nhpm8LBPNJnazZguVCBx29LWlDYmdC6TlC_6l4UAjyl0-4qyU0LqgjQ7NavUpCTX2xDm_PvmCFy_5Y2IrgKdshDF7kH",
+      "latitude_google": 25.45302,
+      "longitude_google": 81.832669,
+      "google_place_id": "ChIJ2y4UgdzKmjkROOnNscljMe4",
+      "google_place_rating": 4,
+      "google_user_rating": 2948,
+      "place_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_place_vicinity": "Pushp Apartment, F-1 Vinayak, Lal Bahadur Shastri Marg, Civil Lines, Prayagraj"
+    }
+  ]
+}
