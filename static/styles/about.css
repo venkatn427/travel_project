@@ -66,3 +66,17 @@ body {
       display: block;
     }
   }
+
+.image-container {
+    position: relative;
+    text-align: center;
+    color: white; /* Text color */
+}
+
+.overlay-text {
+    position: absolute;
+    top: 50%; /* Adjust as needed */
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 24px; /* Adjust font size as needed */
+}

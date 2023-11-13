@@ -878,3 +878,16 @@ body.loggedin {
 .star {
   color: gold; /* Adjust the color as needed */
 }
+
+.image-container {
+  position: relative;
+  display: inline-block;
+}
+
+.overlay-text {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  color: white; /* Text color */
+  padding: 10px; /* Adjust padding as needed */
+}

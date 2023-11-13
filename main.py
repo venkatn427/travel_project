@@ -22,7 +22,7 @@ def home():
 
 @app.route('/travelblog/about')
 def about():
-    return render_template('about.html')
+    return render_template('about.html', image_ruchi = "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/dev-images/ruchi.jpg")
 
 @app.route('/travelblog/home')
 def site_home():
