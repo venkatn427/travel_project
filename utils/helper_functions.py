@@ -67,7 +67,7 @@ import googlemaps
 from pprint import pprint
 
 # Replace 'YOUR_API_KEY' with your actual Google Places API key
-gmaps = googlemaps.Client(key='AIzaSyD5eTxgUd8qCGHFTHzSAMs8eSC3CvbSGbA')
+gmaps = googlemaps.Client(key='')
 
 # Set the location to India
 location = "India"

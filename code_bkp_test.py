@@ -19,12 +19,12 @@ def download_google_map_(api_key, location, zoom=14, width=400, height=400, mapt
         'key': api_key,
     }
     
-    search_api = "https://maps.googleapis.com/maps/api/place/autocomplete/json?input=Maldives&types=geocode&key=AIzaSyD5eTxgUd8qCGHFTHzSAMs8eSC3CvbSGbA"
-    place_api = "https://maps.googleapis.com/maps/api/place/details/json?fields=name%2Crating%2Cformatted_phone_number&place_id=ChIJvXv7qr-ZtSQRiWKVgeEJRUE&key=AIzaSyD5eTxgUd8qCGHFTHzSAMs8eSC3CvbSGbA"
+    search_api = "https://maps.googleapis.com/maps/api/place/autocomplete/json?input=Maldives&types=geocode&key="
+    place_api = "https://maps.googleapis.com/maps/api/place/details/json?fields=name%2Crating%2Cformatted_phone_number&place_id=ChIJvXv7qr-ZtSQRiWKVgeEJRUE&key="
     
-    t_api = "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=ATJ83zhSSAtkh5LTozXMhBghqubeOxnZWUV2m7Hv2tQaIzKQJgvZk9yCaEjBW0r0Zx1oJ9RF1G7oeM34sQQMOv8s2zA0sgGBiyBgvdyMxeVByRgHUXmv-rkJ2wyvNv17jyTSySm_-_6R2B0v4eKX257HOxvXlx_TSwp2NrICKrZM2d5d2P4q&key=AIzaSyD5eTxgUd8qCGHFTHzSAMs8eSC3CvbSGbA"
+    t_api = "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=ATJ83zhSSAtkh5LTozXMhBghqubeOxnZWUV2m7Hv2tQaIzKQJgvZk9yCaEjBW0r0Zx1oJ9RF1G7oeM34sQQMOv8s2zA0sgGBiyBgvdyMxeVByRgHUXmv-rkJ2wyvNv17jyTSySm_-_6R2B0v4eKX257HOxvXlx_TSwp2NrICKrZM2d5d2P4q&key="
     
-    test_api = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?keyword=cruise&location=12.9716%2C77.5946&radius=1500&type=restaurant&key=AIzaSyD5eTxgUd8qCGHFTHzSAMs8eSC3CvbSGbA"
+    test_api = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?keyword=cruise&location=12.9716%2C77.5946&radius=1500&type=restaurant&key="
     try:
         # Make the API request
         response = requests.get(test_api)
@@ -46,7 +46,7 @@ def download_google_map_(api_key, location, zoom=14, width=400, height=400, mapt
         print(f"Error downloading image: {e}")
 
 # Replace 'your_api_key' with your actual Google Maps API key
-google_maps_api_key = 'AIzaSyD5eTxgUd8qCGHFTHzSAMs8eSC3CvbSGbA'
+google_maps_api_key = ''
 location_name = 'Eiffel Tower'  # Replace with the desired location
 
 # # Example usage
@@ -149,7 +149,7 @@ def get_location_data(csv_file_path):
                     city = record[0]
                     lat = str(record[2])
                     lng = str(record[3])
-                    test_api = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location="+lat+"%2C"+lng+"&type="+type+"&radius=15000&key=AIzaSyD5eTxgUd8qCGHFTHzSAMs8eSC3CvbSGbA"
+                    test_api = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location="+lat+"%2C"+lng+"&type="+type+"&radius=15000&key="
                     response = requests.get(test_api)
                     image_metadata = response.json()['results']
                     out_data = get_all_details(image_metadata)
