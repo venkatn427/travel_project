@@ -1,0 +1,52 @@
+{
+  "city": "N\u0101gpur",
+  "city_ascii": "Nagpur",
+  "latitude": "21.1497",
+  "longitude": "79.0806",
+  "country": "India",
+  "country_iso2": "IN",
+  "country_iso3": "IND",
+  "admin_name": "Mah\u0101r\u0101shtra",
+  "capital": "admin",
+  "population": "2405665",
+  "places_city": null,
+  "place_name": "Comesum",
+  "map_reflink": "https://maps.google.com/maps/contrib/106978083939421704395",
+  "map_nametag": "Saurabh Tyagi",
+  "photo_reference": "AcJnMuExtlGEwQZqkTQb8QQqHZiTmrsGTPBx7mxd1sblO_zXFcMjif-qdoPE0o4fy7PKRHTtrbG18k1LHqjU5Cv0ZtIB_dhumYLW2flDfO_ryKBiGnexwKNE1IglNsKmy320B-oFvaFvufign-1g5i37z85M7QxtTzSh2hnEzg-wfvlGhy9Q",
+  "latitude_google": "21.1518994",
+  "longitude_google": "79.0883185",
+  "google_place_id": "ChIJrVHiF8LA1DsRsjyK9aH9FH4",
+  "google_place_rating": "2.8",
+  "google_user_rating": "474",
+  "place_types": "['restaurant' 'point_of_interest' 'food' 'establishment']",
+  "google_place_vicinity": "Sitabuldi Nagpur",
+  "location_new": {
+    "lat": 21.1518994,
+    "lng": 79.0883185
+  },
+  "photo_urls": [
+    "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AcJnMuHnKcZyyxsN6RKq6muRGESAoxMMvDyZxPLBtvCproSLmeGvDg6dP4JmgT9LNr1BzPaIGMAmNQK5D_L1udT0oXLHzoEDrYcKctY8Dnp-Z5pOw3BtcB6xGjSasPvH6XAl0gkjFHjDO7irjdl_2biDYi_fdV8x_wrIlTaE88skZ8H2kKN7&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU",
+    "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AcJnMuHbclfylWe4U4wjTBnWmNru92pfq_IuXro5zgtCH6VV-G0lMKJdZe6Y8Fh6Wiv4fVtNTxDOZYg1c0DfEG-gQHM6kF0-S9-PxWgCrS46GWXGD-T-W3IRIXvbWah6qJdeqIYt-4Ho-aXbjWKrNYqWKgU1iimMF2Vf-lo5FfZRSm68YdWL&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU",
+    "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AcJnMuEW8o1Un9R3KNWR9IK3wL4q1UVFgyJDJPLxYlii-_iAO8oeiXg9UCMUgXNobFtgGA5BFqqE3ws3WwC-yo7uXaMAHQtOFlQ0JwadYm39HPI8gE-WGygzjnWPC1G3V0M0YJSfs2YdCIbEusaDhMWRNn5rc7Od-WDprMKJg4TBUdBN0j0U&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU",
+    "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AcJnMuGXVnHAzE-Qd1hI6Rf1RZicGLjkqk39KfPy7eYnpcyApB4O2-3KB3eCqXHl_8Tp3AJTc941M5GXdl_-3OLGUSG58-kPSVJRZpiR9ykuY4DvYAioGPD_xbHanjzHLHsJVnzKGlhYCEUuSLS4K-F9YUjO9EhPjc3GQxSMhTZuzlcUAGnz&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU",
+    "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AcJnMuFfoTS3vPA8anhzQXkb0lQXDQHbvJ5LCSTuYCmcMlBJzo5E-XfvW6LOzPMORW4m8jUJA7XvO6mVpIompvhFCsa9wyYKa-JgHayxLoigJ9Zh2SDnik6EgaklSNw-icgJM-DZacl_NT5Gf73Tyk64YXAOgP_RuoZgH73gg8Lb9XYhOuTb&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU",
+    "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AcJnMuGyPBgCgOuCcGTYnyjTp42C86rATtA3gRsjJn4p3kLwVgSoSmjbvKB9NpWjzCY2BFNFeYI7AmsF9WoCwbV7hoeZoTBrL-8L_zpPlit4x1opBBhJBRbsMT01L7qjbRI30knwm_fsvEETow4PrPVTiDznQmCIOlAK5YQ3Ew5VveJCFrdO&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU",
+    "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AcJnMuGOwEBsBc1sND6CTQvhxapEN5l8VbsUoAD6sOtBE25TYcCvkA_2-nWYCvYehpEFgsMFdNcfol3YSgAKLsC9tDU6AXletUlX2lpTRnU7KjvJogrh00bF9ZWwgTLlx7IDDLpt2avC9wvRizCbVo16ZjLlsjDnvViXdeoWXd4jcPh4zTa3&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU",
+    "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AcJnMuEbvsyjitZRkc9KrubWh629P7YF6pSEMxjHkldFZJNa3pbHBOuXU1nSZKY7FnSKkRYve3DabYNWyX-CkKot9I38dEasi5IEM-MP3BdivgbagtKhAEVKUOx7yaAXuiDCTXcKyRW7jbQypmnO08zlE-Iif3OWT-7brRjHXCrJbrHc-YBC&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU",
+    "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AcJnMuGsdS_HC7uBf_hslYYLrsWDp7usvOt-mSSK22FZdF4Q7GmHiGo6qmMa7_jDzFdVlVPtdyUyEsJ9CfIIR86eG-CgPNeOuaEex9u37Agvm8WjcKAY0FIlFrlSg0mXTPIV7tvNZo9Pni0FhK3cZpNEziGiH3lT5uSsfLpFih-zmGqJE1JR&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU",
+    "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AcJnMuGXYmPxcNFpb7L4N8F_edJaUM8omO8wlkuysdgmvKpz_nZt4CO-fOdcPHU8057i8ZUaZ4tCtJd9sAtgqWnSS5WF7HOpjn1tOo9OfbnYaAVWAnLtoRiAC8rGVG8lh_xX8OfcHstdrFn-nxNeIK-qiHzPJbR7jO6IX0CtqvWbKB3ns32u&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU"
+  ],
+  "local_photos": [
+    "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/database/India/N\u0101gpur/Comesum/photos_0.jpg",
+    "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/database/India/N\u0101gpur/Comesum/photos_1.jpg",
+    "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/database/India/N\u0101gpur/Comesum/photos_2.jpg",
+    "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/database/India/N\u0101gpur/Comesum/photos_3.jpg",
+    "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/database/India/N\u0101gpur/Comesum/photos_4.jpg",
+    "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/database/India/N\u0101gpur/Comesum/photos_5.jpg",
+    "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/database/India/N\u0101gpur/Comesum/photos_6.jpg",
+    "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/database/India/N\u0101gpur/Comesum/photos_7.jpg"
+  ],
+  "wiki_city_description": "",
+  "wiki_place_description": "Wikipedia page for 'Comesum' not found."
+}

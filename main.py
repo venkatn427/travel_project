@@ -52,6 +52,7 @@ def get_mapdata(selected_city):
         location['distancefromcitycenter'] = each[3]
         location['rating'] = str(each[5])
         location['class'] = each[0] + str(i)
+        print(each[0], each[1], each[4], each[5])
         card_data.append(location)
     return card_data  
     
@@ -86,7 +87,6 @@ def locationdetails_new():
     #     locationcat = 'beaches' 
     # session['location'] = locationcat
     card_data = get_mapdata(selected_city)
-    print(card_data)
     return render_template('location_select.html', username1= username, 
                            city = selected_city,
                            card_data=card_data)
@@ -170,8 +170,6 @@ def register():
 
 @app.route('/travelblog/forgotpassword')
 def reset_password():
-    locations = get_all_cities()
-    print(locations)
     return render_template('forgotpassword.html')
     
     

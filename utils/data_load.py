@@ -62,7 +62,6 @@ csv_file_path = (
 
 
 def get_location_data(csv_file_path):
-<<<<<<< HEAD
     database_nm = os.path.join(
         "database", "travel_data_new.db"
     )  # check this file in sql lite studio to query data
@@ -130,135 +129,106 @@ def get_location_data(csv_file_path):
 
 def load_json_database():
     database_nm = os.path.join(
-        "/Users/venkat/Desktop/TravelProjecr/travel_project/database", "travel_data_new.db"
+        "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/database", "travel_data_new.db"
     )  # check this file in sql lite studio to query data
     connection = sqlite3.connect(database_nm)
     cur = connection.cursor()
-    folder_path = "/Users/venkat/Desktop/TravelProjecr/travel_project/database/datafiles"
+    folder_path = "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/database/datafiles"
     files_in_folder = files_in_folder = os.listdir(folder_path)
     json_files = [file for file in files_in_folder if file.endswith(".json")]
+    keys_d = [
+        "city",
+        "city_ascii",
+        "latitude",
+        "longitude",
+        "country",
+        "country_iso2",
+        "country_iso3",
+        "admin_name",
+        "capital",
+        "population",
+        "places_city",
+    ]
+    place_keys = [
+        "place_name",
+        "map_reflink",
+        "map_nametag",
+        "photo_reference",
+        "latitude_google",
+        "longitude_google",
+        "google_place_id",
+        "google_place_rating",
+        "google_user_rating",
+        "place_types",
+        "google_place_vicinity",
+    ]
+    
+    column_names = keys_d + place_keys
 
+    # Generate the CREATE TABLE SQL statement
+    create_table_sql = f'''
+    CREATE TABLE IF NOT EXISTS traveldata_explode (
+        {", ".join(f"{col} TEXT" for col in column_names)}
+    )
+    '''
+    
+    cur.execute(create_table_sql)
+
+    connection.commit()
+        
     for file_path in json_files:
         json_path = os.path.join(folder_path, file_path)
         with open(json_path, "r", encoding="utf-8") as file:
             json_data = json.load(file)
-
-        keys_d = [
-            "city",
-            "city_ascii",
-            "latitude",
-            "longitude",
-            "country",
-            "country_iso2",
-            "country_iso3",
-            "admin_name",
-            "capital",
-            "population",
-            "places_city",
-        ]
-        place_keys = [
-            "place_name",
-            "map_reflink",
-            "map_nametag",
-            "photo_reference",
-            "latitude_google",
-            "longitude_google",
-            "google_place_id",
-            "google_place_rating",
-            "google_user_rating",
-            "place_types",
-            "google_place_vicinity",
-        ]
-        
-        column_names = keys_d + place_keys
-
-        # Generate the CREATE TABLE SQL statement
-        create_table_sql = f'''
-        CREATE TABLE IF NOT EXISTS traveldata_explode (
-            {", ".join(f"{col} TEXT" for col in column_names)}
-        )
-        '''
-        
-        cur.execute(create_table_sql)
-
-        connection.commit()
         out_val = {}
+        print("Reading file", json_path)
         for col in keys_d:
             if col != "places_city":
                 out_val[col] = json_data[col]
             else:
                 for place in json_data[col]:
                     if place:
-                        for placekey in place_keys:
-                            out_val[placekey] = str(place[placekey]).replace("," , "")
-                        col_names = out_val.keys()
-                        # data_to_insert = ({", ".join(f"{col}" for col in out_val.values())})
-                        # sql_statement = f'''INSERT INTO travel_datajson ({", ".join(f"{col}" for col in col_names)}) VALUES ({", ".join("?" for i in range(len(col_names)))})")'''
-                        # print(sql_statement)
-                        # print(data_to_insert)
-                        # cur.execute(sql_statement, data_to_insert)
-                    
-                    # Define the data you want to insert
-                        data_to_insert = (
-                            out_val["city"], out_val["city_ascii"], out_val["latitude"], out_val["longitude"],
-                            out_val["country"], out_val["country_iso2"], out_val["country_iso3"],
-                            out_val["admin_name"], out_val["capital"], out_val["population"],
-                            out_val["place_name"], out_val["map_reflink"], out_val["map_nametag"],
-                            out_val["photo_reference"], out_val["latitude_google"], out_val["longitude_google"],
-                            out_val["google_place_id"], out_val["google_place_rating"],
-                            out_val["google_user_rating"], str(out_val["place_types"]),
-                            out_val["google_place_vicinity"]
-                        )
+                        try:
+                            for placekey in place_keys:
+                                out_val[placekey] = str(place[placekey]).replace("," , "")
+                            col_names = out_val.keys()
+                            # data_to_insert = ({", ".join(f"{col}" for col in out_val.values())})
+                            # sql_statement = f'''INSERT INTO travel_datajson ({", ".join(f"{col}" for col in col_names)}) VALUES ({", ".join("?" for i in range(len(col_names)))})")'''
+                            # print(sql_statement)
+                            # print(data_to_insert)
+                            # cur.execute(sql_statement, data_to_insert)
+                            # Define the data you want to insert
+                            data_to_insert = (
+                                out_val["city"], out_val["city_ascii"], out_val["latitude"], out_val["longitude"],
+                                out_val["country"], out_val["country_iso2"], out_val["country_iso3"],
+                                out_val["admin_name"], out_val["capital"], out_val["population"],
+                                out_val["place_name"], out_val["map_reflink"], out_val["map_nametag"],
+                                out_val["photo_reference"], out_val["latitude_google"], out_val["longitude_google"],
+                                out_val["google_place_id"], out_val["google_place_rating"],
+                                out_val["google_user_rating"], str(out_val["place_types"]),
+                                out_val["google_place_vicinity"]
+                            )
 
-                        # Execute the SQL INSERT statement
-                        cur.execute('''
-                            INSERT INTO traveldata_explode (
-                                city, city_ascii, latitude, longitude, country, country_iso2, country_iso3,
-                                admin_name, capital, population, place_name, map_reflink, map_nametag,
-                                photo_reference, latitude_google, longitude_google, google_place_id,
-                                google_place_rating, google_user_rating, place_types, google_place_vicinity
-                            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-                        ''', data_to_insert)
-                    connection.commit()
+                            # Execute the SQL INSERT statement
+                            cur.execute('''
+                                INSERT INTO traveldata_explode (
+                                    city, city_ascii, latitude, longitude, country, country_iso2, country_iso3,
+                                    admin_name, capital, population, place_name, map_reflink, map_nametag,
+                                    photo_reference, latitude_google, longitude_google, google_place_id,
+                                    google_place_rating, google_user_rating, place_types, google_place_vicinity
+                                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                            ''', data_to_insert)
+                            connection.commit()
                     
+                        except Exception as e:
+                            print("Error with file", json_path)
+                    else:
+                        continue
+                        
                     
-load_json_database()
-=======
-    print("loading world places data")
-    with open(csv_file_path, 'r') as csv_file:
-        csv_reader = csv.reader(csv_file)
-        csv_file.seek(0)
-        next(csv_reader)  
-        for val in csv_reader:  
-            record = val
-            print(f"Loading {record[0]} data")
-            if record[6] == "IND":
-                record_json = {}
-                record_json['city'] = record[0]
-                record_json['city_ascii'] = record[1]
-                record_json['latitude'] = record[2]
-                record_json['longitude'] = record[3]
-                record_json['country'] = record[4]
-                record_json['country_iso2'] = record[5]
-                record_json['country_iso3'] = record[6]
-                record_json['admin_name'] = record[7]
-                record_json['capital'] = record[8]
-                record_json['population'] = record[9]
-                all_types = ["restaurant","point_of_interest","food","lodging","hindu_temple","place_of_worship","museum","tourist_attraction"]
-                for type in all_types:
-                    city = record[0]
-                    lat = str(record[2])
-                    lng = str(record[3])
-                    test_api = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location="+lat+"%2C"+lng+"&type="+type+"&radius=200000&key="
-                    response = requests.get(test_api)
-                    image_metadata = response.json()['results']
-                    out_data = get_all_details(image_metadata)
-                    record_json['places_city'] = out_data
-                    out_file_name = os.path.join("database/datafiles",f"{city}_{type}_{str(date.today())}_metadata.json")
-                    with open(out_file_name, 'w') as json_file:
-                        json.dump(record_json, json_file, indent=2)
-            else:
-                continue
+                        
+                    
+# load_json_database()
 
-get_location_data(csv_file_path)
->>>>>>> refs/remotes/origin/main
+
+req = requests.get("https://maps.googleapis.com/maps/api/geocode/json?address=Hotel RAYA INN&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU")

@@ -9,7 +9,7 @@ from urllib.parse import quote_plus
 
 # Specify the folder directory containing HTML files
 folder_path = "all_htmlfiles"
-# create_table()
+create_table()
 files_in_folder = os.listdir(folder_path)
 
 state_data = []
@@ -70,8 +70,8 @@ def load_world_data_csv(csv_file_path):
             population = record[9]
             insert_load_world_data(city,city_ascii,latitude,longitude,country,country_iso2,country_iso3,admin_name,capital,population)
 
-# load_world_data_csv(csv_file_path)
-# create_indiancities()
+load_world_data_csv(csv_file_path)
+create_indiancities()
 
 csv_file_path = "/Users/venkat/Desktop/TravelProjecr/travel_project/database/Places.csv"
 

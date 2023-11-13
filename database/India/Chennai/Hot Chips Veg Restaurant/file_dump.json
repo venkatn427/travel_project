@@ -1,0 +1,51 @@
+{
+  "city": "Chennai",
+  "city_ascii": "Chennai",
+  "latitude": "13.0825",
+  "longitude": "80.2750",
+  "country": "India",
+  "country_iso2": "IN",
+  "country_iso3": "IND",
+  "admin_name": "Tamil N\u0101du",
+  "capital": "admin",
+  "population": "12395000",
+  "places_city": null,
+  "place_name": "Hot Chips Veg Restaurant",
+  "map_reflink": "https://maps.google.com/maps/contrib/113861927216725884948",
+  "map_nametag": "Shashwat Saxena",
+  "photo_reference": "AcJnMuFLg6KW2tllr4VwZSWgA70UwcPLEhawcLWmy3wQOKz7_b09F2ipI2xp0KPTLucevwqL4zw45hvRzj7hB_F_FbAflBFmboikw9QA2czf5wQIPcLzLgWmxCRRWBfW-LAZjjuOuzBLRgTenn-EUWKL-k_oz_d7qj5U0rVzb-N0ndJ4ao1E",
+  "latitude_google": "13.0887379",
+  "longitude_google": "80.2868447",
+  "google_place_id": "ChIJcZxBO2pmUjoRbaWSxl-lkv0",
+  "google_place_rating": "3.7",
+  "google_user_rating": "2393",
+  "place_types": "['cafe' 'restaurant' 'store' 'point_of_interest' 'food' 'establishment']",
+  "google_place_vicinity": "225 NSC Bose Road Parry's Corner George Town Chennai",
+  "location_new": {
+    "lat": 13.0887379,
+    "lng": 80.2868447
+  },
+  "photo_urls": [
+    "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AcJnMuER1NEExvh2gqb1-70D_ZfP9x_O5B2AUwAEHBlOFi4QEcusTWAYjabr1mUA4fk_gWTOePndHXXIfqmYp-c-tViXAYvvSRsCMuqMI5BtkEH9RrYjMW8V1Agx6if8HulDufHFdKZFNHlNsXEb4aU15LofLAw_SqolUmQeT4kqsl79XXft&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU",
+    "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AcJnMuG1O_4zoPxM9y_UTzaLcQygfvulk2tKtO0-tB2E64WXUq6KRIAN-8TbIOISOVi9LgK3GrH0vZ_n1DqWp9TxvKcF9VsasJJMUXB9ea_e123MbcnYw9TB7Fk3DByZ2iCh6zMY_AzoIFtKskbr8EEPuEAQe7suKD0TiNPChR-6vMaYav3D&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU",
+    "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AcJnMuE3BJPUwbwQenIhMbTHq1TAiVHMdvh45rl2YSzKeb6Q4CYSPmFeT73_EYgqz1BJEo8OSHa6ObC8EjGpagbg8ZiDNWH8zKWYsoetgCek8B4fMKCKnUqseLjt4xqRi2UY3bRAezSrEeFd1raCoqNvuD1WH29ET1c7OXSvJiJoh50sb7Yr&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU",
+    "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AcJnMuGgQ-ieklUNafWQvEfbNjmD8yZaKafZ3fjuMWZUUwlZL64F1MfZO3RnRr9bY-xpW6IPXAKof55ErwgG5jZGOPkCHEdn08TO2bWLDBfJoHQFMd-vTtVT-uE48ZISfmBGR-bEeUEy7AeowigJSXW94BmxvuBnyW7BhaUKW7ndAK2mD8bv&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU",
+    "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AcJnMuFUzGXwUoBFK9VP7S5xBd2Agpmgycbl6dfDitL6XEIRcNWrEg_p7CdVvZVV_Xw3HMO08nm7ebXoQ21rb5YgZa-gdAkA2Tr1WJTjxulvx4i3mgAzrX4zfdAgqVhfhkHVdoTLLd6w5a-zhmc1r8GeFB1BmqFaQJVB3wgwdZHnC1C-b3X2&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU",
+    "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AcJnMuHhb-yq-8erga-sRosklfZwMZV8j6Pb0zdRtfrd8TBWK0B8zy7ODB_VwRMy-MLNWURcaKT8oZbFTrcHQYWKaOmMFN4wYt5lRXCJVyAQSdgFTCkPFxlq7reIB0YXWl8nA9AHM6owgEGNjxUBZaazVTKUl9dxn2hMeBolIvLco5ItiTfv&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU",
+    "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AcJnMuHcXM9biTWut06okamSQCKVjI_mwlXL6F2IB0z9o47fldbxUK1gkQ_VDw8oR4vNhUgpQkxRh8GYcpT9OSfXvwx0PTZ_tIcZLBWThcUTLvu3nh8tdEmfdVMyfplbEfJWbfMZtOK_VuRQ5wJ68Cj1OLncofnQAcFLyj_4wJPNY6pCoNjA&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU",
+    "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AcJnMuF3l0bsXQoXilSNn3P6kb8u5sM6kykZQU82e4n6kFd32Pc0rP4Ntev43b5Wnb_wiQMXll_leHoyPNCrf-Txki1JLgIavapnApXT7dheTSs_0oOyiGEaGRoXm4ZwJ4vZgGgTKAKKWEuAtUZXu_S2OMZweIvs6dJh3-7MSeKHDkhI0Jt4&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU",
+    "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AcJnMuGvaUXh8zhQM2iVzE7DX0CcohBgmaqlC6injCjD1QTr2GFChpQ9YxSQIAliHL1Xd9bwv9nKi_wV-fG-3_iXA71G94MbUuq4wCy5gqaXyl5sHSI-ixDfEWtv74orsqmRyvwKCXLD9rd0qN6-Fi1qEEuS9Bt1TFLUeSWrBCijFXRp722j&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU",
+    "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AcJnMuGS1DexCybWGuHfKO8IxsU01-YMofoZ_rbIH_wZsKRUzdg1pSU-jKva43ytryUHiMF_n8ZhDlOUbpCqvh30MfgHbyFP3Ylg_g3NAQfUESyoZ-QbS5ezjub7NXHcDYKC0wcZvQmnR31o7Pa_PKsKneBXNBSfZBW52CBAw_FTeUlyAg3J&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU"
+  ],
+  "local_photos": [
+    "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/database/India/Chennai/Hot Chips Veg Restaurant/photos_0.jpg",
+    "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/database/India/Chennai/Hot Chips Veg Restaurant/photos_1.jpg",
+    "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/database/India/Chennai/Hot Chips Veg Restaurant/photos_2.jpg",
+    "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/database/India/Chennai/Hot Chips Veg Restaurant/photos_3.jpg",
+    "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/database/India/Chennai/Hot Chips Veg Restaurant/photos_4.jpg",
+    "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/database/India/Chennai/Hot Chips Veg Restaurant/photos_5.jpg",
+    "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/database/India/Chennai/Hot Chips Veg Restaurant/photos_6.jpg"
+  ],
+  "wiki_city_description": "Chennai ( , Tamil: [\u00cb\u0088t\u00cd\u00a1\u00c9\u0095en\u00cb\u0090a\u00c9\u00aa\u00cc\u00af], IAST: Cenna\u00c4\u00ab), formerly known as Madras, is the capital city of Tamil Nadu, the southernmost state of India. It is the state's primate city both in area and population and is located on the Coromandel Coast of the Bay of Bengal. According to the 2011 Indian census, Chennai is the sixth-most populous city in India and forms the fourth-most populous urban agglomeration. Incorporated in 1866, the Greater Chennai Corporation is the oldest municipal corporation of India and the second oldest in the world after London.\nHistorically, Chennai and surroundings were part of the Chola, Pandya, Pallava and Vijayanagara kingdoms for many centuries. The coastal land, which then contained the fishing village Madrasapattinam, was purchased by the British East India Company from the Nayak ruler Damarla Chennapa Nayaka, in the 17th century. The British garrison established the Madras city and port, and built Fort St. George\u00e2\u0080\u0094the first British fortress in India\u00e2\u0080\u0094which the French won over briefly in 1746, before becoming the winter capital of the Madras Presidency, a colonial province of the British Raj in the Indian subcontinent. After India gained its independence in 1947, Madras continued as the capital city of the Madras State and present-day Tamil Nadu. The city was officially renamed as Chennai in 1996.\nThe city is coterminous with Chennai district, which together with the adjoining suburbs constitutes the Chennai Metropolitan Area, the 36th-largest urban area in the world by population and one of the largest metropolitan economies of India. As the traditional and de facto gateway of South India, Chennai is among the most-visited Indian cities by foreigners. It was ranked the 43rd most-visited city in the world in 2015 and 36th in 2019. The Quality of Living Survey rates it as India's safest city. Chennai attracts 45 percent of health tourists visiting India, and 30 to 40 percent of domestic health tourists. As such, it is termed \"India's health capital\". Chennai has the fifth-largest urban economy, and had the third-largest expatriate population in India.Ranked as a beta-level city in the Global Cities Index, Chennai was dubbed India's best city by India Today in 2014. It was named the \"hottest\" city (city worth visiting and worth living in for long term) by the BBC in 2015, citing its amalgam of both modern and traditional values. It was the only South Asian city to be ranked among National Geographic's \"Top 10 food cities\" in 2015, and ranked ninth on Lonely Planet's best cosmopolitan cities of the world. In October 2017, Chennai was added to the UNESCO Creative Cities Network (UCCN) list for its rich musical tradition. Chennai hosts more than one-third of India's automobile industry, and is a major film production center, home to the Tamil-language film industry.",
+  "wiki_place_description": "Wikipedia page for 'Hot Chips Veg Restaurant' not found."
+}

@@ -15,7 +15,6 @@ def select_all_with_join(city_name):
     # if where_clause is not None:
     #     query = query + " where " + where_clause
     query = f"select c.city, c.place, c.description, c.distancefromcitycenter, te.map_reflink, te.google_place_rating from traveldata_explode te join city_places c on c.city = te.city_ascii where te.city = '{city_name}'"
-    print(query)
     all_users = cur.execute(query).fetchall()
     return [user for user in all_users]
    
@@ -63,7 +62,7 @@ def get_all_cities():
     cols = ["city"]
     location_all = []
     for col in cols:
-        query = f"select distinct {col} from traveldata_explode;"
+        query = f"select distinct c.city from traveldata_explode te join city_places c on lower(c.city) = lower(te.city_ascii);"
         result = cur.execute(query).fetchall()
         all_locations = [location[0] for location in result]
         for location in all_locations:

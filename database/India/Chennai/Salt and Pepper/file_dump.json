@@ -1,0 +1,44 @@
+{
+  "city": "Chennai",
+  "city_ascii": "Chennai",
+  "latitude": "13.0825",
+  "longitude": "80.2750",
+  "country": "India",
+  "country_iso2": "IN",
+  "country_iso3": "IND",
+  "admin_name": "Tamil N\u0101du",
+  "capital": "admin",
+  "population": "12395000",
+  "places_city": null,
+  "place_name": "Salt and Pepper",
+  "map_reflink": "https://maps.google.com/maps/contrib/100080602475104113376",
+  "map_nametag": "Amit Kumar",
+  "photo_reference": "AcJnMuFZi3BS_ySeTsmED-OaZVIZDz2PAuCvkTzGcAzkMUrp5Hg_x4Wk31WPgq9oMVOxg-fbc5BGCh7n8A4Ygq2BFGIOhg32zram76K754n-ivtByk54Y_1Hr77m1TFK1bmDMAW8dtib51ljxzGg6XHkaC94tqjGrzc-knPdD1e8cgfAjaMw",
+  "latitude_google": "13.067192",
+  "longitude_google": "80.258528",
+  "google_place_id": "ChIJcdkANRJmUjoR69jA2TUKS6E",
+  "google_place_rating": "4.1",
+  "google_user_rating": "17",
+  "place_types": "['restaurant' 'point_of_interest' 'food' 'establishment']",
+  "google_place_vicinity": "India",
+  "location_new": {
+    "lat": 13.067192,
+    "lng": 80.258528
+  },
+  "photo_urls": [
+    "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AcJnMuFu3Nv8pwotTj56500cudP2wprSTFn_AoTXhLRMclBEZV5Gnhi3R6xkP1Krpi9o5LnE5wK7pW5HExZCCD4fCag3ri-WE7iF-sLBEKq27okd5Nw51ejx7Y9jIAGlKQsEYAd5T5WWSajsG0YPw9gt8R096pBC5g1bOoD_LmvWtyGTEsZQ&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU",
+    "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AcJnMuGeU2sT9OBnxmGcB3H0dQq3Y-qNdYFkrAXN1LAtZbC05GxJoSrXHXMYR-bL2pTMmKBMmtpxMped5zpkCQ7-AamVrGGAx-Kfs1tJVRYW7-XJOlE6s-VOq56e69M-S9TbpiYnl14cOp-oLwpr8SYQLyowuaaaDhLLR6Nr4Xpze6TzuUWg&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU",
+    "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AcJnMuFmaJ9tIY4KyS1oIHO1RMvXd94fc0ClYbKyjt7CdD7WD5tToQoacbu3j81_VXa3TnbMQ4NaqyNc5YpCXIdTT4Ip4x7Hyb9TjJt8DewRYN0xnMoT8dlaFb6ZmKl9R5xYQG6z7gTcWALxCXU-F5QnBNIe6CiYqoZ2hkxOEz_7XS8CHX0l&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU",
+    "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AcJnMuGpe8NuxRLrmlxYJkxHgDNrBoFnuNUPRmTwOHvBr7AYoSmAnWHVkBmDx-0aYAvkgiVPt9ljPpJZOqVEieAlplvn4o9nhawXf6GvcaBPzddk4H_6NAM_R4YJGtWcR_IS6Jqaxvu75FZhceX8OMM4EC1k2kbBofQoa6SsOQXZOscmQm8E&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU",
+    "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AcJnMuG33XTXTo2KcbCTCsWyt5SRNQQQBK6bcIg0XUgB3SabgYfz_PIcCbzzaK-P7PN-DkbIYguW_2apGG4ZM_kvFYRkV0F8Wh90IcEBVpyLTMSu4xT5VJuKD5oEJs4-Y70xa0kVamzLXfNY7reFQPjhXoIVVurFKHOCZ3e-P8ptoeSqrne_&key=AIzaSyCVPecg2shSb1Xu6r_n6gAQ5O-gOIqtZyU"
+  ],
+  "local_photos": [
+    "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/database/India/Chennai/Salt and Pepper/photos_0.jpg",
+    "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/database/India/Chennai/Salt and Pepper/photos_1.jpg",
+    "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/database/India/Chennai/Salt and Pepper/photos_2.jpg",
+    "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/database/India/Chennai/Salt and Pepper/photos_3.jpg",
+    "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/database/India/Chennai/Salt and Pepper/photos_4.jpg"
+  ],
+  "wiki_city_description": "Chennai ( , Tamil: [\u00cb\u0088t\u00cd\u00a1\u00c9\u0095en\u00cb\u0090a\u00c9\u00aa\u00cc\u00af], IAST: Cenna\u00c4\u00ab), formerly known as Madras, is the capital city of Tamil Nadu, the southernmost state of India. It is the state's primate city both in area and population and is located on the Coromandel Coast of the Bay of Bengal. According to the 2011 Indian census, Chennai is the sixth-most populous city in India and forms the fourth-most populous urban agglomeration. Incorporated in 1866, the Greater Chennai Corporation is the oldest municipal corporation of India and the second oldest in the world after London.\nHistorically, Chennai and surroundings were part of the Chola, Pandya, Pallava and Vijayanagara kingdoms for many centuries. The coastal land, which then contained the fishing village Madrasapattinam, was purchased by the British East India Company from the Nayak ruler Damarla Chennapa Nayaka, in the 17th century. The British garrison established the Madras city and port, and built Fort St. George\u00e2\u0080\u0094the first British fortress in India\u00e2\u0080\u0094which the French won over briefly in 1746, before becoming the winter capital of the Madras Presidency, a colonial province of the British Raj in the Indian subcontinent. After India gained its independence in 1947, Madras continued as the capital city of the Madras State and present-day Tamil Nadu. The city was officially renamed as Chennai in 1996.\nThe city is coterminous with Chennai district, which together with the adjoining suburbs constitutes the Chennai Metropolitan Area, the 36th-largest urban area in the world by population and one of the largest metropolitan economies of India. As the traditional and de facto gateway of South India, Chennai is among the most-visited Indian cities by foreigners. It was ranked the 43rd most-visited city in the world in 2015 and 36th in 2019. The Quality of Living Survey rates it as India's safest city. Chennai attracts 45 percent of health tourists visiting India, and 30 to 40 percent of domestic health tourists. As such, it is termed \"India's health capital\". Chennai has the fifth-largest urban economy, and had the third-largest expatriate population in India.Ranked as a beta-level city in the Global Cities Index, Chennai was dubbed India's best city by India Today in 2014. It was named the \"hottest\" city (city worth visiting and worth living in for long term) by the BBC in 2015, citing its amalgam of both modern and traditional values. It was the only South Asian city to be ranked among National Geographic's \"Top 10 food cities\" in 2015, and ranked ninth on Lonely Planet's best cosmopolitan cities of the world. In October 2017, Chennai was added to the UNESCO Creative Cities Network (UCCN) list for its rich musical tradition. Chennai hosts more than one-third of India's automobile industry, and is a major film production center, home to the Tamil-language film industry.",
+  "wiki_place_description": ""
+}
