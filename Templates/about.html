@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/style.css') }}">
+    <title>Go Travel India - Find your Destination</title>
+</head>
+
+<body>
+
+    <body>
+        <section class="nav-bar">
+            <ul class="menu">
+                <li><a href="{{ url_for('site_home') }}">home</a></li>
+                <li><a href="#">blog</a></li>
+                <li><a href="{{ url_for ('about')}}">about us</a></li>
+                <li><a href="#">contact us</a></li>
+                <li><a href="{{login}}">Login / Singup</a></li>
+            </ul>
+            </div>
+
+        </section>
+
+        <section class="banner">
+          <div class="banner-text-item">
+              <div class="banner-heading">
+                  <h1>About Us </h1>
+              </div>
+              <form class="form" style="color: white;" method="POST">
+                  <p>We believe the more we travel, the better we all become. That’s why our travel essentials are designed to last (and last) for every trip to come, so you can get out there and explore..</p>
+                  <p>We’re travelers, and our experiences inform our approach to the things we make. Simply put—our luggage is designed by travelers, for travelers. At Away, you’ll find suitcases, bags, and accessories built with thoughtful details to make each and every journey more seamless. We’re transforming travel to inspire you to get Away more and see more of the world along with us.</p>
+                  
+              </form>
+          </div>
+      </section>
+      <section class="places">
+        <div class="places-text">
+            <h2>Team Members</h2>
+        </div>
+
+        <div class="cards">
+          <div class="card">
+              <div class="zoom-img">
+                  <div class="img-card">
+                      <img src="/Users/venkat/Desktop/TravelProjecr/travelprojectnew/dev-images/ruchi.jpg" alt="ruchi">
+                  </div>
+              </div>
+              <div class="text">
+                  <h2>Ruchitha Jillelamudi</h2>
+              </div>
+              <div class="text">
+                <h3>Backend Developer </h3>
+            </div>
+              <p>Responsible for creating the underlying code of a user interface site, instead of visual functionality of a site on which front-end developers focus.</p>
+          <p>ruchithaj458@gmail.com</p>
+          </div>
+          <div class="card">
+            <div class="zoom-img">
+                <div class="img-card">
+                    <img
+                        src="https://res.cloudinary.com/dxssqb6l8/image/upload/v1605293874/switzerland_tubxcm.jpg">
+                </div>
+            </div>
+            <div class="text">
+                <h2>Ruchitha Jillelamudi</h2>
+            </div>
+            <div class="text">
+              <h3>Backend Developer </h3>
+          </div>
+            <p>Responsible for creating the underlying code of a user interface site, instead of visual functionality of a site on which front-end developers focus.</p>
+        <p>ruchithaj458@gmail.com</p>
+        </div>
+        <div class="card">
+          <div class="zoom-img">
+              <div class="img-card">
+                  <img
+                      src="https://res.cloudinary.com/dxssqb6l8/image/upload/v1605293874/switzerland_tubxcm.jpg">
+              </div>
+          </div>
+          <div class="text">
+              <h2>Ruchitha Jillelamudi</h2>
+          </div>
+          <div class="text">
+            <h3>Backend Developer </h3>
+        </div>
+          <p>Responsible for creating the underlying code of a user interface site, instead of visual functionality of a site on which front-end developers focus.</p>
+      <p>ruchithaj458@gmail.com</p>
+      </div>
+      <div class="card">
+        <div class="zoom-img">
+            <div class="img-card">
+                <img
+                    src="https://res.cloudinary.com/dxssqb6l8/image/upload/v1605293874/switzerland_tubxcm.jpg">
+            </div>
+        </div>
+        <div class="text">
+            <h2>Ruchitha Jillelamudi</h2>
+        </div>
+        <div class="text">
+          <h3>Backend Developer </h3>
+      </div>
+        <p>Responsible for creating the underlying code of a user interface site, instead of visual functionality of a site on which front-end developers focus.</p>
+    <p>ruchithaj458@gmail.com</p>
+    </div>
+  </section>
+        
+        <div class="footer">
+            <div class="links">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li>Contact Us</li>
+                    <li>About</li>
+                    <li>Frequently Asked Questions</li>
+                </ul>
+            </div>
+        </div>
+        <!-- Add this HTML code where you want the chat icon or button -->
+        <!-- Add this HTML code where you want the chat window -->
+
+        <div id="chat-window" class="chat-window">
+            <div class="chat-header">
+                Hello, How can I Help?
+                <button id="toggle-chat" class="minimize-button">-</button>
+            </div>
+            <div id="chat-output"></div>
+            <input type="text" id="user-input" placeholder="Type a message...">
+            <button id="send-button">Send</button>
+            </div>
+
+        </div>
+        <script src="{{ url_for('static',filename='styles/chat.js') }}"></script>
+    </body>
+
+</html>
+</body>
+
+</html>

@@ -20,6 +20,10 @@ Session(app)
 def home():
     return redirect(url_for("site_home"))
 
+@app.route('/travelblog/about')
+def about():
+    return render_template('about.html')
+
 @app.route('/travelblog/home')
 def site_home():
     locations = get_all_cities()
