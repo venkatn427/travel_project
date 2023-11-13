@@ -7,6 +7,12 @@ import json
 global database_nm 
 database_nm = os.path.join("database", "travel_data_new.db") #check this file in sql lite studio to query data
 
+def update_user_password(username, newpassword):
+    connection = sqlite3.connect(database_nm)
+    cur = connection.cursor()
+    sql_query = f" UPDATE users SET password = '{newpassword}' WHERE username = '{username}';"
+    cur.execute(sql_query)
+    connection.commit()
 
 def select_all_with_join(city_name):
     connection = sqlite3.connect(database_nm)

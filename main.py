@@ -1,5 +1,5 @@
 from flask import Flask, url_for, render_template, request, redirect, flash, session
-from utils.database_scripts import insert_query_user, find_user_login, get_all_cities, log_user_session, update_user_new_login, select_all_from_table, get_all_states, select_all_with_join
+from utils.database_scripts import insert_query_user, find_user_login, get_all_cities, log_user_session, update_user_new_login, select_all_from_table, get_all_states, select_all_with_join,update_user_password
 from flask_session import Session
 import os
 
@@ -168,9 +168,17 @@ def register():
     return render_template('register.html', msg=error)
 
 
-@app.route('/travelblog/forgotpassword')
+@app.route('/travelblog/forgotpassword', methods=['GET', 'POST'])
 def reset_password():
-    return render_template('forgotpassword.html')
+    error = ''
+    if request.method == 'POST' and 'username' in request.form and 'oldpassword' in request.form:
+        username = request.form['username']
+        session['username'] = username
+        oldpassword = request.form['oldpassword']
+        newpassword = request.form['newpassword']
+        update_user_password(username=username, newpassword=newpassword)
+        return redirect(url_for("login", username=username)) 
+    return render_template('forgotpassword.html', msg = "")
     
     
 @app.route('/travelblog/profile/<username>')
