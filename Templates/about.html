@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/style.css') }}">
+
     <title>Go Travel India - Find your Destination</title>
 </head>
 
@@ -45,7 +46,7 @@
           <div class="card">
               <div class="zoom-img">
                   <div class="img-card">
-                      <img src={{image_ruchi}} alt="ruchi">
+                      <img src="{{ url_for('static', filename='images/ruchi.jpg') }}" alt="ruchi">
                       <p class="overlay-text">Ruchitha J</p>
                   </div>
               </div>
@@ -59,7 +60,7 @@
             <div class="zoom-img">
                 <div class="image-container">
                     <img
-                        src="">
+                        src="{{ url_for('static', filename='images/anju.jpg') }}">
                         <p class="overlay-text">Anjana Chekuri</p>
                 </div>
             </div>
@@ -73,12 +74,9 @@
           <div class="zoom-img">
               <div class="img-card">
                   <img
-                      src="">
+                      src="{{ url_for('static', filename='images/niha.jpg') }}">
                       <p class="overlay-text">Niharika</p>
               </div>
-          </div>
-          <div class="text">
-              <h2>Niharika</h2>
           </div>
           <div class="text">
             <h3>Web Developer </h3>
@@ -90,12 +88,9 @@
         <div class="zoom-img">
             <div class="img-card">
                 <img
-                    src="">
+                    src="{{ url_for('static', filename='images/kavya.jpg') }}">
                     <p class="overlay-text">Kavya Sri</p>
             </div>
-        </div>
-        <div class="text">
-            <h2>Kavya Sri</h2>
         </div>
         <div class="text">
           <h2>Python Developer </h2>
