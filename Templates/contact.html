@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Contact Form</title>
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="../static/styles/contact.css" />
     <script
       src="https://kit.fontawesome.com/64d58efce2.js"
       crossorigin="anonymous"
@@ -61,27 +61,19 @@
           <span class="circle one"></span>
           <span class="circle two"></span>
 
-          <form action="index.html" autocomplete="off">
+          <form action="{{ url_for ('contactus')}}" method="post" autocomplete="off">
             <h3 class="title">Contact us</h3>
             <div class="input-container">
-              <input type="text" name="name" class="input" />
-              <label for="">Username</label>
-              <span>Username</span>
+              <input type="text" name="username" class="input" placeholder="UserName" id = "username" />
             </div>
             <div class="input-container">
-              <input type="email" name="email" class="input" />
-              <label for="">Email</label>
-              <span>Email</span>
+              <input type="email" name="email" class="input" placeholder="email" id="email"/>
             </div>
             <div class="input-container">
-              <input type="tel" name="phone" class="input" />
-              <label for="">Phone</label>
-              <span>Phone</span>
+              <input type="tel" name="phone" class="input" placeholder="Phone Number" id="phone"/>
             </div>
             <div class="input-container textarea">
-              <textarea name="message" class="input"></textarea>
-              <label for="">Message</label>
-              <span>Message</span>
+              <textarea name="message" class="input" placeholder="Type your message" id="message"></textarea>
             </div>
             <input type="submit" value="Send" class="btn" />
           </form>

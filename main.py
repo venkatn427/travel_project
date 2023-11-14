@@ -1,5 +1,5 @@
 from flask import Flask, url_for, render_template, request, redirect, flash, session
-from utils.database_scripts import insert_query_user, find_user_login, get_all_cities, log_user_session, update_user_new_login, select_all_from_table, get_all_states, select_all_with_join,update_user_password
+from utils.database_scripts import insert_query_user, create_table_update_contact, find_user_login, get_all_cities, log_user_session, update_user_new_login, select_all_from_table, get_all_states, select_all_with_join,update_user_password
 from flask_session import Session
 import os
 
@@ -190,7 +190,18 @@ def profile(username):
     locations = get_all_cities()
     print(locations)
     return render_template('profile.html', username1=username, locations=locations)
-    
+   
+@app.route('/travelblog/contactus', methods=['GET', 'POST'])
+def contactus():
+    if request.method == 'POST':
+        name = request.form['username']
+        email = request.form['email']
+        phone = request.form['phone']
+        message = request.form['message']
+        print(name, email, phone, message )
+        create_table_update_contact(name, email, phone, message)
+        return redirect(url_for("site_home", username=name)) 
+    return render_template('contact.html')
 
 @app.route('/travelblog/logout')
 def logout():

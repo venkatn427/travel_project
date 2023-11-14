@@ -7,6 +7,16 @@ import json
 global database_nm 
 database_nm = os.path.join("database", "travel_data_new.db") #check this file in sql lite studio to query data
 
+def create_table_update_contact(name, email, phone, message):
+    connection = sqlite3.connect(database_nm)
+    cur = connection.cursor()
+    createtable_q = "CREATE TABLE IF NOT EXISTS contact_us(contact_id INTEGER PRIMARY KEY AUTOINCREMENT,name TEXT NOT NULL,email TEXT,phone TEXT, message TEXT, contact_time TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP);"
+    cur.execute(createtable_q)
+    connection.commit()
+    cur.execute("INSERT INTO contact_us (name, email, phone, message) VALUES (?, ?, ?, ?)",
+                    (name, email, phone, message))
+    connection.commit()
+    
 def update_user_password(username, newpassword):
     connection = sqlite3.connect(database_nm)
     cur = connection.cursor()
