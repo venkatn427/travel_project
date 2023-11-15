@@ -30,7 +30,7 @@
                 <li><a href="{{ url_for('site_home') }}">home</a></li>
                 <li><a href="#">blog</a></li>
                 <li><a href="{{ url_for ('about')}}">about us</a></li>
-                <li><a href="#">contact us</a></li>
+                <li><a href="{{ url_for ('contactus')}}">contact us</a></li>
                 <li><a href= "{{ url_for('logout') }}" >Logout</a></li>
             </ul>
             </div>
@@ -38,7 +38,7 @@
         </section>
         <!--===============Banner================-->
         <article> 
-            <div class="logo" align="center" >Welcome to {{ city }} </div>
+            <div class="logo" align="center" >Welcome to {{ state }} and {{locationcat}} </div>
             <div class="card-container">
             {% for card in card_data %}
             <div class="card {{ card.class }}">
@@ -49,8 +49,6 @@
                     <h3>{{card.name}}</h3>
                     <p> {{card.description}}</p>
                     <a href="{{card.map_link}}" target="_blank">Go to Maps</a>
-                    <h4> Distance: {{card.distancefromcitycenter}} </p>
-                    <h4> Rating: {{card.rating}} </p>
                 </div>
                 
             </div>

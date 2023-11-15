@@ -32,11 +32,11 @@
                 <div class="banner-heading">
                     <h1>Find your Next Tourist Spot!</h1>
                 </div>
-                <form class="form" method="POST" action="{{ url_for('locationdetails_new') }}">
+                <form class="form" method="POST" action="{{ url_for('locationdetails') }}">
                     <input list="mylist" name="selected_state" id="state" placeholder="Where would you like to go? Select City Name">
                     <datalist id="mylist">
                         {% for location in locations %}
-                        <option>{{ location.city }} </option>
+                        <option>{{ location.state }} </option>
                         {% endfor %}
                     </datalist>
                     

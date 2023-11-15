@@ -26,7 +26,7 @@ def about():
 
 @app.route('/travelblog/home')
 def site_home():
-    locations = get_all_cities()
+    locations = get_all_states()
     return render_template('index.html', msg='', login=url_for("login"), locations=locations)
 
 def get_locationdata(selected_state, locationcat):
@@ -101,9 +101,10 @@ def locationdetails():
         username = session["username"]
     else:
         username = None
-    selected_state = request.form.get('textfrombox')
+    selected_state = request.form.get('selected_state')
     locations = get_all_states() 
-    if selected_state in locations:
+    print(selected_state, [location for location in locations])
+    if selected_state in [location['state'] for location in locations]:
         print(locations)
         session['state'] = selected_state
     else:
@@ -187,7 +188,7 @@ def reset_password():
     
 @app.route('/travelblog/profile/<username>')
 def profile(username):
-    locations = get_all_cities()
+    locations = get_all_states()
     print(locations)
     return render_template('profile.html', username1=username, locations=locations)
    

@@ -118,11 +118,11 @@ def insert_query_user(username, email, password, fname, lname):
     connection.commit()
     return "Record Inserted Successfully"
 
-def insert_or_update_location(state, name, description, locationcategory, image_url):
+def insert_or_update_location(state, place, city, description, image, map_reflink):
     connection = sqlite3.connect(database_nm)
     cur = connection.cursor()
-    cur.execute("INSERT INTO location (state, name, description,locationcategory, image_url) VALUES (?, ?, ?, ?, ?)",
-                    (state, name, description, locationcategory, image_url))
+    cur.execute("INSERT INTO location_new (state, place, city, description, image, map_reflink)) VALUES (?, ?, ?, ?, ?, ?)",
+                    (state, place, city, description, image, map_reflink))
     connection.commit()
     return "Record Inserted Successfully" 
 

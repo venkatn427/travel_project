@@ -29,8 +29,25 @@ CREATE TABLE location (
     description TEXT NOT NULL,
     locationcategory TEXT NOT NULL,
     image_url TEXT NOT NULL,
+    map_reflink TEXT,
     created TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
+
+
+DROP TABLE IF EXISTS location_new;
+
+CREATE TABLE location_new (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    place TEXT NOT NULL,
+    city TEXT NOT NULL,
+    description TEXT NOT NULL,
+    image TEXT NOT NULL,
+    map_reflink TEXT,
+    created TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
+
+
+
 
 DROP TABLE IF EXISTS worldcities; 
 

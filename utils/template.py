@@ -70,22 +70,44 @@ def load_world_data_csv(csv_file_path):
             population = record[9]
             insert_load_world_data(city,city_ascii,latitude,longitude,country,country_iso2,country_iso3,admin_name,capital,population)
 
-load_world_data_csv(csv_file_path)
-create_indiancities()
+# load_world_data_csv(csv_file_path)
+# create_indiancities()
 
-csv_file_path = "/Users/venkat/Desktop/TravelProjecr/travel_project/database/Places.csv"
+csv_file_path = "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/database/travel_Hub_locations.csv"
+import pandas as pd 
 
-with open(csv_file_path, 'r') as csv_file:
-    print("loading places data")
-    csv_reader = csv.reader(csv_file)
-    csv_file.seek(0)
-    next(csv_reader)  
-    for val in csv_reader:
-        city = val[0]
-        place = val[1].split(".")[1]
-        distance = val[2]
-        distancefromcitycenter = val[3]
-        description = val[4]
-        insert_load_place_data(city, place, distance, distancefromcitycenter, description)
 
-print(select_all_with_join('Delhi'))
+import pandas as pd
+import chardet
+
+# Detect the encoding
+with open(csv_file_path, 'rb') as file:
+    results = chardet.detect(file.read())
+
+for result in results:
+    print(result)
+# Use the detected encoding
+df = pd.read_csv(csv_file_path, encoding=result['encoding'])
+print(df)
+    
+# with open(csv_file_path, 'r') as csv_file:
+#     print("loading places data")
+#     df = pd.read_csv(csv_file_path, header=None, encoding='utf-8')
+#     print(df)
+#     for index, val in df.iterrows():
+#         print(val)
+#         state = val[0]
+#         if len(val[1].split("-")) > 1:
+#             place = val[1].split("_")[0]
+#             city = val[1].split("_")[1] 
+#         else:
+#            place = val[2] 
+#            city = ""
+#         description = val[3]
+#         locationcattype = val[4]
+#         image = val[5]
+#         map_reflink = val[6]
+        
+#         insert_load_place_data(state, place, city, description, image, map_reflink)
+
+# print(select_all_with_join('Delhi'))
