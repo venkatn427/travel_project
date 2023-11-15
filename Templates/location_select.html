@@ -38,7 +38,7 @@
         </section>
         <!--===============Banner================-->
         <article> 
-            <div class="logo" align="center" >Welcome to {{ state }} and {{locationcat}} </div>
+            <div class="logo" align="center" >Welcome to {{ state }} {{locationcat}} </div>
             <div class="card-container">
             {% for card in card_data %}
             <div class="card {{ card.class }}">
@@ -48,7 +48,7 @@
                 <div class="text-content">
                     <h3>{{card.name}}</h3>
                     <p> {{card.description}}</p>
-                    <a href="{{card.map_link}}" target="_blank">Go to Maps</a>
+                    <a href="{{card.map_reflink}}" target="_blank">Go to Maps</a>
                 </div>
                 
             </div>

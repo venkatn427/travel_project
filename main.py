@@ -29,16 +29,20 @@ def site_home():
     locations = get_all_states()
     return render_template('index.html', msg='', login=url_for("login"), locations=locations)
 
-def get_locationdata(selected_state, locationcat):
-    where_clause = "state = '" + selected_state + "' and locationcategory ='" + locationcat + "'"
-    data = select_all_from_table('location', where_clause)
+def get_locationdata(selected_state): 
+ #   where_clause = "state = '" + selected_state + "' and locationcategorytype ='" + locationcat + "'" and "description not like" + "'" +"%Kapu is a beach village in coastal Karnataka%" + "';"
+    where_clause = "state = '" + selected_state + "';" 
+    data = select_all_from_table('location_new', where_clause)
     card_data = []
     for i, each in enumerate(data):
         location = {}
-        location['title'] = each[1]
+        location['state'] = each[1]
         location['name'] = each[2]
-        location['description'] = each[3]
-        location['image'] = each[5]
+        location['city'] = each[3]
+        location['description'] = each[4]
+        location['categorytype'] = each[5]
+        location['image'] = each[6]
+        location['map_reflink'] = each[7]
         location['class'] = each[1] + str(i)
         card_data.append(location)
     return card_data 
@@ -109,13 +113,11 @@ def locationdetails():
         session['state'] = selected_state
     else:
         selected_state = "Karnataka"
-        locationcat = 'beaches' 
-    session['location'] = locationcat
-    get_details = get_locationdata(selected_state, locationcat)
-    card_data = get_details
+    card_data = get_locationdata(selected_state)
+    print(card_data)
     return render_template('location_select.html', username1= username, 
                            state = selected_state, 
-                           locationcat = locationcat,
+                           locationcat = '',
                            card_data=card_data)
 
 @app.route('/login')

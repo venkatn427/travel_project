@@ -16,7 +16,7 @@ state_data = []
 html_files = [file for file in files_in_folder if file.endswith(".html")]
 csv_files = [file for file in files_in_folder if file.endswith(".csv")]
 
-
+print("table created")
 def html_files_load(html_files):
     for file_path in html_files:
         locationcategory = file_path.replace(".html", "").split("_")[1]
@@ -73,41 +73,28 @@ def load_world_data_csv(csv_file_path):
 # load_world_data_csv(csv_file_path)
 # create_indiancities()
 
-csv_file_path = "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/database/travel_Hub_locations.csv"
+csv_file_path = "/Users/venkat/Downloads/travel_Hub_locations.xlsx"
 import pandas as pd 
 
 
 import pandas as pd
-import chardet
 
-# Detect the encoding
-with open(csv_file_path, 'rb') as file:
-    results = chardet.detect(file.read())
-
-for result in results:
-    print(result)
-# Use the detected encoding
-df = pd.read_csv(csv_file_path, encoding=result['encoding'])
-print(df)
-    
-# with open(csv_file_path, 'r') as csv_file:
-#     print("loading places data")
-#     df = pd.read_csv(csv_file_path, header=None, encoding='utf-8')
-#     print(df)
-#     for index, val in df.iterrows():
-#         print(val)
-#         state = val[0]
-#         if len(val[1].split("-")) > 1:
-#             place = val[1].split("_")[0]
-#             city = val[1].split("_")[1] 
-#         else:
-#            place = val[2] 
-#            city = ""
-#         description = val[3]
-#         locationcattype = val[4]
-#         image = val[5]
-#         map_reflink = val[6]
+with open(csv_file_path, 'r') as csv_file:
+    print("loading places data")
+    df = pd.read_excel(csv_file_path, header=None)
+    for index, val in df.iterrows():
+        state = val[0]
+        if len(val[1].split("-")) > 1:
+            place = val[1].split("-")[0]
+            city = val[1].split("-")[1] 
+        else:
+           place = val[1] 
+           city = ""
+        description = val[2]
+        locationcattype = val[3]
+        image = val[4]
+        map_reflink = val[5]
         
-#         insert_load_place_data(state, place, city, description, image, map_reflink)
+        insert_or_update_location(state, place, city, description, image, map_reflink)
 
 # print(select_all_with_join('Delhi'))

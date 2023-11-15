@@ -5,7 +5,7 @@ import csv
 import json
 
 global database_nm 
-database_nm = os.path.join("database", "travel_data_new.db") #check this file in sql lite studio to query data
+database_nm = os.path.join("database", "travel_data_demo.db") #check this file in sql lite studio to query data
 
 def create_table_update_contact(name, email, phone, message):
     connection = sqlite3.connect(database_nm)
@@ -60,10 +60,10 @@ def create_indiancities():
 def get_all_states():
     connection = sqlite3.connect(database_nm)
     cur = connection.cursor()
-    cols = ["state", "locationcategory"]
+    cols = ["state" ]
     location_all = []
     for col in cols:
-        query = f"select distinct {col} from location;"
+        query = f"select distinct {col} from location_new;"
         result = cur.execute(query).fetchall()
         all_locations = [location[0] for location in result]
         for location in all_locations:
@@ -121,7 +121,7 @@ def insert_query_user(username, email, password, fname, lname):
 def insert_or_update_location(state, place, city, description, image, map_reflink):
     connection = sqlite3.connect(database_nm)
     cur = connection.cursor()
-    cur.execute("INSERT INTO location_new (state, place, city, description, image, map_reflink)) VALUES (?, ?, ?, ?, ?, ?)",
+    cur.execute("INSERT INTO location_new (state, place, city, description, image, map_reflink) VALUES (?, ?, ?, ?, ?, ?)",
                     (state, place, city, description, image, map_reflink))
     connection.commit()
     return "Record Inserted Successfully" 
