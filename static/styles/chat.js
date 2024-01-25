@@ -15,7 +15,7 @@ sendButton.addEventListener('click', function() {
     addMessage(userMessage, "You");
     // You can add logic here to handle the user's message and generate a chatbot response.
     // For now, let's assume a simple response.
-    const chatbotResponse = 'This is a chatbot response.';
+    const chatbotResponse = userMessage;
     addMessage(chatbotResponse, 'Chatbot');
     userInput.value = ''; // Clear the input field
 });

@@ -23,68 +23,16 @@ def update_user_password(username, newpassword):
     sql_query = f" UPDATE users SET password = '{newpassword}' WHERE username = '{username}';"
     cur.execute(sql_query)
     connection.commit()
-
-def select_all_with_join(city_name):
-    connection = sqlite3.connect(database_nm)
-    cur = connection.cursor()
-    # query = f"select * from {table_name1} t1 join {table_name2} t2 join t1.{joincol} = t2.{joincol}"
-    # if where_clause is not None:
-    #     query = query + " where " + where_clause
-    query = f"select c.city, c.place, c.description, c.distancefromcitycenter, te.map_reflink, te.google_place_rating from traveldata_explode te join city_places c on c.city = te.city_ascii where te.city = '{city_name}'"
-    all_users = cur.execute(query).fetchall()
-    return [user for user in all_users]
-   
-def insert_load_place_data(city, place, distance, distancefromcitycenter, description):
-    connection = sqlite3.connect(database_nm)
-    cur = connection.cursor()
-    cur.execute("INSERT INTO city_places (city, place, distance, distancefromcitycenter, description) VALUES (?, ?, ?, ?, ?)",
-                    (city, place, distance, distancefromcitycenter, description))
-    connection.commit()
-    return "Record Inserted Successfully" 
         
-def insert_load_world_data(city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population):
+def get_all_states_and_cities():
     connection = sqlite3.connect(database_nm)
     cur = connection.cursor()
-    cur.execute("INSERT INTO worldcities (city, city_ascii, latitude, longitude, country, country_iso2, country_iso3, admin_name, capital, population) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
-                    (city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population))
-    connection.commit()
-    return "Record Inserted Successfully"
-
-def create_indiancities():
-    connection = sqlite3.connect(database_nm)
-    cur = connection.cursor()
-    cur.execute("DROP TABLE IF EXISTS indiancities;")
-    cur.execute("create table indiancities as select * from worldcities where country = 'India';")
-    connection.commit()
-
-def get_all_states():
-    connection = sqlite3.connect(database_nm)
-    cur = connection.cursor()
-    cols = ["state" ]
-    location_all = []
+    cols = ["state", "city"]
+    location_all = {}
     for col in cols:
-        query = f"select distinct {col} from location_new;"
+        query = f"select distinct {col} from locations;"
         result = cur.execute(query).fetchall()
-        all_locations = [location[0] for location in result]
-        for location in all_locations:
-            l = {}
-            l[col] = location
-            location_all.append(l)
-    return location_all
-
-def get_all_cities():
-    connection = sqlite3.connect(database_nm)
-    cur = connection.cursor()
-    cols = ["city"]
-    location_all = []
-    for col in cols:
-        query = f"select distinct c.city from traveldata_explode te join city_places c on lower(c.city) = lower(te.city_ascii);"
-        result = cur.execute(query).fetchall()
-        all_locations = [location[0] for location in result]
-        for location in all_locations:
-            l = {}
-            l[col] = location
-            location_all.append(l)
+        location_all[col] = [location[0] for location in result]
     return location_all
     
 def find_user_login(username):
@@ -118,11 +66,11 @@ def insert_query_user(username, email, password, fname, lname):
     connection.commit()
     return "Record Inserted Successfully"
 
-def insert_or_update_location(state, place, city, description, image, map_reflink):
+def insert_or_update_location(state, name, city, description, category, image, map_reflink):
     connection = sqlite3.connect(database_nm)
     cur = connection.cursor()
-    cur.execute("INSERT INTO location_new (state, place, city, description, image, map_reflink) VALUES (?, ?, ?, ?, ?, ?)",
-                    (state, place, city, description, image, map_reflink))
+    cur.execute("INSERT INTO locations (state, city, name, description, category, image_url, map_reflink) VALUES (?, ?, ?, ?, ?, ?, ?)",
+                    (state,  city, name, description, category, image, map_reflink))
     connection.commit()
     return "Record Inserted Successfully" 
 

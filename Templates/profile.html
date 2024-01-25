@@ -14,13 +14,23 @@
 
         <!--===========Nav Bar=================-->
         <section class="nav-bar">
-            <div class="logo">Welcome, {{ username1 }}  </div>
+            <div class="logo">
+                {% if username %}
+                    Welcome, {{ username }}
+                {% else %}
+                    Welcome
+                {% endif %}
+            </div>
             <ul class="menu">
                 <li><a href="{{ url_for('site_home') }}">home</a></li>
                 <li><a href="#">blog</a></li>
                 <li><a href="{{ url_for ('about')}}">about us</a></li>
                 <li><a href="{{ url_for ('contactus')}}">contact us</a></li>
+                {% if username %}
                 <li><a href= "{{ url_for('logout') }}" >Logout</a></li>
+                {% else %}
+                <li><a href= "{{ url_for('login') }}" >Logout</a></li>
+                {% endif %}
             </ul>
             </div>
 
@@ -31,11 +41,11 @@
                 <div class="banner-heading">
                     <h1>Find your Next Tourist Spot!</h1>
                 </div>
-                <form class="form" method="POST" action="{{ url_for('locationdetails') }}">
+                <form class="form" method="POST" action="{{ url_for('locationdetails', selected_state = '')}}">
                     <input list="mylist" name="selected_state" id="state" placeholder="Where would you like to go? Select City Name">
                     <datalist id="mylist">
                         {% for location in locations %}
-                        <option> {{location.state}} </option>
+                        <option> {{location}} </option>
                         {% endfor %}
                     </datalist>
                     

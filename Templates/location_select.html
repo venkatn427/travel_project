@@ -31,7 +31,11 @@
                 <li><a href="#">blog</a></li>
                 <li><a href="{{ url_for ('about')}}">about us</a></li>
                 <li><a href="{{ url_for ('contactus')}}">contact us</a></li>
+                {% if username %}
                 <li><a href= "{{ url_for('logout') }}" >Logout</a></li>
+                {% else %}
+                <li><a href= "{{ url_for('login') }}" >Logout</a></li>
+                {% endif %}
             </ul>
             </div>
 

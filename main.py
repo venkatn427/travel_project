@@ -1,5 +1,6 @@
 from flask import Flask, url_for, render_template, request, redirect, flash, session
-from utils.database_scripts import insert_query_user, create_table_update_contact, find_user_login, get_all_cities, log_user_session, update_user_new_login, select_all_from_table, get_all_states, select_all_with_join,update_user_password
+from utils.database_scripts import insert_query_user, create_table_update_contact, find_user_login, log_user_session, \
+    update_user_new_login, select_all_from_table, update_user_password, get_all_states_and_cities
 from flask_session import Session
 import os
 
@@ -15,24 +16,24 @@ app.config.update(SECRET_KEY=os.urandom(24))
 app.config.from_object(__name__)
 Session(app)
 
-
-@app.route('/')
-def home():
-    return redirect(url_for("site_home"))
-
 @app.route('/travelblog/about')
 def about():
     return render_template('about.html', image_ruchi = "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/dev-images/ruchi.jpg")
 
 @app.route('/travelblog/home')
 def site_home():
-    locations = get_all_states()
-    return render_template('index.html', msg='', login=url_for("login"), locations=locations)
+    locations = get_all_states_and_cities()['state']
+    return render_template('index.html', msg='', login=url_for("login"), locations=locations, selected_state="selected_state")
+
+# Define aliases for other URL endpoints
+app.add_url_rule("/home", "home_alias", site_home)
+app.add_url_rule("/welcome", "welcome_alias", site_home)
+app.add_url_rule("/", "initial_alias", site_home)
 
 def get_locationdata(selected_state): 
  #   where_clause = "state = '" + selected_state + "' and locationcategorytype ='" + locationcat + "'" and "description not like" + "'" +"%Kapu is a beach village in coastal Karnataka%" + "';"
     where_clause = "state = '" + selected_state + "';" 
-    data = select_all_from_table('location_new', where_clause)
+    data = select_all_from_table('locations', where_clause)
     card_data = []
     for i, each in enumerate(data):
         location = {}
@@ -46,75 +47,22 @@ def get_locationdata(selected_state):
         location['class'] = each[1] + str(i)
         card_data.append(location)
     return card_data 
-
-def get_mapdata(selected_city):
-    card_data = []
-    data = select_all_with_join(selected_city)
-    for i, each in enumerate(data):
-        location = {}
-        location['title'] = each[0]
-        location['name'] = each[1]
-        location['description'] = each[2]
-        location['image'] = "https://im.hunt.in/cg/Vijayawada/City-Guide/xMary-Matha-Shrine.jpg"
-        location['map_link'] = each[4]
-        location['distancefromcitycenter'] = each[3]
-        location['rating'] = str(each[5])
-        location['class'] = each[0] + str(i)
-        print(each[0], each[1], each[4], each[5])
-        card_data.append(location)
-    return card_data  
-    
-def get_locationdata_new(selected_state):
-    where_clause = "city = '" + selected_state + "'"
-    data = select_all_from_table('city_places', where_clause)
-    card_data = []
-    for i, each in enumerate(data):
-        location_details = {}
-        location_details['title'] = selected_state
-        location_details['name'] = each[2]
-        location_details['description'] = each[5]
-        location_details['image'] = "https://im.hunt.in/cg/Vijayawada/City-Guide/xMary-Matha-Shrine.jpg"
-        location_details['class'] = each[1] + str(i)
-        card_data.append(location_details)
-    return card_data  
-
-@app.route('/travelblog/locationnewtest', methods=['GET', 'POST'])
-def locationdetails_new():
-    if 'username' in session:
-        username = session["username"]
-    else:
-        username = None
-    selected_city = request.form.get('selected_state')
-    locations = get_all_cities()
-    cities = [location['city'] for location in locations] 
-    if selected_city in cities:
-        print(selected_city)
-        session['state'] = selected_city
-    else:
-        selected_city = "Agartala"
-    #     locationcat = 'beaches' 
-    # session['location'] = locationcat
-    card_data = get_mapdata(selected_city)
-    return render_template('location_select.html', username1= username, 
-                           city = selected_city,
-                           card_data=card_data)
-    
-@app.route('/travelblog/profile/locationdetails', methods=['GET', 'POST'])
-def locationdetails():
+   
+@app.route('/travelblog/profile/location/<selected_state>', methods=['GET', 'POST'])
+def locationdetails(selected_state):
     if 'username' in session:
         username = session["username"]
     else:
         username = None
     selected_state = request.form.get('selected_state')
-    locations = get_all_states() 
-    print(selected_state, [location for location in locations])
-    if selected_state in [location['state'] for location in locations]:
-        print(locations)
+    locations = get_all_states_and_cities()['state']
+    print(locations)
+    print(selected_state)
+    if selected_state in locations:
         session['state'] = selected_state
     else:
         selected_state = "Karnataka"
     card_data = get_locationdata(selected_state)
-    print(card_data)
     return render_template('location_select.html', username1= username, 
                            state = selected_state, 
                            locationcat = '',
@@ -190,7 +138,7 @@ def reset_password():
     
 @app.route('/travelblog/profile/<username>')
 def profile(username):
-    locations = get_all_states()
+    locations = get_all_states_and_cities()['state']
     print(locations)
     return render_template('profile.html', username1=username, locations=locations)
    
@@ -201,7 +149,6 @@ def contactus():
         email = request.form['email']
         phone = request.form['phone']
         message = request.form['message']
-        print(name, email, phone, message )
         create_table_update_contact(name, email, phone, message)
         return redirect(url_for("site_home", username=name)) 
     return render_template('contact.html')
@@ -214,7 +161,7 @@ def logout():
         session.pop('username', None)
         session.pop('sid', None)
         log_user_session(username, session_id)
-    locations = get_all_states()
+    locations = get_all_states_and_cities()['state']
     return render_template('index.html', msg='', login=url_for("login"), locations=locations)
 
 
