@@ -27,7 +27,7 @@ def update_user_password(username, newpassword):
 def get_all_states_and_cities():
     connection = sqlite3.connect(database_nm)
     cur = connection.cursor()
-    cols = ["state", "city"]
+    cols = ["state", "city", "category"]
     location_all = {}
     for col in cols:
         query = f"select distinct {col} from locations;"

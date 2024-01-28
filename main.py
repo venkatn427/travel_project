@@ -30,9 +30,15 @@ app.add_url_rule("/home", "home_alias", site_home)
 app.add_url_rule("/welcome", "welcome_alias", site_home)
 app.add_url_rule("/", "initial_alias", site_home)
 
-def get_locationdata(selected_state): 
- #   where_clause = "state = '" + selected_state + "' and locationcategorytype ='" + locationcat + "'" and "description not like" + "'" +"%Kapu is a beach village in coastal Karnataka%" + "';"
-    where_clause = "state = '" + selected_state + "';" 
+def get_locationdata(selected_state, selected_city=None,  selected_category=None):
+    if selected_state:
+        where_clause = "state = '" + selected_state 
+    if selected_city:
+        where_clause = where_clause + "city = '" + selected_city 
+    if selected_category:
+        where_clause = where_clause + "category = '" + selected_category
+    where_clause = where_clause + "';" 
+    print("test", where_clause) 
     data = select_all_from_table('locations', where_clause)
     card_data = []
     for i, each in enumerate(data):
@@ -47,25 +53,49 @@ def get_locationdata(selected_state):
         location['class'] = each[1] + str(i)
         card_data.append(location)
     return card_data 
+
+
+
+@app.route('/get_filtered_data', methods=['GET'])
+def get_filtered_data():
+    selected_state = request.form.get('stateselector')
+    selected_city = request.form.get('cityselector')
+    selected_category = request.form.get('categoryselector')
+    if 'username' in session:
+        username = session["username"]
+    else:
+        username = None
+    data_location  = get_all_states_and_cities()
+    print(selected_city, selected_category)
+    if selected_state in data_location['state']:
+        session['state'] = selected_state
+    else:
+        selected_state = "Karnataka"
+    card_data = get_locationdata(selected_state, selected_city,  selected_category)
+    # Render the filtered data in a template (replace with your actual template)
+    return render_template('location_select.html', username1= username, 
+                           state = selected_state, 
+                           data_location = data_location,
+                           card_data=card_data)
+
    
-@app.route('/travelblog/profile/location/<selected_state>', methods=['GET', 'POST'])
-def locationdetails(selected_state):
+@app.route('/travelblog/profile/location/<state>', methods=['GET', 'POST'])
+def locationdetails(state):
     if 'username' in session:
         username = session["username"]
     else:
         username = None
     selected_state = request.form.get('selected_state')
-    locations = get_all_states_and_cities()['state']
-    print(locations)
-    print(selected_state)
-    if selected_state in locations:
+    data_location  = get_all_states_and_cities()
+    if selected_state in data_location['state']:
         session['state'] = selected_state
     else:
         selected_state = "Karnataka"
     card_data = get_locationdata(selected_state)
+    print(data_location)
     return render_template('location_select.html', username1= username, 
                            state = selected_state, 
-                           locationcat = '',
+                           data_location = data_location,
                            card_data=card_data)
 
 @app.route('/login')

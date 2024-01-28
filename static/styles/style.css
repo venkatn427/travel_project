@@ -891,3 +891,18 @@ body.loggedin {
   color: white; /* Text color */
   padding: 10px; /* Adjust padding as needed */
 }
+
+.citySelector {
+    width: 200px; /* Set the width of the dropdown */
+    padding: 10px; /* Add padding to make it visually bigger */
+    font-size: 16px; /* Set the font size */
+    font-weight: bold; /* Make the text bold */
+    /* Add any other styling as needed */
+}
+
+.stateSelector {
+  width: 200px; /* Set the width of the dropdown */
+  padding: 10px; /* Add padding to make it visually bigger */
+  font-size: 16px; /* Set the font size */
+  font-weight: bold; /* Make the text bold */
+  /* Add any other styling as needed */
