@@ -88,3 +88,22 @@ def log_user_session(username, session_id):
     cur.execute(sql_statement)
     connection.commit()
     connection.close()
+    
+def get_city_and_cat_state():
+    connection = sqlite3.connect(database_nm)
+    cur = connection.cursor()
+    location_all = {}
+    query = f"select distinct state from locations;"
+    result = cur.execute(query).fetchall()
+    all_states = [location[0] for location in result]
+    location_all['state'] = all_states
+    location_all['cities'] = {}
+    location_all['categories'] = {}
+    for state in all_states:
+        query = f"select distinct city from locations where state = '{state}';"
+        result = cur.execute(query).fetchall()
+        location_all['cities'][state] = [location[0] for location in result]
+        query = f"select distinct category from locations where state = '{state}';"
+        result = cur.execute(query).fetchall()
+        location_all['categories'][state] = [category[0] for category in result]  
+    return location_all 

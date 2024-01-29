@@ -1,0 +1,38 @@
+.container {
+    display: flex;
+    min-height: 100vh;
+  }
+  
+  .search-bar {
+    flex: 1;
+    background-color: #f2f2f2;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh; /* Adjust height as needed */
+    z-index: 1; /* Ensure it stays on top */
+  }
+  
+  .card-container {
+    flex: 2;
+    padding: 20px;
+    overflow-y: scroll; /* Enable scrolling for card container */
+  }
+  
+  .card {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Additional styling for cards */
+  .card h2 {
+    margin-top: 0;
+  }
+  
+  .card p {
+    margin-bottom: 0;
+  }
+  

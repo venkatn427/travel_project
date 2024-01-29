@@ -1,6 +1,6 @@
 from flask import Flask, url_for, render_template, request, redirect, flash, session
 from utils.database_scripts import insert_query_user, create_table_update_contact, find_user_login, log_user_session, \
-    update_user_new_login, select_all_from_table, update_user_password, get_all_states_and_cities
+    update_user_new_login, select_all_from_table, update_user_password, get_all_states_and_cities, get_city_and_cat_state
 from flask_session import Session
 import os
 
@@ -54,7 +54,14 @@ def get_locationdata(selected_state, selected_city=None,  selected_category=None
         card_data.append(location)
     return card_data 
 
+from flask import Flask, render_template, jsonify
 
+@app.route('/get_cities_and_categories/<selected_state>')
+def get_cities_and_categories(selected_state):
+    datalocation = get_city_and_cat_state()
+    cities = datalocation['cities'].get(selected_state, [])
+    categories = datalocation['categories'].get(selected_state, [])
+    return jsonify({'cities': cities, 'categories': categories})
 
 @app.route('/get_filtered_data', methods=['GET'])
 def get_filtered_data():
@@ -72,6 +79,7 @@ def get_filtered_data():
     else:
         selected_state = "Karnataka"
     card_data = get_locationdata(selected_state, selected_city,  selected_category)
+    print(selected_city. selected_state, selected_category)
     # Render the filtered data in a template (replace with your actual template)
     return render_template('location_select.html', username1= username, 
                            state = selected_state, 

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/style.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/tamilnadu_devo.css') }}">
+    <title>Location</title>
+</head>
+
+<body>
+
+    <!--===========Nav Bar=================-->
+    <section class="nav-bar">
+        <ul class="menu">
+            <script>
+                var username = "{{ username1 }}";
+                if (username) {
+                    document.write('<div class="logo"> Welcome, ' + username + '</div>');
+                } else {
+                    document.write('<div class="logo"> {{ state }} </div>');
+                }
+            </script>
+            <li><a href="{{ url_for('site_home') }}">home</a></li>
+            <li><a href="#">blog</a></li>
+            <li><a href="{{ url_for ('about')}}">about us</a></li>
+            <li><a href="{{ url_for ('contactus')}}">contact us</a></li>
+            {% if username %}
+            <li><a href="{{ url_for('logout') }}">Logout</a></li>
+            {% else %}
+            <li><a href="{{ url_for('login') }}">Login</a></li>
+            {% endif %}
+            <!-- Option Selector (Dropdown) in the middle above the body -->
+            
+        </ul>
+    </section>
+
+    <!--===============Banner================-->
+    <article>
+        <div class="logo" align="center">Welcome to {{ state }} </div>
+        <!-- Include a form tag around your input elements -->
+        <div class="left-container">
+            <div class="sidebar"> <div class="dropdown">
+            <button class="dropdown-button">Dropdown</button>
+            <div class="dropdown-content">
+              <a href="#">Option 1</a>
+              <a href="#">Option 2</a>
+              <a href="#">Option 3</a>
+            </div>
+          </div>
+        
+          <div class="tile"> <h2>Tile Title</h2>
+            <p>Tile content goes here.</p>
+          </div>
+        </div>
+        <div class="right-container">
+            <form id="locationForm" method="POST" action="{{ url_for('locationdetails', state = 'state') }}">
+                <label for="stateselector">Select a State:</label>
+                <input list="states" id="stateselector" name="stateselector">
+                <datalist id="states">
+                    {% for state in data_location.state %}
+                    <option value="{{ state }}">
+                    {% endfor %}
+                </datalist>
+
+                <label for="cityselector">Select a City:</label>
+                <input list="cities" id="cityselector" name="cityselector">
+                <datalist id="cities">
+                    {% for location in data_location.city %}
+                    <option value="{{ location }}">
+                    {% endfor %}
+                </datalist>
+
+                <label for="categoryselector">Select a Category:</label>
+                <input list="categories" id="categoryselector" name="categoryselector">
+                <datalist id="categories">
+                    {% for category in data_location.category %}
+                    <option value="{{ category }}">
+                    {% endfor %}
+                </datalist>
+
+                <!-- Add a submit button -->
+                <button type="search">Submit</button>
+            </form>
+
+        <div class="card-container">
+            {% for card in card_data %}
+            <div class="card {{ card.class }}">
+                <div class="visual">
+                    <img class="resizable-image" src={{ card.image }} alt="img" />
+                </div>
+                <div class="text-content">
+                    <h3>{{ card.name }}</h3>
+                    <p> {{ card.description }}</p>
+                    <a href="{{ card.map_reflink }}" target="_blank">Go to Maps</a>
+                </div>
+
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    </div>
+    </article>
+
+    <div id="username_">{{ username }}</div>
+    <div id="chat-window" class="chat-window">
+        <div class="chat-header">
+            Hello {{ username1 }}, How can I Help?
+            <button id="toggle-chat" class="minimize-button">-</button>
+        </div>
+        <div id="chat-output"></div>
+        <input type="text" id="user-input" placeholder="Type a message...">
+        <button id="send-button">Send</button>
+    </div>
+
+    <script src="{{ url_for('static', filename='styles/chat.js') }}"></script>
+    <script>
+        $(document).ready(function () {
+            $("#locationForm").submit(function (event) {
+                event.preventDefault();
+                var formData = {
+                    'stateselector': $('#stateselector').val(),
+                    'cityselector': $('#cityselector').val(),
+                    'categoryselector': $('#categoryselector').val()
+                };
+
+                // Display selected values (you can customize this part)
+                $('#selectedValues').html(JSON.stringify(formData));
+            });
+        });
+    </script>
+
+</body>
+
+</html>

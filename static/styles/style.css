@@ -906,3 +906,35 @@ body.loggedin {
   font-size: 16px; /* Set the font size */
   font-weight: bold; /* Make the text bold */
   /* Add any other styling as needed */
+}
+
+.main-content {
+  display: flex;
+}
+
+.side-menu {
+  width: 100%; /* Adjust the width as needed */
+  padding: 10px;
+  font-size: 18px;
+}
+
+.side-menu select {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px; /* Set the font size for the dropdown */
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.card-container {
+  flex-grow: 1;
+  padding: 1px;
+  /* Additional styling for the card container */
+}
+
+/* Additional styling to align items */
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

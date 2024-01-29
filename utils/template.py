@@ -1,4 +1,4 @@
-from database_scripts import insert_or_update_location, create_table, get_all_states_and_cities
+from database_scripts import insert_or_update_location, create_table, get_city_and_cat_state
 csv_file_path = "/Users/venkat/Desktop/TravelProjecr/travelprojectnew/database/travel_Hub_locations.xlsx"
 import pandas as pd 
 # create_table()
@@ -19,4 +19,4 @@ import pandas as pd
 #         map_reflink = val[5]
         
 #         insert_or_update_location(state, place, city, description, locationcattype, image, map_reflink)
-print(get_all_states_and_cities())
+print(get_city_and_cat_state())
